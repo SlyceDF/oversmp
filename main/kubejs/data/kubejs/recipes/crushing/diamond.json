@@ -1,0 +1,15 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "tag": "forge:gems/diamond"
+    }
+  ],
+  "results": [
+    {
+      "item": "create_ore_excavation_plus:raw_diamond_dust",
+      "count": 1
+    }
+  ],
+  "processingTime": 400
+}

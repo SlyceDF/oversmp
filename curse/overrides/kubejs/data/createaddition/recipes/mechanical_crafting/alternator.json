@@ -1,0 +1,35 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+  	"  A  ",
+  	" iMi ",
+    "IsRsI",
+    " ICI "
+  ],
+  "key": {
+    "C": {
+      "item": "createaddition:capacitor"
+    },
+    "I": {
+      "tag": "forge:plates/iron"
+    },
+    "i": {
+      "item": "kubejs:magnetite"
+    },
+    "R": {
+      "tag": "forge:rods/iron"
+    },
+    "M": {
+      "item": "kubejs:generating_coil"
+    },
+    "s": {
+      "tag": "kubejs:solenoid"
+    },
+    "A": {
+      "tag": "kubejs:inductive_mechanism"
+    }
+  },
+  "result": {
+    "item": "createaddition:alternator"
+  }
+}

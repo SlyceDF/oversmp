@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "createchromaticreturn:andesite_component"
+  },
+  "addition": {
+    "item": "quark:rope"
+  },
+  "result": {
+    "item": "create:rope_pulley",
+    "count": 24
+  }
+}

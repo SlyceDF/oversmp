@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "pap",
+    "apa",
+    "pap"
+  ],
+  "key": {
+    "a": {
+      "tag": "forge:nuggets/platinum"
+    },
+    "p": {
+      "tag": "forge:nuggets/aluminum"
+    }
+  },
+  "result": {
+    "item": "kubejs:alutinum",
+    "count": 3
+  }
+}

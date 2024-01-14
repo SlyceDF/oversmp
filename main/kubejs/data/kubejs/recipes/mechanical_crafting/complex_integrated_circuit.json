@@ -1,0 +1,28 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    "GRlRG",
+    " rtr "
+  ],
+  "key": {
+    "l": {
+      "item": "kubejs:integrated_circuit"
+    },
+    "R": {
+      "tag": "forge:rods/brass"
+    },
+    "r": {
+      "tag": "forge:dusts/redstone"
+    },
+    "G": {
+      "tag": "forge:nuggets/gold"
+    },
+    "t": {
+      "item": "kubejs:transmitting_coil"
+    }
+  },
+  "result": {
+    "item": "kubejs:complex_integrated_circuit"
+  },
+  "acceptMirrored": true
+}

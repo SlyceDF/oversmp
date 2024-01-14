@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:casting_basin",
+  "fluid": {
+    "name": "minecraft:lava",
+    "amount": 450
+  },
+  "result": "byg:dacite",
+  "cooling_time": 125
+}

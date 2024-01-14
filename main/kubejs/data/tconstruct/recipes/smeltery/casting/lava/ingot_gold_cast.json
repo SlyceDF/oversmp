@@ -1,0 +1,14 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "tag": "tconstruct:casts/multi_use/ingot"
+  },
+  "fluid": {
+    "name": "minecraft:lava",
+    "amount": 225
+  },
+  "result": {
+    "item": "kubejs:rich_slag_brick"
+  },
+  "cooling_time": 97
+}

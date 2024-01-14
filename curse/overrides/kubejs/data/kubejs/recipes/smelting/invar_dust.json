@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "kubejs:invar_dust"
+  },
+  "result": "kubejs:invar_ingot",
+  "cookingtime": 200
+}

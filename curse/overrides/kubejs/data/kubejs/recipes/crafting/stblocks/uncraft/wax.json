@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "kubejs:wax"
+    }
+  ],
+  "result": {
+    "item": "kubejs:wax_mote",
+    "count": 4
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "tag": "overchisel:warped_magma_sap_extractable"
+    },
+    {
+      "tag": "overchisel:warped_magma_sap_extractable"
+    },
+    {
+      "tag": "overchisel:warped_magma_sap_extractable"
+    },
+    {
+      "tag": "overchisel:warped_magma_sap_extractable"
+    },
+    {
+      "tag": "overchisel:warped_magma_sap_extractable"
+    },
+    {
+      "tag": "overchisel:warped_magma_sap_extractable"
+    },
+    {
+      "item": "minecraft:bucket"
+    },
+    {
+      "fluid": "minecraft:lava",
+      "amount": 500
+    }
+  ],
+  "results": [
+    {
+      "item": "overchisel:warped_magma_sap_bucket"
+    }
+  ]
+}

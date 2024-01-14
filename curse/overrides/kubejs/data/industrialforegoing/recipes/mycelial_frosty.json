@@ -1,0 +1,46 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "values": [
+            {
+              "item": "industrialforegoing:mycelial_frosty",
+              "type": "forge:item_exists"
+            }
+          ],
+          "type": "forge:and"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+          "BLB",
+          "BCB",
+          "RMR"
+        ],
+        "key": {
+          "R": {
+            "item": "minecraft:redstone"
+          },
+          "B": {
+            "item": "minecraft:snowball"
+          },
+          "C": {
+            "item": "minecraft:ice"
+          },
+          "M": {
+            "tag": "industrialforegoing:machine_frame/simple"
+          },
+          "L": {
+            "item": "kubejs:generating_coil"
+          }
+        },
+        "result": {
+          "item": "industrialforegoing:mycelial_frosty"
+        }
+      }
+    }
+  ]
+}

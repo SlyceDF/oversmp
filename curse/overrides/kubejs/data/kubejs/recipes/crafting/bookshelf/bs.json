@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ppp",
+    "bbb",
+    "ppp"
+  ],
+  "key": {
+    "b": {
+      "item": "minecraft:book"
+    },
+    "p": {
+      "item": "tconstruct:bloodshroom_planks"
+    }
+  },
+  "result": {
+    "item": "kubejs:bloodshroom_bookshelf"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "kubejs:copper_machine"
+  },
+  "addition": {
+    "item": "compressedcreativity:compressed_iron_casing"
+  },
+  "result": {
+    "item": "compressedcreativity:industrial_air_blower",
+    "count": 18
+  }
+}

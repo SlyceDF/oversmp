@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient":
+    {
+      "item": "ae2:name_press"
+    },
+  "result": "kubejs:invar_nugget",
+  "count": 9
+}

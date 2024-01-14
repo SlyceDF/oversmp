@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "createchromaticreturn:andesite_component"
+  },
+  "addition": {
+    "tag": "extendedgears:large_cogwheel"
+  },
+  "result": {
+    "item": "create:display_board",
+    "count": 52
+  }
+}

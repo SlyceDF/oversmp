@@ -1,0 +1,23 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "kubejs:enriched_uranium_nuclear_fuel"
+    },
+    {
+      "fluid": "industrialforegoing:biofuel",
+      "amount": 480
+    },
+    {
+      "fluid": "pneumaticcraft:lpg",
+      "amount": 500
+    }
+  ],
+  "results": [
+    {
+      "fluid": "kubejs:liquified_uranium_nuclear_fuel",
+      "amount": 1000
+    }
+  ],
+  "heatRequirement": "superheated"
+}

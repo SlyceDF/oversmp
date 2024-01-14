@@ -1,0 +1,97 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "farmersdelight:pie_crust"
+  },
+  "transitionalItem": {
+    "item": "kubejs:incomplete_pie"
+  },
+  "sequence": [
+{
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_pie"
+        },
+        {
+          "item": "byg:crimson_berries"
+        }
+      ],
+  "results": [
+    {
+          "item": "kubejs:incomplete_pie"
+  }
+ ]
+    },
+{
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_pie"
+        },
+        {
+          "item": "byg:crimson_berries"
+        }
+      ],
+  "results": [
+    {
+          "item": "kubejs:incomplete_pie"
+  }
+ ]
+    },
+{
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_pie"
+        },
+        {
+          "item": "byg:crimson_berries"
+        }
+      ],
+  "results": [
+    {
+          "item": "kubejs:incomplete_pie"
+  }
+ ]
+    },
+{
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_pie"
+        },
+        {
+          "item": "byg:crimson_berries"
+        }
+      ],
+  "results": [
+    {
+          "item": "kubejs:incomplete_pie"
+  }
+ ]
+    },
+{
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_pie"
+        },
+        {
+          "item": "minecraft:sugar"
+        }
+      ],
+  "results": [
+    {
+          "item": "kubejs:incomplete_pie"
+  }
+ ]
+    }
+  ],
+  "results": [
+    {
+      "item": "byg:crimson_berry_pie"
+    }
+  ],
+  "loops": 1
+}

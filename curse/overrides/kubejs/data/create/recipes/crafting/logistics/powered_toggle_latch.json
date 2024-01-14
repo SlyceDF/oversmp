@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "T ",
+    "CP"
+  ],
+  "key": {
+    "T": {
+      "item": "minecraft:redstone_torch"
+    },
+    "C": {
+      "item": "minecraft:lever"
+    },
+    "P": {
+      "item": "supercircuitmaker:circuit"
+    }
+  },
+  "result": {
+    "item": "create:powered_toggle_latch"
+  }
+}

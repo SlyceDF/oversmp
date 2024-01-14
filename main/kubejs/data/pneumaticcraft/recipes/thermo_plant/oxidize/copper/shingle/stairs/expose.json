@@ -1,0 +1,20 @@
+{
+  "type": "pneumaticcraft:thermo_plant",
+  "item_input": {
+    "item": "create:copper_shingle_stairs"
+  },
+  "fluid_input": {
+    "type": "pneumaticcraft:fluid",
+    "fluid": "chemlib:oxygen_fluid",
+    "amount": 3
+  },
+  "item_output": {
+    "item": "create:exposed_copper_shingle_stairs"
+  },
+  "temperature": {
+    "min_temp": 313
+  },
+  "pressure": 1.5,
+  "speed": 6,
+  "exothermic": false
+}

@@ -1,0 +1,21 @@
+{
+  "type": "pneumaticcraft:refinery",
+  "input": {
+    "type": "pneumaticcraft:fluid",
+    "tag": "forge:ethanol",
+    "amount": 10
+  },
+  "temperature": {
+    "min_temp": 371
+  },
+  "results": [
+    {
+      "fluid": "chemlib:ethylene_fluid",
+      "amount": 10
+    },
+    {
+      "fluid": "minecraft:water",
+      "amount": 10
+    }
+  ]
+}

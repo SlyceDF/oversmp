@@ -1,0 +1,35 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "kubejs:amethyst_seed"
+  },
+  "transitionalItem": {
+    "item": "kubejs:growing_amethyst_seed"
+  },
+  "sequence": [
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "kubejs:growing_amethyst_seed"
+    },
+    {
+      "fluid": "minecraft:water",
+      "amount": 1000
+    }
+  ],
+  "results": [
+    {
+          "item": "kubejs:growing_amethyst_seed"
+  }
+ ]
+}
+  ],
+  "results": [
+    {
+      "item": "kubejs:industrial_amethyst",
+      "count": 1
+    }
+  ],
+  "loops": 4
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "pp",
+    "pp"
+  ],
+  "key": {
+    "p": {
+      "item": "byg:windswept_sandstone_pillar"
+    }
+  },
+  "result": {
+    "item": "quark:iron_pillar",
+    "count": 3
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "A  ",
+    "AA ",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "tag": "forge:storage_blocks/slag"
+    }
+  },
+  "result": {
+    "item": "kubejs:slag_stairs",
+    "count": 4
+  }
+}

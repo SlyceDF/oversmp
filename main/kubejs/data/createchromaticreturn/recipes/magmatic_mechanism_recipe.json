@@ -1,0 +1,70 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "createchromaticreturn:shadow_mechanism"
+  },
+  "transitionalItem": {
+    "item": "kubejs:incomplete_magmatic_mechanism"
+  },
+  "sequence": [
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "kubejs:incomplete_magmatic_mechanism"
+    },
+    {
+      "fluid": "minecraft:lava",
+      "nbt": {},
+      "amount": 500
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:incomplete_magmatic_mechanism"
+    }
+  ]
+},
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "kubejs:incomplete_magmatic_mechanism"
+    },
+    {
+      "fluid": "tconstruct:magma",
+      "nbt": {},
+      "amount": 500
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:incomplete_magmatic_mechanism"
+    }
+  ]
+},
+{
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_magmatic_mechanism"
+        },
+        {
+          "tag": "kubejs:infernal_mechanism"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:incomplete_magmatic_mechanism"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "createchromaticreturn:magmatic_mechanism",
+      "count": 1
+    }
+  ],
+  "loops": 2
+}

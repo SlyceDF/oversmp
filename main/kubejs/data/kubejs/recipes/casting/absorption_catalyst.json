@@ -1,0 +1,13 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "tag": "forge:plates/rose_quartz"
+  },
+  "cast_consumed": true,
+  "fluid": {
+    "tag": "forge:volatile_sky_liquid",
+    "amount": 16000
+  },
+  "result": "kubejs:absorption_catalyst",
+  "cooling_time": 400
+}

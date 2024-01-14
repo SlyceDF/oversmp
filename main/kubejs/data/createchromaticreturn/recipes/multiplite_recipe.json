@@ -1,0 +1,108 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "createchromaticreturn:refined_radiance"
+    },
+    {
+      "item": "createchromaticreturn:refined_radiance"
+    },
+    {
+      "item": "createchromaticreturn:refined_radiance"
+    },
+    {
+      "item": "createchromaticreturn:refined_radiance"
+    },
+    {
+      "item": "createchromaticreturn:refined_radiance"
+    },
+    {
+      "item": "createchromaticreturn:refined_radiance"
+    },
+    {
+      "item": "createchromaticreturn:refined_radiance"
+    },
+    {
+      "item": "createchromaticreturn:refined_radiance"
+    },
+    {
+      "item": "createchromaticreturn:refined_radiance"
+    },
+    {
+      "item": "createchromaticreturn:refined_radiance"
+    },
+    {
+      "item": "createchromaticreturn:refined_radiance"
+    },
+    {
+      "item": "createchromaticreturn:refined_radiance"
+    },
+    {
+      "item": "createchromaticreturn:refined_radiance"
+    },
+    {
+      "item": "createchromaticreturn:refined_radiance"
+    },
+    {
+      "item": "createchromaticreturn:refined_radiance"
+    },
+    {
+      "item": "createchromaticreturn:refined_radiance"
+    },
+    {
+      "item": "minecraft:dragon_breath"
+    },
+    {
+      "item": "minecraft:dragon_breath"
+    },
+    {
+      "item": "minecraft:dragon_breath"
+    },
+    {
+      "item": "minecraft:dragon_breath"
+    },
+    {
+      "item": "minecraft:dragon_breath"
+    },
+    {
+      "item": "minecraft:dragon_breath"
+    },
+    {
+      "item": "minecraft:dragon_breath"
+    },
+    {
+      "item": "minecraft:dragon_breath"
+    },
+    {
+      "item": "minecraft:shulker_shell"
+    },
+    {
+      "item": "minecraft:shulker_shell"
+    },
+    {
+      "item": "minecraft:shulker_shell"
+    },
+    {
+      "item": "minecraft:shulker_shell"
+    },
+    {
+      "item": "minecraft:shulker_shell"
+    },
+    {
+      "item": "minecraft:shulker_shell"
+    },
+    {
+      "item": "minecraft:shulker_shell"
+    },
+    {
+      "item": "minecraft:shulker_shell"
+    }
+  ],
+  "results": [
+    {
+      "item": "createchromaticreturn:multiplite_ingot",
+      "count": 12
+    }
+  ],
+  "heatRequirement": "superheated"
+}

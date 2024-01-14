@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "kubejs:electrum_dust"
+  },
+  "result": "kubejs:electrum_ingot",
+  "cookingtime": 100
+}

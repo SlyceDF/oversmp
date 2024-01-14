@@ -1,0 +1,18 @@
+{
+  "type": "pneumaticcraft:thermo_plant",
+  "item_input": {
+    "item": "kubejs:drill_head"
+  },
+  "fluid_input": {
+    "type": "pneumaticcraft:fluid",
+    "fluid": "tconstruct:molten_iron",
+    "amount": 360
+  },
+  "item_output": {
+    "item": "pneumaticcraft:drill_bit_iron"
+  },
+  "pressure": 3.0,
+  "speed": 0.5,
+  "air_use_multiplier": 2.0,
+  "exothermic": false
+}

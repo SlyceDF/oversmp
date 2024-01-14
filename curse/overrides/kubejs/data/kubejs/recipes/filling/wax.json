@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "kubejs:wax"
+    },
+    {
+      "fluid": "create:honey",
+      "nbt": {},
+      "amount": 400
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:honeycomb_block"
+    }
+  ]
+}

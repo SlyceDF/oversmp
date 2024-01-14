@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "tag": "tconstruct:casts/multi_use/plate"
+  },
+  "fluid": {
+    "tag": "forge:experience",
+    "amount": 60
+  },
+  "result": "create_things_and_misc:experience_sheet",
+  "cooling_time": 30
+}

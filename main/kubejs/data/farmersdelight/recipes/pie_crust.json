@@ -1,0 +1,25 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "item": "create:dough"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "fluid": "minecraft:milk",
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "item": "farmersdelight:pie_crust",
+      "count": 1
+    }
+  ],
+ "heatRequirement": "heated"
+}

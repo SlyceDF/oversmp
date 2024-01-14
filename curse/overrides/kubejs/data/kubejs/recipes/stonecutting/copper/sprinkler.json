@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 44,
+  "ingredient": {
+    "item": "kubejs:copper_machine"
+  },
+  "result": "sliceanddice:sprinkler"
+}

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GRG",
+    "SGS",
+    "BCB"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:iron_bars"
+    },
+    "R": {
+      "item": "minecraft:lightning_rod"
+    },
+    "C": {
+      "item": "pneumaticcraft:advanced_air_compressor"
+    },
+    "S": {
+      "tag": "kubejs:solenoid"
+    },
+    "G": {
+      "item": "kubejs:absorbing_coil"
+    }
+  },
+  "result": {
+    "item": "pneumaticcraft:electrostatic_compressor"
+  }
+}

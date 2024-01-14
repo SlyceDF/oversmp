@@ -1,0 +1,35 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+  	"SiS",
+    " A ",
+    "CBC",
+    "PEP"
+  ],
+  "key": {
+  	"A": {
+      "tag": "kubejs:inductive_mechanism"
+    },
+    "C": {
+      "item": "createaddition:capacitor"
+    },
+    "P": {
+      "tag": "forge:plates/brass"
+    },
+    "B": {
+      "item": "create:brass_casing"
+    },
+    "S": {
+      "tag": "kubejs:solenoid"
+    },
+    "i": {
+      "item": "kubejs:absorbing_coil"
+    },
+    "E": {
+      "item": "create:electron_tube"
+    }
+  },
+  "result": {
+    "item": "createaddition:tesla_coil"
+  }
+}

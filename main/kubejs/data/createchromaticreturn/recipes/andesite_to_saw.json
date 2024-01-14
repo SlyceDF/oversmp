@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "createchromaticreturn:andesite_component"
+  },
+  "addition": {
+    "item": "kubejs:saw_blade"
+  },
+  "result": {
+    "item": "create:mechanical_saw",
+    "count": 32
+  }
+}

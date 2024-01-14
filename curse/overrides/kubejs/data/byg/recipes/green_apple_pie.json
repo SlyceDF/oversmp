@@ -1,0 +1,98 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "farmersdelight:pie_crust"
+  },
+  "transitionalItem": {
+    "item": "kubejs:incomplete_pie"
+  },
+  "sequence": [
+{
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_pie"
+        },
+        {
+          "item": "byg:green_apple"
+        }
+      ],
+  "results": [
+    {
+          "item": "kubejs:incomplete_pie"
+  }
+ ]
+    },
+{
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_pie"
+        },
+        {
+          "item": "byg:green_apple"
+        }
+      ],
+  "results": [
+    {
+          "item": "kubejs:incomplete_pie"
+  }
+ ]
+    },
+{
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_pie"
+        },
+        {
+          "item": "byg:green_apple"
+        }
+      ],
+  "results": [
+    {
+          "item": "kubejs:incomplete_pie"
+  }
+ ]
+    },
+{
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_pie"
+        },
+        {
+          "item": "minecraft:sugar"
+        }
+      ],
+  "results": [
+    {
+          "item": "kubejs:incomplete_pie"
+  }
+ ]
+    },
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "kubejs:incomplete_pie"
+    },
+    {
+      "fluid": "create:honey",
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+          "item": "kubejs:incomplete_pie"
+  }
+ ]
+}
+  ],
+  "results": [
+    {
+      "item": "byg:green_apple_pie"
+    }
+  ],
+  "loops": 1
+}

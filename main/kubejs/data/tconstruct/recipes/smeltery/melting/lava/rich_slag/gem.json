@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "kubejs:melt_rich_slag_gem"
+  },
+  "result": {
+    "fluid": "minecraft:lava",
+    "amount": 100
+  },
+  "temperature": 990,
+  "time": 79
+}

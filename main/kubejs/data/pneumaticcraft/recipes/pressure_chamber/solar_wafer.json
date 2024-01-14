@@ -1,0 +1,17 @@
+{
+  "type": "pneumaticcraft:pressure_chamber",
+  "inputs": [
+    {
+      "item": "pneumaticcraft:upgrade_matrix"
+    },
+    {
+      "item": "kubejs:amethyst_alloy"
+    }
+  ],
+  "pressure": 2.5,
+  "results": [
+    {
+      "item": "pneumaticcraft:solar_wafer"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+	"type":"createaddition:liquid_burning",
+	"input": {
+      	"fluid": "industrialforegoing:biofuel",
+      	"amount": 1000
+	},
+	"burnTime": 25600
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "forge:bricks/rich_slag"
+  },
+  "result": "kubejs:rich_slag_brick_slab",
+  "count": 2
+}

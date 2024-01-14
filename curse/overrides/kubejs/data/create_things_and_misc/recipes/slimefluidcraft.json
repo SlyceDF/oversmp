@@ -1,0 +1,20 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "fluid": "tconstruct:earth_slime",
+      "amount": 100
+    },
+    {
+      "fluid": "create:honey",
+      "amount": 100
+    }
+  ],
+  "results": [
+    {
+      "fluid": "create_things_and_misc:slime",
+      "amount": 10
+    }
+  ],
+  "heatRequirement": "heated"
+}

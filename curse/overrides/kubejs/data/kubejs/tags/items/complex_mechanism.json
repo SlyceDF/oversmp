@@ -1,0 +1,17 @@
+{
+  "replace": "false",
+  "values": [
+    "kubejs:inductive_mechanism",
+    "kubejs:universal_mechanism",
+    "create_things_and_misc:vibration_mechanism",
+    "create:precision_mechanism",
+    "createchromaticreturn:shadow_mechanism",
+    "createchromaticreturn:magmatic_mechanism",
+    "createchromaticreturn:annealed_mechanism",
+    "createchromaticreturn:refined_mechanism",
+    "kubejs:abstruse_mechanism",
+    "create_sa:heat_engine",
+    "create_sa:steam_engine",
+    "create_sa:hydraulic_engine"
+  ]
+}

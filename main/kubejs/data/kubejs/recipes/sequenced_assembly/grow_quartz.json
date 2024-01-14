@@ -1,0 +1,35 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "kubejs:quartz_seed"
+  },
+  "transitionalItem": {
+    "item": "kubejs:growing_quartz_cluster"
+  },
+  "sequence": [
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "kubejs:growing_quartz_cluster"
+    },
+    {
+      "fluid": "tconstruct:liquid_soul",
+      "amount": 1000
+    }
+  ],
+  "results": [
+    {
+          "item": "kubejs:growing_quartz_cluster"
+  }
+ ]
+}
+  ],
+  "results": [
+    {
+      "item": "byg:quartz_crystal",
+      "count": 1
+    }
+  ],
+  "loops": 5
+}

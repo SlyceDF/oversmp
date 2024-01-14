@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+      "item": "createchromaticreturn:brass_component"
+  },
+  "result": "kubejs:brass_machine",
+  "count": 1
+}

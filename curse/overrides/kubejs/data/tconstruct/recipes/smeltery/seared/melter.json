@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "iii",
+    "BGB",
+    "BBB"
+  ],
+  "key": {
+    "G": [
+      {
+        "item": "tconstruct:seared_fuel_gauge"
+      },
+      {
+        "item": "tconstruct:seared_ingot_gauge"
+      }
+    ],
+    "B": {
+      "item": "tconstruct:seared_brick"
+    },
+    "i": {
+      "tag": "forge:nuggets/invar"
+    }
+  },
+  "result": {
+    "item": "tconstruct:seared_melter"
+  }
+}

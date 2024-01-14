@@ -1,0 +1,23 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "overchisel:strengthened_string"
+    },
+    {
+      "item": "minecraft:bottle"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:string"
+    },
+    {
+      "item": "overchisel:resin_bottle"
+    },
+    {
+      "item": "overchisel:cellulose"
+    }
+  ],
+  "heatRequirement": "heated"
+}

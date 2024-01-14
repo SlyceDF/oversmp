@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 48,
+  "ingredient": {
+    "item": "kubejs:copper_machine"
+  },
+  "result": "createaddition:connector"
+}

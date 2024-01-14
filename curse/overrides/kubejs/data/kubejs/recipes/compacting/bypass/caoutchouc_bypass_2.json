@@ -1,0 +1,35 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "tag": "overchisel:latex_extractable"
+    },
+    {
+      "tag": "overchisel:latex_extractable"
+    },
+    {
+      "tag": "overchisel:latex_extractable"
+    },
+    {
+      "tag": "overchisel:latex_extractable"
+    },
+    {
+      "tag": "overchisel:latex_extractable"
+    },
+    {
+      "tag": "overchisel:latex_extractable"
+    },
+    {
+      "item": "minecraft:bucket"
+    },
+    {
+      "fluid": "minecraft:water",
+      "amount": 500
+    }
+  ],
+  "results": [
+    {
+      "item": "overchisel:latex_bucket"
+    }
+  ]
+}

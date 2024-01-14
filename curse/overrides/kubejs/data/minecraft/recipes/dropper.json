@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "r"
+  ],
+  "key": {
+    "#": {
+      "item": "quark:sturdy_stone"
+    },
+    "r": {
+      "tag": "forge:dusts/redstone"
+    }
+  },
+  "result": {
+    "item": "minecraft:dropper"
+  }
+}

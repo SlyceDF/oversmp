@@ -1,0 +1,8 @@
+{
+	"type":"createaddition:liquid_burning",
+	"input": {
+      	"fluid": "kubejs:pahoehoe_lava",
+      	"amount": 1000
+	},
+	"burnTime": 19000
+}

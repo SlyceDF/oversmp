@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#P#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:redstone_torch"
+    },
+    "P": {
+      "item": "supercircuitmaker:circuit"
+    }
+  },
+  "result": {
+    "item": "minecraft:repeater"
+  }
+}

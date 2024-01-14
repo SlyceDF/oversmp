@@ -1,0 +1,18 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "create:asurine"
+  },
+  "result": {
+    "fluid": "tconstruct:molten_zinc",
+    "amount": 60
+  },
+  "temperature": 477,
+  "time": 82,
+  "byproducts": [
+    {
+      "fluid": "tconstruct:molten_platinum",
+      "amount": 30
+    }
+  ]
+}

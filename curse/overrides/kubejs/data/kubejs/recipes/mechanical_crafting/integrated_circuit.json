@@ -1,0 +1,23 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    "GLLG",
+    "GQQG"
+  ],
+  "key": {
+    "L": {
+      "item": "kubejs:lapis_sheet"
+    },
+    "Q": {
+      "item": "create:polished_rose_quartz"
+    },
+    "G": {
+      "tag": "forge:nuggets/gold"
+    }
+  },
+  "result": {
+    "item": "kubejs:integrated_circuit",
+    "count": 2
+  },
+  "acceptMirrored": true
+}

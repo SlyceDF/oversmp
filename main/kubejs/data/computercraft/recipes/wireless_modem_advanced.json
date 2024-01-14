@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#E#",
+    "#V#"
+  ],
+  "key": {
+    "#": {
+      "item": "compressedcreativity:brass_gilded_lapis_lazuli"
+    },
+    "E": {
+      "item": "ae2:fluix_pearl"
+    },
+    "V": {
+      "tag": "kubejs:vibration_mechanism"
+    }
+  },
+  "result": {
+    "item": "computercraft:wireless_modem_advanced",
+    "count": 2
+  }
+}

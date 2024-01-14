@@ -1,0 +1,18 @@
+{
+  "type": "ae2:inscriber",
+  "mode": "press",
+  "result": {
+    "item": "ae2:engineering_processor"
+  },
+  "ingredients": {
+    "top": {
+      "item": "ae2:printed_engineering_processor"
+    },
+    "middle": {
+      "item": "kubejs:complex_integrated_circuit"
+    },
+    "bottom": {
+      "item": "ae2:printed_silicon"
+    }
+  }
+}

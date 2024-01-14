@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "kubejs:slag_brick_fence_gate"
+  },
+  "result": {
+    "fluid": "kubejs:pahoehoe_lava",
+    "amount": 2700
+  },
+  "temperature": 950,
+  "time": 2133
+}

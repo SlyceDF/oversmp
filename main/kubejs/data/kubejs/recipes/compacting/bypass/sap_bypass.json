@@ -1,0 +1,35 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "tag": "overchisel:sap_extractable"
+    },
+    {
+      "tag": "overchisel:sap_extractable"
+    },
+    {
+      "tag": "overchisel:sap_extractable"
+    },
+    {
+      "tag": "overchisel:sap_extractable"
+    },
+    {
+      "tag": "overchisel:sap_extractable"
+    },
+    {
+      "tag": "overchisel:sap_extractable"
+    },
+    {
+      "item": "minecraft:bucket"
+    },
+    {
+      "fluid": "minecraft:water",
+      "amount": 500
+    }
+  ],
+  "results": [
+    {
+      "item": "overchisel:sap_bucket"
+    }
+  ]
+}

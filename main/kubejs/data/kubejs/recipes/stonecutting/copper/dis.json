@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "kubejs:copper_machine"
+  },
+  "addition": {
+    "item": "kubejs:absorption_catalyst"
+  },
+  "result": {
+    "item": "create_enchantment_industry:disenchanter",
+    "count": 38
+  }
+}

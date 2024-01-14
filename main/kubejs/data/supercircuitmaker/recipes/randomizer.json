@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "tGt",
+    "RDR"
+  ],
+  "key": {
+    "R": { "item": "supercircuitmaker:tiny_redstone" },
+    "G": { "item": "minecraft:glowstone" },
+    "D": { "item": "minecraft:deepslate" },
+    "t": { "item": "kubejs:reserver_tube" }
+  },
+  "result": {
+    "item": "supercircuitmaker:randomizer",
+    "count": 4
+  }
+}

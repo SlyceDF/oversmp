@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "createchromaticreturn:andesite_component"
+  },
+  "addition": {
+    "tag": "forge:plates/andesite_alloy"
+  },
+  "result": {
+    "item": "create:mechanical_plough",
+    "count": 32
+  }
+}

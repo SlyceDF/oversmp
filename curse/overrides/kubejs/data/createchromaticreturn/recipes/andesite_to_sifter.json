@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "createchromaticreturn:andesite_component"
+  },
+  "addition": {
+    "tag": "createsifter:meshes"
+  },
+  "result": {
+    "item": "createsifter:sifter",
+    "count": 32
+  }
+}

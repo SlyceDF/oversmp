@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "tag": "forge:ingots/rich_slag"
+    }
+  },
+  "result": {
+    "item": "kubejs:rich_slag_brick_pressure_plate"
+  }
+}

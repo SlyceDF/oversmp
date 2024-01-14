@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "createchromaticreturn:brass_component"
+  },
+  "addition": {
+    "tag": "forge:workbenches"
+  },
+  "result": {
+    "item": "create:mechanical_crafter",
+    "count": 28
+  }
+}

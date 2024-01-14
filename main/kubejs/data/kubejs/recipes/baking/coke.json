@@ -1,0 +1,9 @@
+{
+        "type": "clayworks:baking",
+        "ingredient": {
+          "tag": "minecraft:coals"
+        },
+        "result": "kubejs:coke",
+        "experience": 0.1,
+        "cookingtime": 300
+}

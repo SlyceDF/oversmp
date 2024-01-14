@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "#N#",
+    "#R#"
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:plates/andesite_alloy"
+    },
+    "#": {
+      "tag": "forge:silicon"
+    },
+    "N": {
+      "tag": "kubejs:vibration_mechanism"
+    },
+    "R": {
+      "item": "minecraft:note_block"
+    }
+  },
+  "result": {
+    "item": "computercraft:speaker"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IVI",
+    "iFi",
+    "iEi"
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:plates/andesite_alloy"
+    },
+    "i": {
+      "tag": "forge:nuggets/iron"
+    },
+    "F": {
+      "item": "minecraft:furnace"
+    },
+    "E": {
+      "item": "ae2:energy_acceptor"
+    },
+    "V": {
+      "tag": "kubejs:vibration_mechanism"
+    }
+  },
+  "result": {
+    "item": "ae2:vibration_chamber",
+    "count": 1
+  }
+}

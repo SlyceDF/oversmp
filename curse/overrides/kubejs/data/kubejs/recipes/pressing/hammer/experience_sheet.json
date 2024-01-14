@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "overchisel:hammer"
+    },
+    {
+      "tag": "forge:nuggets/experience"
+    }
+  ],
+  "result": {
+    "item": "create_things_and_misc:experience_sheet",
+    "count": 1
+  }
+}

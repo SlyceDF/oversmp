@@ -1,0 +1,21 @@
+{
+  "type": "pneumaticcraft:refinery",
+  "input": {
+    "type": "pneumaticcraft:fluid",
+    "fluid": "minecraft:water",
+    "amount": 10
+  },
+  "temperature": {
+    "min_temp": 371
+  },
+  "results": [
+    {
+      "fluid": "chemlib:hydrogen_fluid",
+      "amount": 10
+    },
+    {
+      "fluid": "chemlib:oxygen_fluid",
+      "amount": 5
+    }
+  ]
+}

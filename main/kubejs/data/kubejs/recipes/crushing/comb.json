@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:honeycomb_block"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:honeycomb",
+      "count": 3
+    },
+    {
+      "item": "minecraft:honeycomb",
+      "chance": 0.5
+    }
+  ],
+  "processingTime": 200
+}

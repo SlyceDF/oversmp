@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "F",
+    "I",
+    "F"
+  ],
+  "key": {
+    "F": {
+      "item": "compressedcreativity:mesh_empty"
+    },
+    "I": {
+      "item": "quark:grate"
+    }
+  },
+  "result": {
+    "item": "compressedcreativity:mesh_dense"
+  }
+}

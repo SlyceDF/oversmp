@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "S",
+    "C",
+    "I"
+  ],
+  "key": {
+    "C": {
+      "item": "create:andesite_casing"
+    },
+    "S": {
+      "tag": "kubejs:kinetic_mechanism"
+    },
+    "I": {
+      "tag": "forge:storage_blocks/iron"
+    }
+  },
+  "result": {
+    "item": "create:mechanical_press"
+  }
+}

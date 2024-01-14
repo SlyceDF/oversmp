@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " S ",
+    "DAD",
+    " P "
+  ],
+  "key": {
+    "A": {
+      "item": "create:andesite_casing"
+    },
+    "S": {
+      "item": "create:shaft"
+    },
+    "P": {
+      "item": "create:propeller"
+    },
+    "D": {
+      "tag": "kubejs:kinetic_mechanism"
+    }
+  },
+  "result": {
+    "item": "create:encased_fan"
+  }
+}

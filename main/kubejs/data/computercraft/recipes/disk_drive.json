@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "iii",
+    "#I#",
+    "#R#"
+  ],
+  "key": {
+    "i": {
+      "tag": "forge:plates/andesite_alloy"
+    },
+    "#": {
+      "tag": "forge:silicon"
+    },
+    "R": {
+      "tag": "forge:dusts/redstone"
+    },
+    "I": {
+      "tag": "kubejs:inductive_mechanism"
+    }
+  },
+  "result": {
+    "item": "computercraft:disk_drive"
+  }
+}

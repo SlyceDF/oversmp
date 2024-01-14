@@ -1,0 +1,110 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "tag": "kubejs:infernal_mechanism"
+  },
+  "transitionalItem": {
+    "item": "create_sa:incomplete_heat_engine"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create_sa:incomplete_heat_engine"
+        },
+        {
+          "item": "create:andesite_alloy"
+        }
+      ],
+      "results": [
+        {
+          "item": "create_sa:incomplete_heat_engine"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create_sa:incomplete_heat_engine"
+        },
+        {
+          "tag": "extendedgears:small_cogwheel"
+        }
+      ],
+      "results": [
+        {
+          "item": "create_sa:incomplete_heat_engine"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create_sa:incomplete_heat_engine"
+        },
+        {
+          "tag": "extendedgears:large_cogwheel"
+        }
+      ],
+      "results": [
+        {
+          "item": "create_sa:incomplete_heat_engine"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create_sa:incomplete_heat_engine"
+        },
+        {
+          "tag": "forge:nuggets/zinc"
+        }
+      ],
+      "results": [
+        {
+          "item": "create_sa:incomplete_heat_engine"
+        }
+      ]
+    },
+     {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create_sa:incomplete_heat_engine"
+        },
+        {
+           "tag": "forge:nuggets/copper"
+        }
+      ],
+      "results": [
+        {
+          "item": "create_sa:incomplete_heat_engine"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "create_sa:heat_engine",
+      "chance": 120.0
+    },
+    {
+      "item": "create:zinc_nugget",
+      "chance": 8.0
+    },
+    {
+      "item": "create:andesite_alloy",
+      "chance": 4.0
+    },
+    {
+      "item": "kubejs:infernal_mechanism",
+      "chance": 15.0
+    }
+  ],
+  "loops": 3
+}

@@ -1,0 +1,82 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "kubejs:sturdy_mechanism"
+  },
+  "transitionalItem": {
+    "item": "kubejs:incomplete_inductive_mechanism"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_inductive_mechanism"
+        },
+        {
+          "item": "kubejs:integrated_circuit"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:incomplete_inductive_mechanism"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_inductive_mechanism"
+        },
+        {
+          "item": "kubejs:inductive_coil"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:incomplete_inductive_mechanism"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_inductive_mechanism"
+        },
+        {
+          "tag":"forge:gears/iron"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:incomplete_inductive_mechanism"
+        }
+      ]
+    },
+{
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_inductive_mechanism"
+        },
+        {
+          "item": "kubejs:chromatic_resonator"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:incomplete_inductive_mechanism"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:inductive_mechanism",
+      "count": 2
+    }
+  ],
+  "loops": 1
+}

@@ -1,0 +1,18 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "industrialforegoing:fertilizer"
+    },
+    {
+      "fluid": "minecraft:water",
+      "amount": 125
+    }
+  ],
+  "results": [
+    {
+      "item": "byg:mud_block",
+      "count": 2
+    }
+  ]
+}

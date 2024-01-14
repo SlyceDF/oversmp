@@ -1,0 +1,66 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "kubejs:kinetic_mechanism"
+  },
+  "transitionalItem": {
+    "item": "kubejs:incomplete_hydraulic_mechanism"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_hydraulic_mechanism"
+        },
+        {
+          "tag": "forge:gears/compressed_iron"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:incomplete_hydraulic_mechanism"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_hydraulic_mechanism"
+        },
+        {
+          "tag": "forge:nuggets/copper"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:incomplete_hydraulic_mechanism"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_hydraulic_mechanism"
+        },
+        {
+          "item": "overchisel:rubber"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:incomplete_hydraulic_mechanism"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:hydraulic_mechanism",
+      "count": 4
+    }
+  ],
+  "loops": 1
+}

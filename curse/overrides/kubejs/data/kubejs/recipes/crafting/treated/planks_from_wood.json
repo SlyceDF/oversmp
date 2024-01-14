@@ -1,0 +1,31 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "quark:iron_pillar"
+  },
+  "transitionalItem": {
+    "item": "quark:iron_pillar"
+  },
+  "sequence": [
+    {
+      "type": "create:cutting",
+      "ingredients": [
+        {
+          "item": "quark:iron_pillar"
+        }
+      ],
+      "results": [
+        {
+          "item": "quark:iron_pillar"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:treated_planks",
+      "count": 8
+    }
+  ],
+  "loops": 2
+}

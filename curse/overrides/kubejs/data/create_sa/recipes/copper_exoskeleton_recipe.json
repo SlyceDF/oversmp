@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "010",
+    "323",
+    "545"
+  ],
+  "key": {
+    "0": {
+      "tag": "forge:ingots/copper"
+    },
+    "1": {
+      "tag": "extendedgears:small_cogwheel"
+    },
+    "2": {
+      "item": "create_sa:hydraulic_engine"
+    },
+    "3": {
+      "item": "create:fluid_tank"
+    },
+    "4": {
+      "item": "create:andesite_alloy"
+    },
+    "5": {
+      "tag": "forge:storage_blocks/copper"
+    }
+  },
+  "result": {
+    "item": "create_sa:copper_exoskeleton_chestplate",
+    "count": 1
+  }
+}

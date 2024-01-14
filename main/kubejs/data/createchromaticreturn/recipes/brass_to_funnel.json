@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 48,
+  "ingredient": {
+    "item": "createchromaticreturn:brass_component"
+  },
+  "result": "create:brass_funnel"
+}

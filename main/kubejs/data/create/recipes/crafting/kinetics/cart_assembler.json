@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CRC",
+    "LGL"
+  ],
+  "key": {
+    "L": {
+      "tag": "minecraft:logs"
+    },
+    "R": {
+      "tag": "forge:dusts/redstone"
+    },
+    "C": {
+      "item": "create:andesite_alloy"
+    },
+    "G": {
+      "tag": "kubejs:kinetic_mechanism"
+    }
+  },
+  "result": {
+    "item": "create:cart_assembler"
+  }
+}

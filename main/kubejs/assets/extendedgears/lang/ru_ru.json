@@ -1,0 +1,12 @@
+{
+	"block.extendedgears.half_shaft_oak_cogwheel": "Полуваловая каменная шестерня",
+	"block.extendedgears.half_shaft_spruce_cogwheel": "Полуваловая шестерня",
+	"block.extendedgears.large_half_shaft_oak_cogwheel": "Большая полуваловая каменная шестерня",
+	"block.extendedgears.large_half_shaft_spruce_cogwheel": "Большая полуваловая шестерня",
+	"block.extendedgears.large_oak_cogwheel": "Большая каменная шестерня",
+	"block.extendedgears.large_shaftless_oak_cogwheel": "Большая безваловая каменная шестерня",
+	"block.extendedgears.large_shaftless_spruce_cogwheel": "Большая безваловая шестерня",
+	"block.extendedgears.oak_cogwheel": "Каменная шестерня",
+	"block.extendedgears.shaftless_oak_cogwheel": "Безваловая каменная шестерня",
+	"block.extendedgears.shaftless_spruce_cogwheel": "Безваловая шестерня"
+}

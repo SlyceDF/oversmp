@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "srs",
+    "l l",
+    "lrl"
+  ],
+  "key": {
+    "s": {
+      "item": "overchisel:strengthened_string"
+    },
+    "l": {
+      "item": "minecraft:leather"
+    },
+    "r": {
+      "item": "overchisel:rubber"
+    }
+  },
+  "result": {
+    "item": "minecraft:bundle",
+    "count": 1
+  }
+}

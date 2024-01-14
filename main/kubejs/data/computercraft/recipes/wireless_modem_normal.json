@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#I#",
+    "IEI",
+    "###"
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:plates/andesite_alloy"
+    },
+    "#": {
+      "tag": "forge:silicon"
+    },
+    "E": {
+      "item": "ae2:fluix_pearl"
+    },
+    "V": {
+      "tag": "kubejs:vibration_mechanism"
+    }
+  },
+  "result": {
+    "item": "computercraft:wireless_modem_normal",
+    "count": 2
+  }
+}

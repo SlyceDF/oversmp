@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "create",
+  "pattern": [
+    "bb ",
+    "bBi",
+    " ii"
+  ],
+  "key": {
+    "b": {
+      "item": "create:sturdy_sheet"
+    },
+    "B": {
+      "item": "pneumaticcraft:drill_bit_netherite"
+    },
+    "i": {
+      "tag": "forge:ingots/netherite"
+    }
+  },
+  "result": {
+    "item": "createoreexcavation:netherite_drill"
+  }
+}

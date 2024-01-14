@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "buzzier_bees:crystallized_honey_block"
+  },
+  "result": {
+    "fluid": "create:honey",
+    "amount": 2000
+  },
+  "temperature": 1,
+  "time": 174
+}

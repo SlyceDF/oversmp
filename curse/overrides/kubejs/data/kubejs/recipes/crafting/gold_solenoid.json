@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item":"createaddition:gold_spool"
+    },
+    {
+      "tag": "forge:nuggets/invar"
+    },
+    {
+      "tag": "forge:nuggets/invar"
+    },
+    {
+      "tag": "forge:nuggets/invar"
+    }
+  ],
+  "result": {
+    "item": "kubejs:gold_solenoid",
+    "count": 3
+  }
+}

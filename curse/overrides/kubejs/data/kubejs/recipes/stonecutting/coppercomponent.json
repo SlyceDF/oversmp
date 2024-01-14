@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+      "item": "kubejs:copper_component"
+  },
+  "result": "kubejs:copper_machine",
+  "count": 1
+}

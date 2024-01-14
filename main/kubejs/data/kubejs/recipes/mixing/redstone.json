@@ -1,0 +1,17 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "ae2:charged_certus_quartz_crystal"
+    },
+    {
+      "fluid": "kubejs:destabilized_redstone",
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "item": "create:rose_quartz"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "kubejs:copper_machine"
+  },
+  "addition": {
+    "item": "pneumaticcraft:pressure_tube"
+  },
+  "result": {
+    "item": "compressedcreativity:air_blower",
+    "count": 32
+  }
+}

@@ -1,0 +1,30 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	["ERE",
+	 "CPC"],
+	"key":
+	{
+		"R":
+		{
+			"tag": "forge:dusts/redstone"
+		},
+		"P":
+		{
+			"item": "supercircuitmaker:circuit"
+		},
+		"C":
+		{
+			"item": "createaddition:connector"
+		},
+		"E":
+		{
+			"tag": "forge:wires/iron"
+		}
+	},
+	"result":{
+		"item": "createaddition:redstone_relay",
+		"count": 1
+	}
+}

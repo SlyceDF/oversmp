@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "A  ",
+    "AA ",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "tag": "forge:bricks/rich_slag"
+    }
+  },
+  "result": {
+    "item": "kubejs:rich_slag_brick_stairs",
+    "count": 4
+  }
+}

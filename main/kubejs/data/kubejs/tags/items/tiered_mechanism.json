@@ -1,0 +1,10 @@
+{
+  "replace": "false",
+  "values": [
+    "createchromaticreturn:shadow_mechanism",
+    "createchromaticreturn:magmatic_mechanism",
+    "createchromaticreturn:annealed_mechanism",
+    "createchromaticreturn:refined_mechanism",
+    "kubejs:abstruse_mechanism"
+  ]
+}

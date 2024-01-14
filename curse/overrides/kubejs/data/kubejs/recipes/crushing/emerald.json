@@ -1,0 +1,15 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "tag": "forge:gems/emerald"
+    }
+  ],
+  "results": [
+    {
+      "item": "create_ore_excavation_plus:raw_emerald_dust",
+      "count": 1
+    }
+  ],
+  "processingTime": 400
+}

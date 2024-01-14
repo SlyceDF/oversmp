@@ -1,0 +1,19 @@
+{
+  "type": "pneumaticcraft:fluid_mixer",
+  "input1": {
+    "type": "pneumaticcraft:fluid",
+    "tag": "forge:ethane",
+    "amount": 50
+  },
+  "input2": {
+    "type": "pneumaticcraft:fluid",
+    "tag": "forge:oxygen",
+    "amount": 25
+  },
+  "fluid_output": {
+    "fluid": "chemlib:ethanol_fluid",
+    "amount": 50
+  },
+  "pressure": 0.5,
+  "time": 100
+}

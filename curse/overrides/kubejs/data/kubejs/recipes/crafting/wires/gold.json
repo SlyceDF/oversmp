@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "overchisel:pliers"
+    },
+    {
+      "tag": "forge:plates/gold"
+    }
+  ],
+  "result": {
+    "item": "createaddition:gold_wire",
+    "count": 2
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "tag": "forge:stripped_logs"
+    },
+    {
+      "fluid": "kubejs:creosote_oil",
+      "nbt": {},
+      "amount": 25
+    }
+  ],
+  "results": [
+    {
+      "item": "byg:windswept_sandstone_pillar"
+    }
+  ]
+}

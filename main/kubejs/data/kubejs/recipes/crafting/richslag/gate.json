@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aAa",
+    "aAa"
+  ],
+  "key": {
+    "A": {
+      "tag": "forge:storage_blocks/rich_slag"
+    },
+    "a": {
+      "tag": "forge:rich_slag"
+    }
+  },
+  "result": {
+    "item": "kubejs:rich_slag_fence_gate"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "pneumaticcraft:thermo_plant",
+  "item_input": {
+    "item": "create:weathered_copper_shingles"
+  },
+  "fluid_input": {
+    "type": "pneumaticcraft:fluid",
+    "fluid": "chemlib:oxygen_fluid",
+    "amount": 4
+  },
+  "item_output": {
+    "item": "create:oxidized_copper_shingles"
+  },
+  "temperature": {
+    "min_temp": 313
+  },
+  "pressure": 1.5,
+  "speed": 4.5,
+  "exothermic": false
+}

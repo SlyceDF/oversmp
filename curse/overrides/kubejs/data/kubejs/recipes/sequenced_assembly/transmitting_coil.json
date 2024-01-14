@@ -1,0 +1,67 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "create:electron_tube"
+  },
+  "transitionalItem": {
+    "item": "kubejs:incomplete_transmitting_coil"
+  },
+  "sequence": [
+{
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_absorbing_coil"
+        },
+        {
+          "tag": "forge:nuggets/nickel"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:incomplete_absorbing_coil"
+        }
+      ]
+    },
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "kubejs:incomplete_transmitting_coil"
+    },
+    {
+      "fluid": "tconstruct:molten_electrum",
+      "amount": 90
+    }
+   ],
+  "results": [
+    {
+          "item": "kubejs:incomplete_transmitting_coil"
+  }
+ ]
+},
+  {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_transmitting_coil"
+        },
+        {
+          "tag": "forge:dusts/redstone"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:incomplete_transmitting_coil"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:transmitting_coil",
+      "count": 1
+    }
+  ],
+  "loops": 1
+}

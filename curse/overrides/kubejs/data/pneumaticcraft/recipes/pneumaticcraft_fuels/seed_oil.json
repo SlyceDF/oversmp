@@ -1,0 +1,10 @@
+{
+  "type": "pneumaticcraft:fuel_quality",
+  "fluid": {
+    "type": "pneumaticcraft:fluid",
+    "fluid": "createaddition:seed_oil",
+    "amount": 1000
+  },
+  "air_per_bucket": 170000,
+  "burn_rate": 1.0
+}

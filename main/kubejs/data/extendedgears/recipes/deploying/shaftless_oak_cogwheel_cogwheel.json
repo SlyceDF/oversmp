@@ -1,0 +1,16 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "minecraft:stone"
+    },
+    {
+      "item": "minecraft:stone_button"
+    }
+  ],
+  "results": [
+    {
+      "item": "extendedgears:shaftless_oak_cogwheel"
+    }
+  ]
+}

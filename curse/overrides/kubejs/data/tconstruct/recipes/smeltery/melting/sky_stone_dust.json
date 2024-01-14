@@ -1,0 +1,14 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": [
+    {
+      "tag": "forge:dusts/sky_stone"
+    }
+  ],
+  "result": {
+    "fluid": "kubejs:volatile_sky_liquid",
+    "amount": 250
+  },
+  "temperature": 401,
+  "time": 49
+}

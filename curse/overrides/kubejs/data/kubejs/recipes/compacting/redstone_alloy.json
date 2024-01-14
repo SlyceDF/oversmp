@@ -1,0 +1,18 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "kubejs:magnetite"
+    },
+    {
+      "fluid": "kubejs:destabilized_redstone",
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:redstone_alloy"
+    }
+  ],
+  "heatRequirement": "heated"
+}

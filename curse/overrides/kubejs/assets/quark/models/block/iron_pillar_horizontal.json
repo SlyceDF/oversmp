@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column_horizontal",
+  "textures": {
+    "end": "kubejs:block/treated_log",
+    "side": "kubejs:block/treated_log"
+  }
+}

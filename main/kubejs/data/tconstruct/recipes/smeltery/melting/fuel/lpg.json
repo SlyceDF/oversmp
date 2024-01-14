@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:melting_fuel",
+  "fluid": {
+    "tag": "forge:lpg",
+    "amount": 10
+  },
+  "duration": 100,
+  "temperature": 1100
+}

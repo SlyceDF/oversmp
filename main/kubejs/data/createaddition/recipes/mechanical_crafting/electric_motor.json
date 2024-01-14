@@ -1,0 +1,35 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+  	"  A  ",
+    " iMi ",
+    "BSRSB",
+    " BCB "
+  ],
+  "key": {
+  	"A": {
+      "tag": "kubejs:inductive_mechanism"
+    },
+    "C": {
+      "item": "createaddition:capacitor"
+    },
+    "B": {
+      "tag": "forge:plates/brass"
+    },
+    "R": {
+      "tag": "forge:rods/iron"
+    },
+    "S": {
+      "tag": "kubejs:solenoid"
+    },
+    "i": {
+      "item": "kubejs:magnetite"
+    },
+    "M": {
+      "item": "kubejs:absorbing_coil"
+    }
+  },
+  "result": {
+    "item": "createaddition:electric_motor"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item":"createaddition:copper_spool"
+    },
+    {
+      "tag": "forge:nuggets/invar"
+    },
+    {
+      "tag": "forge:nuggets/invar"
+    },
+    {
+      "tag": "forge:nuggets/invar"
+    }
+  ],
+  "result": {
+    "item": "kubejs:copper_solenoid",
+    "count": 1
+  }
+}

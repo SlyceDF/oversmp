@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/rich_slag"
+    }
+  ],
+  "result": {
+    "item": "kubejs:rich_slag_brick_button"
+  }
+}

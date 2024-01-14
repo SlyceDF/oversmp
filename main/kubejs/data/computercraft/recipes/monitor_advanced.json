@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#G#",
+    "#I#"
+  ],
+  "key": {
+    "#": {
+      "item": "compressedcreativity:brass_gilded_lapis_lazuli"
+    },
+    "G": {
+      "tag": "forge:glass_panes"
+    },
+    "I": {
+      "tag": "kubejs:inductive_mechanism" 
+    }
+  },
+  "result": {
+    "item": "computercraft:monitor_advanced",
+    "count": 4
+  }
+}

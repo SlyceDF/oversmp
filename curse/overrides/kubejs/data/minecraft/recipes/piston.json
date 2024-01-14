@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " p ",
+    "r#r",
+    " e "
+  ],
+  "key": {
+    "#": {
+      "item": "quark:sturdy_stone"
+    },
+    "p": {
+      "tag": "minecraft:wooden_slabs"
+    },
+    "e": {
+      "item": "create:piston_extension_pole"
+    },
+    "r": {
+      "tag": "forge:dusts/redstone"
+    }
+  },
+  "result": {
+    "item": "minecraft:piston"
+  }
+}

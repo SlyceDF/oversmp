@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " B ",
+    "lCl",
+    " B "
+  ],
+  "key": {
+    "B": {
+      "tag": "forge:plates/iron"
+    },
+    "C": {
+      "tag": "forge:barrels/wooden"
+    },
+    "l": {
+      "tag": "forge:nuggets/lead"
+    }
+  },
+  "result": {
+    "item": "create:item_vault"
+  }
+}

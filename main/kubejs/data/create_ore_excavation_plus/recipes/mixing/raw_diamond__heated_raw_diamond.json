@@ -1,0 +1,23 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "createoreexcavation:raw_diamond"
+    },
+    {
+      "fluid": "minecraft:lava",
+      "nbt": {},
+      "amount": 500
+    }
+  ],
+  "results": [
+    {
+      "item": "create_ore_excavation_plus:heated_raw_diamond",
+      "chance": 0.95
+    },
+    {
+      "item": "create_ore_excavation_plus:raw_diamond_dust",
+      "chance": 0.1
+    }
+  ]
+}

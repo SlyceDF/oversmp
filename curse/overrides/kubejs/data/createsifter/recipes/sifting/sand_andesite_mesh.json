@@ -1,0 +1,52 @@
+{
+  "type": "createsifter:sifting",
+  "ingredients": [
+    [
+      {
+        "item": "minecraft:sand"
+      },
+      {
+        "item": "minecraft:red_sand"
+      },
+      {
+        "item": "byg:cracked_red_sand"
+      },
+      {
+        "item": "byg:windswept_sand"
+      },
+      {
+        "item": "byg:white_sand"
+      },
+      {
+        "item": "byg:blue_sand"
+      },
+      {
+        "item": "byg:purple_sand"
+      },
+      {
+        "item": "byg:quartzite_sand"
+      },
+      {
+        "item": "byg:end_sand"
+      }
+    ],
+    {
+      "item": "createsifter:andesite_mesh"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:redstone",
+      "chance": 0.1
+    },
+    {
+      "item": "minecraft:bone_meal",
+      "chance": 0.4
+    },
+    {
+      "item": "create:experience_nugget",
+      "chance": 0.1
+    }
+  ],
+  "processingTime": 150
+}

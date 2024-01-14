@@ -1,0 +1,13 @@
+
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern": [
+        " g ",
+        "gig",
+        " g "
+    ],
+    "key": {"g": {"tag": "forge:nuggets/bronze"}, "i": {"tag": "forge:nuggets/gold"}},
+    "result": {"item": "xercamusic:cymbal"}
+}
+        

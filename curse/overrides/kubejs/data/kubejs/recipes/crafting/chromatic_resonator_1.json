@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "sRf",
+    "lrl"
+  ],
+  "key": {
+    "R": {
+      "item": "kubejs:magnetite"
+    },
+    "f": {
+      "item": "kubejs:reserver_tube"
+    },
+    "s": {
+      "item": "kubejs:preserver_tube"
+    },
+    "l": {
+      "tag": "forge:ingots/lead"
+    },
+    "r": {
+      "tag": "forge:ingots/matter_plastics"
+    }
+  },
+  "result": {
+    "item": "kubejs:chromatic_resonator",
+    "count": 1
+  }
+}

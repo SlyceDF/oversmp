@@ -1,0 +1,46 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "values": [
+            {
+              "item": "industrialforegoing:mycelial_rocket",
+              "type": "forge:item_exists"
+            }
+          ],
+          "type": "forge:and"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+          "BLB",
+          "BCB",
+          "RMR"
+        ],
+        "key": {
+          "R": {
+            "item": "minecraft:redstone"
+          },
+          "B": {
+            "item": "minecraft:gunpowder"
+          },
+          "C": {
+            "item": "minecraft:paper"
+          },
+          "M": {
+            "tag": "industrialforegoing:machine_frame/advanced"
+          },
+          "L": {
+            "item": "kubejs:generating_coil"
+          }
+        },
+        "result": {
+          "item": "industrialforegoing:mycelial_rocket"
+        }
+      }
+    }
+  ]
+}

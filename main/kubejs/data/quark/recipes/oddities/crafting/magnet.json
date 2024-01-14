@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CIC",
+    "FIF",
+    "CIC"
+  ],
+  "key": {
+    "C": {
+      "item": "quark:sturdy_stone"
+    },
+    "I": {
+      "tag": "forge:ingots/invar"
+    },
+    "F": {
+      "item": "kubejs:chromatic_resonator"
+    }
+  },
+  "result": {
+    "item": "quark:magnet",
+    "count": 2
+  },
+  "conditions": [
+    {
+      "type": "quark:flag",
+      "flag": "magnets"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "kubejs:ferrite_compound"
+    },
+    {
+      "fluid": "tconstruct:molten_iron",
+      "amount": 90
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:ferrite_ingot"
+    }
+  ]
+}

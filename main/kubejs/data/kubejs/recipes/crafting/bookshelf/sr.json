@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ppp",
+    "bbb",
+    "ppp"
+  ],
+  "key": {
+    "b": {
+      "item": "minecraft:book"
+    },
+    "p": {
+      "item": "tconstruct:skyroot_planks"
+    }
+  },
+  "result": {
+    "item": "kubejs:skyroot_bookshelf"
+  }
+}

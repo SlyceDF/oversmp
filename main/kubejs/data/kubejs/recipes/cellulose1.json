@@ -1,0 +1,13 @@
+{
+  "type": "alchemistry:compactor",
+  "group": "alchemistry:compactor",
+  "input": {
+    "ingredient": {
+      "item": "chemlib:cellulose"
+    },
+    "count": 1
+  },
+  "result": {
+    "item": "overchisel:cellulose"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "kubejs:treated_planks"
+    }
+  },
+  "result": {
+    "item": "kubejs:treated_wall",
+    "count": 6
+  }
+}

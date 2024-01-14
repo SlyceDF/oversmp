@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:bricks/slag"
+    }
+  ],
+  "result": {
+    "item": "kubejs:slag_brick",
+    "count": 4
+  }
+}

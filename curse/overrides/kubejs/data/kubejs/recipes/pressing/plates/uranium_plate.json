@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/uranium"
+    }
+  ],
+  "results": [
+    {
+      "item": "chemlib:uranium_plate"
+    }
+  ]
+}

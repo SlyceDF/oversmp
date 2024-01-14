@@ -1,0 +1,9 @@
+{
+        "type": "clayworks:baking",
+        "ingredient": {
+          "item": "overchisel:glass_shrapnel"
+        },
+        "result": "overchisel:imp_silicon",
+        "experience": 0,
+        "cookingtime": 200
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "tEt",
+    "RDR"
+  ],
+  "key": {
+    "R": { "item": "supercircuitmaker:tiny_redstone" },
+    "E": { "item": "minecraft:ender_eye" },
+    "D": { "item": "minecraft:deepslate" },
+    "t": { "item": "kubejs:pulse_tube" }
+  },
+  "result": {
+    "item": "supercircuitmaker:pulsar",
+    "count": 4
+  }
+}

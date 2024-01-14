@@ -1,0 +1,13 @@
+
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern": [
+        " s ",
+        "pip",
+        "rgr"
+    ],
+    "key": {"p": {"item": "minecraft:oak_planks"}, "s": {"item": "minecraft:stick"}, "i": {"item": "overchisel:strengthened_string"}, "r": {"item": "minecraft:redstone"},"g": {"tag": "kubejs:solenoid"}},
+    "result": {"item": "xercamusic:redstone_guitar"}
+}
+        

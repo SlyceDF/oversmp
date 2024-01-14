@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CTC",
+    "GTG",
+    "IMI"
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:ingots/compressed_iron"
+    },
+    "T": {
+      "item": "pneumaticcraft:pressure_tube"
+    },
+    "G": {
+      "tag": "forge:ingots/gold"
+    },
+    "C": {
+      "tag": "forge:ingots/invar"
+    },
+    "M": {
+      "tag": "kubejs:infernal_mechanism"
+    }
+  },
+  "result": {
+    "item": "pneumaticcraft:vortex_tube"
+  }
+}

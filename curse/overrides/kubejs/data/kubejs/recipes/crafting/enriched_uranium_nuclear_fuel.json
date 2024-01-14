@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "UUU",
+    "uuu",
+    "UUU"
+  ],
+  "key": {
+    "U": {
+      "item": "kubejs:uranium_238"
+    },
+    "u": {
+      "item": "kubejs:uranium_235"
+    }
+  },
+  "result": {
+    "item": "kubejs:enriched_uranium_nuclear_fuel"
+  }
+}

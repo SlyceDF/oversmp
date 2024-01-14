@@ -1,0 +1,19 @@
+{
+  "type": "pneumaticcraft:thermo_plant",
+  "item_input": {
+    "item": "byg:subzero_crystal_shard"
+  },
+  "fluid_input": {
+    "type": "pneumaticcraft:fluid",
+    "fluid": "create_enchantment_industry:experience",
+    "amount": 3
+  },
+  "item_output": {
+    "item": "kubejs:echo_shard"
+  },
+  "temperature": {
+    "min_temp": 303,
+    "max_temp": 333
+  },
+  "exothermic": false
+}

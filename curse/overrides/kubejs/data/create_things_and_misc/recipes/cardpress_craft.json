@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "tag": "forge:plates/brass"
+    },
+    "2": {
+      "tag": "forge:plates/brass"
+    },
+    "3": {
+      "tag": "forge:plates/brass"
+    },
+    "4": {
+      "item": "create:mechanical_press"
+    },
+    "5": {
+      "tag": "forge:plates/brass"
+    },
+    "6": {
+      "item": "create:brass_casing"
+    },
+    "7": {
+      "item": "create:brass_casing"
+    },
+    "8": {
+      "item": "create:brass_casing"
+    },
+    "1": {
+      "tag": "kubejs:sturdy_mechanism"
+    }
+  },
+  "result": {
+    "item": "create_things_and_misc:card_press",
+    "count": 1
+  }
+}

@@ -1,0 +1,15 @@
+{
+	"type": "create:milling",
+    "ingredients": [
+    	{
+    		"tag": "forge:ingots/cobalt"
+    	}
+    ], 
+	"results": [
+		{
+			"item": "chemlib:cobalt_dust",
+			"count": 1
+		}
+	],
+	"processingTime": 200
+}

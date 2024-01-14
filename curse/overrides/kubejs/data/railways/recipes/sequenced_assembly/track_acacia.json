@@ -1,0 +1,89 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "minecraft:acacia_slab"
+  },
+  "transitionalItem": {
+    "item": "railways:track_incomplete_acacia"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "railways:track_incomplete_acacia"
+        },
+        [
+          {
+            "tag": "railways:internal/nuggets/iron_nuggets"
+          },
+          {
+            "tag": "railways:internal/nuggets/zinc_nuggets"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "item": "railways:track_incomplete_acacia"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "railways:track_incomplete_acacia"
+        },
+        [
+          {
+            "tag": "railways:internal/nuggets/iron_nuggets"
+          },
+          {
+            "tag": "railways:internal/nuggets/zinc_nuggets"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "item": "railways:track_incomplete_acacia"
+        }
+      ]
+    },
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "railways:track_incomplete_acacia"
+    },
+    {
+      "fluid": "kubejs:creosote_oil",
+      "amount": 50
+    }
+   ],
+  "results": [
+    {
+          "item": "railways:track_incomplete_acacia"
+  }
+ ]
+},
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "railways:track_incomplete_acacia"
+        }
+      ],
+      "results": [
+        {
+          "item": "railways:track_incomplete_acacia"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "railways:track_acacia"
+    }
+  ],
+  "loops": 1
+}

@@ -1,0 +1,15 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "fluid": "create:tea",
+      "amount": 500
+    }
+  ],
+  "results": [
+    {
+      "fluid": "kubejs:tannin",
+      "amount": 125
+    }
+  ]
+}

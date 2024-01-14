@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "minecraft:blaze_rod"
+  },
+  "result": {
+    "fluid": "tconstruct:blazing_blood",
+    "amount": 50
+  },
+  "temperature": 1000,
+  "time": 12
+}

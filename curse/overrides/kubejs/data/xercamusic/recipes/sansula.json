@@ -1,0 +1,12 @@
+
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern": [
+        "iii",
+        "ppp"
+    ],
+    "key": {"i": {"tag": "forge:nuggets/invar"}, "p": {"tag": "minecraft:planks"}},
+    "result": {"item": "xercamusic:sansula"}
+}
+        

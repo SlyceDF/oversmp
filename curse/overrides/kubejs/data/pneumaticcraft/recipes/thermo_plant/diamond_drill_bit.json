@@ -1,0 +1,21 @@
+{
+  "type": "pneumaticcraft:thermo_plant",
+  "item_input": {
+    "item": "pneumaticcraft:drill_bit_compressed_iron"
+  },
+  "fluid_input": {
+    "type": "pneumaticcraft:fluid",
+    "fluid": "tconstruct:molten_diamond",
+    "amount": 900
+  },
+  "item_output": {
+    "item": "pneumaticcraft:drill_bit_diamond"
+  },
+  "temperature": {
+    "min_temp": 773
+  },
+  "pressure": 7.5,
+  "speed": 0.1,
+  "air_use_multiplier": 10.0,
+  "exothermic": false
+}

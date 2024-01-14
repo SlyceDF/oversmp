@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "createchromaticreturn:andesite_component"
+  },
+  "addition": {
+    "tag": "forge:tools/knives"
+  },
+  "result": {
+    "item": "sliceanddice:slicer",
+    "count": 32
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "farmersdelight:rope"
+    },
+    {
+      "item": "farmersdelight:rope"
+    },
+    {
+      "item": "farmersdelight:rope"
+    }
+  ],
+  "result": {
+    "item": "quark:rope_coil",
+    "count": 2
+  }
+}

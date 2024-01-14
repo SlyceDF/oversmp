@@ -1,0 +1,7 @@
+{
+  "replace": "false",
+  "values": [
+    "kubejs:hydraulic_mechanism",
+    "kubejs:universal_mechanism"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "R",
+    "#",
+    "R"
+  ],
+  "key": {
+    "#": {
+      "tag": "forge:plates/andesite_alloy"
+    },
+    "R": {
+      "item": "quark:pipe"
+    }
+  },
+  "result": {
+    "item": "computercraft:cable",
+    "count": 2
+  }
+}

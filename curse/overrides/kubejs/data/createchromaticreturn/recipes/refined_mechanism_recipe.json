@@ -1,0 +1,110 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "createchromaticreturn:refined_radiance"
+    },
+    {
+      "item": "createchromaticreturn:refined_radiance"
+    },
+    {
+      "item": "createchromaticreturn:refined_radiance"
+    },
+    {
+      "item": "createchromaticreturn:refined_radiance"
+    },
+    {
+      "item": "createchromaticreturn:refined_radiance"
+    },        
+    {
+      "item": "createchromaticreturn:refined_radiance"
+    },  
+    {
+      "item": "createchromaticreturn:refined_radiance"
+    },  
+    {
+      "item": "createchromaticreturn:refined_radiance"
+    },  
+    {
+      "item": "createchromaticreturn:refined_radiance"
+    },  
+    {
+      "item": "createchromaticreturn:refined_radiance"
+    },  
+    {
+      "item": "createchromaticreturn:refined_radiance"
+    },  
+    {
+      "item": "createchromaticreturn:refined_radiance"
+    },  
+    {
+      "item": "createchromaticreturn:refined_radiance"
+    },  
+    {
+      "item": "createchromaticreturn:refined_radiance"
+    },  
+    {
+      "item": "createchromaticreturn:refined_radiance"
+    },  
+    {
+      "item": "createchromaticreturn:refined_radiance"
+    }, 
+    {
+      "item": "createchromaticreturn:shadow_steel"
+    },
+    {
+      "item": "createchromaticreturn:shadow_steel"
+    },
+    {
+      "item": "createchromaticreturn:shadow_steel"
+    },
+    {
+      "item": "createchromaticreturn:shadow_steel"
+    },
+    {
+      "item": "createchromaticreturn:shadow_steel"
+    },
+    {
+      "item": "createchromaticreturn:shadow_steel"
+    },
+    {
+      "item": "createchromaticreturn:shadow_steel"
+    },
+    {
+      "item": "createchromaticreturn:shadow_steel"
+    },
+    {
+      "item": "createchromaticreturn:shadow_steel"
+    },
+    {
+      "item": "createchromaticreturn:shadow_steel"
+    },
+    {
+      "item": "createchromaticreturn:shadow_steel"
+    },
+    {
+      "item": "createchromaticreturn:shadow_steel"
+    },
+    {
+      "item": "createchromaticreturn:shadow_steel"
+    },
+    {
+      "item": "createchromaticreturn:shadow_steel"
+    },
+    {
+      "item": "createchromaticreturn:shadow_steel"
+    },
+    {
+      "item": "createchromaticreturn:shadow_steel"
+    },
+    {
+      "item": "createchromaticreturn:annealed_mechanism"
+    }
+  ],
+  "results": [
+    {
+      "item": "createchromaticreturn:refined_mechanism"
+    }
+  ],
+  "heatRequirement": "superheated"
+}

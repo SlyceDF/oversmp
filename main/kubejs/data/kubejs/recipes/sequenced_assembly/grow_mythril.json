@@ -1,0 +1,35 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "kubejs:mythril_seed"
+  },
+  "transitionalItem": {
+    "item": "kubejs:growing_mythril_seed"
+  },
+  "sequence": [
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "kubejs:growing_mythril_seed"
+    },
+    {
+      "fluid": "minecraft:water",
+      "amount": 1000
+    }
+  ],
+  "results": [
+    {
+          "item": "kubejs:growing_mythril_seed"
+  }
+ ]
+}
+  ],
+  "results": [
+    {
+      "item": "overchisel:mythril",
+      "count": 1
+    }
+  ],
+  "loops": 6
+}

@@ -1,0 +1,15 @@
+{
+	"type": "create:milling",
+    "ingredients": [
+    	{
+    		"tag": "forge:ingots/constantan"
+    	}
+    ], 
+	"results": [
+		{
+			"item": "kubejs:constantan_dust",
+			"count": 1
+		}
+	],
+	"processingTime": 200
+}

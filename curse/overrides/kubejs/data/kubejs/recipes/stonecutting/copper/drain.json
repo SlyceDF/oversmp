@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "kubejs:copper_machine"
+  },
+  "addition": {
+    "item": "quark:grate"
+  },
+  "result": {
+    "item": "create:item_drain",
+    "count": 40
+  }
+}

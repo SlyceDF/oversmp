@@ -1,0 +1,73 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "byg:cattail_sprout"
+  },
+  "transitionalItem": {
+    "item": "byg:cattail_sprout"
+  },
+  "sequence": [
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "byg:cattail_sprout"
+    },
+    {
+      "fluid": "minecraft:water",
+      "amount": 125
+    }
+   ],
+  "results": [
+    {
+          "item": "byg:cattail_sprout"
+  }
+ ]
+},
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "byg:cattail_sprout"
+        }
+      ],
+      "results": [
+        {
+          "item": "byg:cattail_sprout"
+        }
+      ]
+    },
+    {
+      "type": "create:cutting",
+      "ingredients": [
+        {
+          "item": "byg:cattail_sprout"
+        }
+      ],
+      "results": [
+        {
+          "item": "byg:cattail_sprout"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:cotton_ball",
+      "count": 2
+    },
+    {
+      "item": "kubejs:cotton_ball",
+      "chance": 0.5
+    },
+    {
+      "item": "kubejs:cotton_ball",
+      "chance": 0.25
+    },
+    {
+      "item": "byg:pollen_dust",
+      "chance": 0.5
+    }
+  ],
+  "loops": 4
+}

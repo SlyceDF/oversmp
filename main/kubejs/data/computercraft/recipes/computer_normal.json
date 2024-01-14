@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "I#I",
+    "#R#",
+    "#G#"
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:plates/andesite_alloy"
+    },
+    "#": {
+      "tag": "forge:silicon"
+    },
+    "R": {
+      "item": "kubejs:abstruse_mechanism"
+    },
+    "G": {
+      "tag": "forge:glass_panes"
+    }
+  },
+  "result": {
+    "item": "computercraft:computer_normal"
+  }
+}

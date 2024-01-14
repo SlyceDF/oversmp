@@ -1,0 +1,21 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "kubejs:absorption_catalyst"
+    },
+    {
+      "fluid": "minecraft:water",
+      "amount": 125
+    }
+  ],
+  "results": [
+    {
+      "fluid": "minecraft:water",
+      "amount": 250
+    },
+    {
+      "item": "kubejs:absorption_catalyst"
+    }
+  ]
+}

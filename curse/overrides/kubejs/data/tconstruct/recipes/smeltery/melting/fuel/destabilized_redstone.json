@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:melting_fuel",
+  "fluid": {
+    "name": "kubejs:destabilized_redstone",
+    "amount": 1
+  },
+  "duration": 100,
+  "temperature": 300
+}

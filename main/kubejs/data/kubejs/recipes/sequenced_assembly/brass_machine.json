@@ -1,0 +1,110 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "create:brass_casing"
+  },
+  "transitionalItem": {
+    "item": "create:brass_casing"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:brass_casing"
+        },
+        {
+          "tag": "kubejs:sturdy_mechanism"
+        }
+      ],
+      "results": [
+        {
+          "item": "create:brass_casing"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:brass_casing"
+        },
+        {
+          "tag": "kubejs:sturdy_mechanism"
+        }
+      ],
+      "results": [
+        {
+          "item": "create:brass_casing"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:brass_casing"
+        },
+        {
+          "tag": "kubejs:sturdy_mechanism"
+        }
+      ],
+      "results": [
+        {
+          "item": "create:brass_casing"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:brass_casing"
+        },
+        {
+          "tag": "kubejs:sturdy_mechanism"
+        }
+      ],
+      "results": [
+        {
+          "item": "create:brass_casing"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:brass_casing"
+        },
+        {
+          "tag": "forge:nuggets/industrium"
+        }
+      ],
+      "results": [
+        {
+          "item": "create:brass_casing"
+        }
+      ]
+    },
+    {
+      "type": "create:cutting",
+      "ingredients": [
+        {
+          "item": "create:brass_casing"
+        }
+      ],
+      "results": [
+        {
+          "item": "create:brass_casing"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:brass_machine"
+    }
+  ],
+  "loops": 2
+}

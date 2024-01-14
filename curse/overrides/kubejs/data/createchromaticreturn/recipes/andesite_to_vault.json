@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "createchromaticreturn:andesite_component"
+  },
+  "addition": {
+    "item": "minecraft:barrel"
+  },
+  "result": {
+    "item": "create:item_vault",
+    "count": 28
+  }
+}

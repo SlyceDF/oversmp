@@ -1,0 +1,110 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "ae2:item_cell_housing"
+  },
+  "transitionalItem": {
+    "item": "kubejs:booting_assembly"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:booting_assembly"
+        },
+        {
+          "item": "tconstruct:cobalt_ingot"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:booting_assembly"
+        }
+      ]
+    },
+   {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:booting_assembly"
+        },
+        {
+          "item": "create:electron_tube"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:booting_assembly"
+        }
+      ]
+    },
+   {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:booting_assembly"
+        },
+        {
+          "item": "createaddition:capacitor"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:booting_assembly"
+        }
+      ]
+    },
+   {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:booting_assembly"
+        },
+        {
+          "tag": "kubejs:inductive_mechanism"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:booting_assembly"
+        }
+      ]
+    },
+    {
+      "type": "create:cutting",
+      "ingredients": [
+        {
+          "item": "kubejs:booting_assembly"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:booting_assembly"
+        }
+      ]
+    },
+{
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_inductive_mechanism"
+        },
+        {
+          "item": "kubejs:chromatic_resonator"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:incomplete_inductive_mechanism"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:booting_medium"
+    }
+  ],
+  "loops": 1
+}

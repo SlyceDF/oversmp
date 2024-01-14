@@ -1,0 +1,19 @@
+{
+  "type": "redstonepen:crafting_extended_shapeless",
+  "ingredients": [
+    { "item": "supercircuitmaker:redstone_stick" },
+    { "item": "kubejs:redstone_alloy" },
+    { "item": "kubejs:reserver_tube" },
+    { "item": "kubejs:reserver_tube" },
+    { "item": "kubejs:reserver_tube" },
+    { "tag": "forge:nuggets/invar" },
+    { "item": "create:andesite_alloy" },
+    { "tag": "forge:rods/iron" }
+  ],
+  "result": {
+    "item": "redstonepen:pen"
+  },
+  "aspects": {
+    "initial_durability": 4
+  }
+}

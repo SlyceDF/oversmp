@@ -1,0 +1,18 @@
+{
+  "type": "tconstruct:alloy",
+  "inputs": [
+    {
+      "tag": "forge:molten_iron",
+      "amount": 90
+    },
+    {
+      "tag": "forge:crude_oil",
+      "amount": 250
+    }
+  ],
+  "result": {
+    "fluid": "tconstruct:molten_steel",
+    "amount": 90
+  },
+  "temperature": 950
+}

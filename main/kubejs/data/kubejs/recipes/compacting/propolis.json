@@ -1,0 +1,17 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "byg:pollen_dust"
+    },
+    {
+      "item": "minecraft:honeycomb"
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:propolis"
+    }
+  ],
+  "heatRequirement": "heated"
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " I ",
+    "GSG",
+    " I "
+  ],
+  "key": {
+    "G": {
+      "item": "ae2:quartz_glass"
+    },
+    "S": {
+      "tag": "kubejs:sturdy_mechanism"
+    },
+    "I": {
+      "tag": "forge:plates/matter_plastics"
+    }
+  },
+  "result": {
+    "item": "quark:pipe",
+    "count": 12
+  },
+  "conditions": [
+    {
+      "type": "quark:flag",
+      "flag": "pipes"
+    }
+  ]
+}

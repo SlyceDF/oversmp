@@ -1,0 +1,111 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "createchromaticreturn:chromatic_compound"
+    },
+    {
+      "item": "createchromaticreturn:chromatic_compound"
+    },
+    {
+      "item": "createchromaticreturn:chromatic_compound"
+    },
+    {
+      "item": "createchromaticreturn:chromatic_compound"
+    },
+    {
+      "item": "createchromaticreturn:chromatic_compound"
+    },
+    {
+      "item": "createchromaticreturn:chromatic_compound"
+    },
+    {
+      "item": "createchromaticreturn:chromatic_compound"
+    },
+    {
+      "item": "createchromaticreturn:chromatic_compound"
+    },
+    {
+      "item": "createchromaticreturn:chromatic_compound"
+    },
+    {
+      "item": "createchromaticreturn:chromatic_compound"
+    },
+    {
+      "item": "createchromaticreturn:chromatic_compound"
+    },
+    {
+      "item": "createchromaticreturn:chromatic_compound"
+    },
+    {
+      "item": "createchromaticreturn:chromatic_compound"
+    },
+    {
+      "item": "createchromaticreturn:chromatic_compound"
+    },
+    {
+      "item": "createchromaticreturn:chromatic_compound"
+    },
+    {
+      "item": "createchromaticreturn:chromatic_compound"
+    },
+    {
+      "item": "minecraft:string"
+    },
+    {
+      "item": "minecraft:string"
+    },
+    {
+      "item": "minecraft:string"
+    },
+    {
+      "item": "minecraft:string"
+    },
+    {
+      "item": "minecraft:string"
+    },
+    {
+      "item": "minecraft:string"
+    },
+    {
+      "item": "minecraft:string"
+    },
+    {
+      "item": "minecraft:string"
+    },
+    {
+      "item": "minecraft:string"
+    },
+    {
+      "item": "minecraft:string"
+    },
+    {
+      "item": "minecraft:string"
+    },
+    {
+      "item": "minecraft:string"
+    },
+    {
+      "item": "minecraft:string"
+    },
+    {
+      "item": "minecraft:string"
+    },
+    {
+      "item": "minecraft:string"
+    },
+    {
+      "item": "minecraft:string"
+    },
+    {
+      "item": "minecraft:nether_star"
+    }
+  ],
+  "results": [
+    {
+      "count": 15,
+      "item": "createchromaticreturn:silkstrum"
+    }
+  ],
+  "heatRequirement": "superheated"
+}

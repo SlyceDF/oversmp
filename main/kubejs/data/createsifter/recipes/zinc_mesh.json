@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " C ",
+    "SZS",
+    "SSS"
+  ],
+  "key": {
+    "Z": {
+      "item": "create:zinc_ingot"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "C": {
+      "item": "farmersdelight:canvas"
+    }
+  },
+  "result": {
+    "item": "createsifter:zinc_mesh",
+    "count": 1
+  }
+}

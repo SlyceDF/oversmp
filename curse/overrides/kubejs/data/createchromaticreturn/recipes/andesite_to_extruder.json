@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "createchromaticreturn:andesite_component"
+  },
+  "addition": {
+    "tag": "forge:stone"
+  },
+  "result": {
+    "item": "create_mechanical_extruder:mechanical_extruder",
+    "count": 16
+  }
+}

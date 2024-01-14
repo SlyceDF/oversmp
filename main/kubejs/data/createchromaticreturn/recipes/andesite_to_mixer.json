@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "createchromaticreturn:andesite_component"
+  },
+  "addition": {
+    "item": "create:whisk"
+  },
+  "result": {
+    "item": "create:mechanical_mixer",
+    "count": 16
+  }
+}

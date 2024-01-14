@@ -1,0 +1,10 @@
+{
+	"type":"createaddition:rolling",
+	"input": {
+      	"tag": "forge:ingots/copper"
+	},
+	"result": {
+		"item": "overchisel:copper_pipe",
+		"count": 1
+	}
+}

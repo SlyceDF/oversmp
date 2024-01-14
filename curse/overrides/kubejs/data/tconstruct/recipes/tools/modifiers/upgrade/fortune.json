@@ -1,0 +1,25 @@
+{
+  "type": "tconstruct:modifier",
+  "inputs": [
+    {
+      "tag": "forge:ingots/fortunite"
+    },
+    {
+      "tag": "forge:nuggets/netherite_scrap"
+    },
+  ],
+  "tools": [
+    {
+      "tag": "tconstruct:modifiable/harvest"
+    }
+  ],
+  "slots": {
+    "upgrades": 1
+  },
+  "allow_crystal": true,
+  "result": {
+    "name": "tconstruct:fortune",
+    "level": 1
+  },
+  "max_level": 3
+}

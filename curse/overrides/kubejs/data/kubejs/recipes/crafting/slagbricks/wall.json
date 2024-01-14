@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "tag": "forge:bricks/slag"
+    }
+  },
+  "result": {
+    "item": "kubejs:slag_brick_wall",
+    "count": 6
+  }
+}

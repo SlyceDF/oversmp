@@ -1,0 +1,19 @@
+{
+  "type": "create:item_application",
+  "ingredients": [
+    {
+      "item": "create:sticker"
+    },
+    {
+      "item": "minecraft:copper_block"
+    },
+    {
+      "tag": "kubejs:kinetic_mechanism"
+    }
+  ],
+  "results": [
+    {
+      "item": "create_things_and_misc:sticky_launcher"
+    }
+  ]
+}

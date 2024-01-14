@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "createchromaticreturn:brass_component"
+  },
+  "addition": {
+    "tag": "computercraft:wired_modem"
+  },
+  "result": {
+    "item": "createaddition:digital_adapter",
+    "count": 45
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "rCP",
+    "FRT",
+    "SQP"
+  ],
+  "key": {
+    "r": {
+      "item": "pneumaticcraft:turbine_rotor"
+    },
+    "C": {
+      "item": "pneumaticcraft:compressed_iron_gear"
+    },
+    "P": {
+      "item": "pneumaticcraft:printed_circuit_board"
+    },
+    "F": {
+      "tag": "forge:storage_blocks/redstone"
+    },
+    "R": {
+      "item": "kubejs:absorbing_coil"
+    },
+    "T": {
+      "item": "pneumaticcraft:advanced_pressure_tube"
+    },
+    "Q": {
+      "item": "minecraft:blast_furnace"
+    },
+    "S": {
+      "tag": "kubejs:solenoid"
+    }
+  },
+  "result": {
+    "item": "pneumaticcraft:flux_compressor"
+  }
+}

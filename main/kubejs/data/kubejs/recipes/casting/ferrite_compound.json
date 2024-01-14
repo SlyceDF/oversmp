@@ -1,0 +1,18 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": [
+  {
+    "item": "create:sand_paper"
+  },
+  {
+    "item": "create:red_sand_paper"
+  }
+],
+  "cast_consumed": true,
+  "fluid": {
+    "tag": "forge:volatile_sky_liquid",
+    "amount": 500
+  },
+  "result": "kubejs:ferrite_compound",
+  "cooling_time": 60
+}

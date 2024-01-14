@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EDE",
+    "PSP",
+    "GGG"
+  ],
+  "key": {
+    "D": {
+      "item": "kubejs:absorption_catalyst"
+    },
+    "E": {
+      "tag": "forge:gems/emerald"
+    },
+    "P": {
+      "tag": "pneumaticcraft:plastic_sheets"
+    },
+    "S": {
+      "item": "minecraft:soul_sand"
+    },
+    "G": {
+      "tag": "forge:ingots/platinum"
+    }
+  },
+  "result": {
+    "item": "pneumaticcraft:memory_stick"
+  }
+}

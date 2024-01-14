@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:rockwool"
+  },
+  "result": {
+    "fluid": "kubejs:pahoehoe_lava",
+    "amount": 100
+  },
+  "temperature": 950,
+  "time": 79
+}

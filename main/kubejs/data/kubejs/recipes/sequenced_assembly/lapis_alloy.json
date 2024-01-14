@@ -1,0 +1,84 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "minecraft:lapis_lazuli"
+  },
+  "transitionalItem": {
+    "item": "kubejs:incomplete_lapis_alloy"
+  },
+  "sequence": [
+  {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_lapis_alloy"
+        },
+        {
+          "item": "overchisel:mythril"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:incomplete_lapis_alloy"
+        }
+      ]
+    },
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "kubejs:incomplete_lapis_alloy"
+    },
+    {
+      "fluid": "tconstruct:molten_lead",
+      "amount": 10
+    }
+  ],
+  "results": [
+    {
+          "item": "kubejs:incomplete_lapis_alloy"
+  }
+ ]
+},
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "kubejs:incomplete_lapis_alloy"
+    },
+    {
+      "fluid": "tconstruct:molten_tin",
+      "amount": 10
+    }
+  ],
+  "results": [
+    {
+          "item": "kubejs:incomplete_lapis_alloy"
+  }
+ ]
+},
+  {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_lapis_alloy"
+        },
+        {
+          "tag": "minecraft:sand"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:incomplete_lapis_alloy"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:lapis_alloy",
+      "count": 5
+    }
+  ],
+  "loops": 1
+}

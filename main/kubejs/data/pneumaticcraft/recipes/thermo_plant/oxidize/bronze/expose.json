@@ -1,0 +1,20 @@
+{
+  "type": "pneumaticcraft:thermo_plant",
+  "item_input": {
+    "item": "alloyed:bronze_block"
+  },
+  "fluid_input": {
+    "type": "pneumaticcraft:fluid",
+    "fluid": "chemlib:oxygen_fluid",
+    "amount": 20
+  },
+  "item_output": {
+    "item": "alloyed:exposed_bronze_block"
+  },
+  "temperature": {
+    "min_temp": 313
+  },
+  "pressure": 1.5,
+  "speed": 1,
+  "exothermic": false
+}

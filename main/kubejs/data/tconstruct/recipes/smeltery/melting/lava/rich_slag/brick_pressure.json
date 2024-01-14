@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "kubejs:rich_slag_brick_pressure_plate"
+  },
+  "result": {
+    "fluid": "minecraft:lava",
+    "amount": 450
+  },
+  "temperature": 990,
+  "time": 148
+}

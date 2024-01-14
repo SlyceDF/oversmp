@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "createchromaticreturn:andesite_component"
+  },
+  "addition": {
+    "item": "create:brass_hand"
+  },
+  "result": {
+    "item": "create:deployer",
+    "count": 16
+  }
+}

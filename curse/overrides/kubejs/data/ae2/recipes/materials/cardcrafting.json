@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:workbenches"
+    },
+    {
+      "item": "ae2:basic_card"
+    }
+  ],
+  "result": {
+    "item": "ae2:crafting_card"
+  }
+}

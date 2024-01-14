@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "e e",
+    "sbs"
+  ],
+  "key": {
+    "e": {
+      "item": "kubejs:echo_shard"
+    },
+    "s": {
+      "item": "kubejs:sculk_block"
+    },
+    "b": {
+      "tag": "forge:slimeball/blood"
+    }
+  },
+  "result": {
+    "item": "minecraft:sculk_sensor",
+    "count": 2
+  }
+}

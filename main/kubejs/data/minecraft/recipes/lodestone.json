@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SAS",
+    "tTt",
+    "SAS"
+  ],
+  "key": {
+    "T": {
+      "tag": "forge:ingots/netherite"
+    },
+    "t": {
+      "item": "kubejs:magnetite"
+    },
+    "A": {
+      "tag": "forge:plates/invar"
+    },
+    "S": {
+      "item": "minecraft:chiseled_stone_bricks"
+    }
+  },
+  "result": {
+    "item": "minecraft:lodestone"
+  }
+}

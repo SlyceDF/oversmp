@@ -1,0 +1,85 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "minecraft:smooth_stone_slab"
+  },
+  "transitionalItem": {
+    "item": "kubejs:incomplete_redstone_circuit_plate"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_redstone_circuit_plate"
+        },
+        [
+          {
+            "item": "create_things_and_misc:rose_quartz_sheet"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "item": "kubejs:incomplete_redstone_circuit_plate"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_redstone_circuit_plate"
+        },
+        [
+          {
+            "tag": "forge:plates/andesite_alloy"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "item": "kubejs:incomplete_redstone_circuit_plate"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_redstone_circuit_plate"
+        },
+        [
+          {
+            "tag": "forge:dusts/certus_quartz"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "item": "kubejs:incomplete_redstone_circuit_plate"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_redstone_circuit_plate"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:incomplete_redstone_circuit_plate"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "supercircuitmaker:circuit",
+      "count": 8
+    }
+  ],
+  "loops": 2
+}

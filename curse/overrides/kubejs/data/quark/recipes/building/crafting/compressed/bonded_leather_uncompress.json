@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "quark:bonded_leather"
+    }
+  ],
+  "result": {
+    "item": "kubejs:tanned_leather",
+    "count": 9
+  }
+}

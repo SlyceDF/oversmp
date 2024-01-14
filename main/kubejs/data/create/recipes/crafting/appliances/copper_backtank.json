@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AGA",
+    "PBP",
+    "CSD"
+  ],
+  "key": {
+    "G": {
+      "item": "create:shaft"
+    },
+    "A": {
+      "item": "create:andesite_alloy"
+    },
+    "B": {
+      "item": "minecraft:copper_block"
+    },
+    "P": {
+      "tag": "kubejs:hydraulic_mechanism"
+    },
+    "S": {
+      "item": "pneumaticcraft:regulator_tube_module"
+    },
+    "C": {
+      "item": "pneumaticcraft:reinforced_air_canister"
+    },
+    "D": {
+      "item": "alloyedguns:compressed_air_canister"
+    }
+  },
+  "result": {
+    "item": "create:copper_backtank"
+  }
+}

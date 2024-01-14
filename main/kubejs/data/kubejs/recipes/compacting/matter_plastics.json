@@ -1,0 +1,59 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "ae2:matter_ball"
+    },
+    {
+      "item": "ae2:matter_ball"
+    },
+    {
+      "item": "ae2:matter_ball"
+    },
+    {
+      "item": "ae2:matter_ball"
+    },
+    {
+      "item": "ae2:matter_ball"
+    },
+    {
+      "item": "ae2:matter_ball"
+    },
+    {
+      "item": "ae2:matter_ball"
+    },
+    {
+      "item": "ae2:matter_ball"
+    },
+    {
+      "item": "ae2:matter_ball"
+    },
+    {
+      "item": "ae2:matter_ball"
+    },
+    {
+      "item": "ae2:matter_ball"
+    },
+    {
+      "item": "ae2:matter_ball"
+    },
+    {
+      "item": "ae2:matter_ball"
+    },
+    {
+      "item": "ae2:matter_ball"
+    },
+    {
+      "item": "ae2:matter_ball"
+    },
+    {
+      "item": "ae2:matter_ball"
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:matter_plastics",
+      "count": 7
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "tag": "minecraft:wooden_slabs"
+  },
+  "transitionalItem": {
+    "item": "kubejs:incomplete_kinetic_mechanism_x4"
+  },
+  "sequence": [
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "kubejs:incomplete_kinetic_mechanism_x4"
+    },
+    {
+      "fluid": "kubejs:creosote_oil",
+      "amount": 25
+    }
+   ],
+  "results": [
+    {
+          "item": "kubejs:incomplete_kinetic_mechanism_x4"
+  }
+ ]
+},
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_kinetic_mechanism_x4"
+        },
+        {
+          "tag": "extendedgears:small_cogwheel"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:incomplete_kinetic_mechanism_x4"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_kinetic_mechanism_x4"
+        },
+        {
+          "tag": "extendedgears:large_cogwheel"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:incomplete_kinetic_mechanism_x4"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_kinetic_mechanism_x4"
+        },
+        {
+          "item": "create:andesite_alloy"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:incomplete_kinetic_mechanism_x4"
+        }
+      ]
+    },
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "kubejs:incomplete_kinetic_mechanism_x4"
+    },
+    {
+      "fluid": "kubejs:creosote_oil",
+      "amount": 25
+    }
+   ],
+  "results": [
+    {
+          "item": "kubejs:incomplete_kinetic_mechanism_x4"
+  }
+ ]
+}
+  ],
+  "results": [
+    {
+      "item": "kubejs:kinetic_mechanism",
+      "count": 4
+    }
+  ],
+  "loops": 1
+}

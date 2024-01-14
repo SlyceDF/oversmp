@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:nuggets/tin"
+    },
+    {
+      "tag": "forge:gems/lapis"
+    },
+    {
+      "tag": "forge:nuggets/lead"
+    },
+    {
+      "item": "overchisel:mythril"
+    }
+  ],
+  "result": {
+    "item": "kubejs:lapis_alloy",
+    "count": 2
+  }
+}

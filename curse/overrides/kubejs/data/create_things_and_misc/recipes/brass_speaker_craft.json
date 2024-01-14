@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "create:railway_casing"
+    },
+    "3": {
+      "item": "create:filter"
+    },
+    "4": {
+      "tag": "kubejs:vibration_mechanism"
+    },
+    "5": {
+      "item": "create:filter"
+    },
+    "7": {
+      "item": "create:railway_casing"
+    }
+  },
+  "result": {
+    "item": "create_things_and_misc:brass_speaker",
+    "count": 2
+  }
+}

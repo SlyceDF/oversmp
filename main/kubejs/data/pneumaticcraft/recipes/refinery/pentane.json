@@ -1,0 +1,21 @@
+{
+  "type": "pneumaticcraft:refinery",
+  "input": {
+    "type": "pneumaticcraft:fluid",
+    "tag": "forge:pentane",
+    "amount": 60
+  },
+  "temperature": {
+    "min_temp": 371
+  },
+  "results": [
+    {
+      "fluid": "chemlib:hexane_fluid",
+      "amount": 50
+    },
+    {
+      "fluid": "chemlib:hydrogen_fluid",
+      "amount": 10
+    }
+  ]
+}

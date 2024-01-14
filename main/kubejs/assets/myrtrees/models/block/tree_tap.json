@@ -1,0 +1,89 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/block",
+	"textures": {
+		"0": "myrtrees:block/tree_tap",
+		"particle": "myrtrees:block/tree_tap"
+	},
+	"elements": [
+		{
+			"name": "bottom_flap",
+			"from": [7, -3, 1],
+			"to": [9, -2.5, 5],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [8, 3, 9]},
+			"faces": {
+				"north": {"uv": [0, 0, 2, 0.5], "texture": "#0"},
+				"east": {"uv": [0, 0, 4, 0.5], "texture": "#0"},
+				"south": {"uv": [0, 0, 2, 0.5], "texture": "#0"},
+				"west": {"uv": [0, 0, 4, 0.5], "texture": "#0"},
+				"up": {"uv": [0, 0, 2, 4], "texture": "#0"},
+				"down": {"uv": [0, 0, 2, 4], "texture": "#0"}
+			}
+		},
+		{
+			"name": "right_flap",
+			"from": [9, -3, 1],
+			"to": [9.5, -1, 5],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [8, 3, 9]},
+			"faces": {
+				"north": {"uv": [0, 0, 0.5, 2], "texture": "#0"},
+				"east": {"uv": [0, 0, 4, 2], "texture": "#0"},
+				"south": {"uv": [0, 0, 0.5, 2], "texture": "#0"},
+				"west": {"uv": [0, 0, 4, 2], "texture": "#0"},
+				"up": {"uv": [0, 0, 0.5, 4], "texture": "#0"},
+				"down": {"uv": [0, 0, 0.5, 4], "texture": "#0"}
+			}
+		},
+		{
+			"name": "left_flap",
+			"from": [6.6, -3, 1],
+			"to": [7.1, -1, 5],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [8, 3, 9]},
+			"faces": {
+				"north": {"uv": [0, 0, 0.5, 2], "texture": "#0"},
+				"east": {"uv": [0, 0, 4, 2], "texture": "#0"},
+				"south": {"uv": [0, 0, 0.5, 2], "texture": "#0"},
+				"west": {"uv": [0, 0, 4, 2], "texture": "#0"},
+				"up": {"uv": [0, 0, 0.5, 4], "texture": "#0"},
+				"down": {"uv": [0, 0, 0.5, 4], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 3, 2.5],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 3, 2.5],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"firstperson_righthand": {
+			"translation": [0, 3.5, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [0, 3.5, 0]
+		},
+		"ground": {
+			"rotation": [-22.5, 0, 0],
+			"translation": [0, 7.5, 3.25]
+		},
+		"gui": {
+			"rotation": [13.75, 45, 0],
+			"translation": [11.5, 14, 0],
+			"scale": [2.5, 2.5, 2.5]
+		},
+		"head": {
+			"rotation": [0, 0, 180],
+			"translation": [0, -14.75, 0]
+		}
+	},
+	"groups": [
+		{
+			"name": "Treetap",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1, 2]
+		}
+	]
+}

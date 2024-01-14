@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "000",
+    "010",
+    "000"
+  ],
+  "key": {
+    "0": {
+      "tag": "forge:ingots/brass"
+    },
+    "1": {
+      "item": "create:railway_casing"
+    }
+  },
+  "result": {
+    "item": "create_sa:brass_cube",
+    "count": 1
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    "12121",
+    "32423",
+    " 252 "
+  ],
+  "key": {
+    "1": {
+      "tag": "extendedgears:small_cogwheel"
+    },
+    "2": {
+      "tag": "forge:ingots/brass"
+    },
+    "3": {
+      "item": "create:encased_fan"
+    },
+    "4": {
+      "item": "create_sa:steam_engine"
+    },
+    "5": {
+      "item": "create:andesite_alloy"
+    }
+  },
+  "result": {
+    "item": "create_sa:brass_jetpack_chestplate"
+  },
+  "acceptMirrored": false
+}

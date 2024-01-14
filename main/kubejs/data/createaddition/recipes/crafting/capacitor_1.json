@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	["C",
+	 "I"],
+	"key":
+	{
+		"C":
+		{
+			"item": "kubejs:capacitance_complex"
+		},
+		"I":
+		{
+			"tag": "forge:plates/ferrite"
+		}
+	},
+	"result":{
+		"item": "createaddition:capacitor",
+		"count": 1
+	}
+}

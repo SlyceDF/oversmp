@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:nuggets/experience"
+  },
+  "result": {
+    "fluid": "pneumaticcraft:memory_essence",
+    "amount": 60
+  },
+  "temperature": 200,
+  "time": 50
+}

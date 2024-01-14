@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "createchromaticreturn:andesite_component"
+  },
+  "addition": {
+    "item": "kubejs:drill_head"
+  },
+  "result": {
+    "item": "create:mechanical_drill",
+    "count": 25
+  }
+}

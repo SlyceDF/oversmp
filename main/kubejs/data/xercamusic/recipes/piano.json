@@ -1,0 +1,13 @@
+
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern": [
+        "ppp",
+        "sis",
+        "ppp"
+    ],
+    "key": {"s": {"item": "overchisel:strengthened_string"}, "i": {"tag": "forge:nuggets/aluminum"}, "p": {"tag": "minecraft:planks"}},
+    "result": {"item": "xercamusic:piano"}
+}
+        

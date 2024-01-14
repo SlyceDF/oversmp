@@ -1,0 +1,35 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    "02120",
+    "32423",
+    "35653"
+  ],
+  "key": {
+  	"0": {
+      "tag": "extendedgears:small_cogwheel"
+    },
+    "1": {
+      "item": "create:belt_connector"
+    },
+    "2": {
+      "item": "create:andesite_alloy"
+    },
+    "3": {
+      "item": "create:encased_fan"
+    },
+    "4": {
+      "item": "create_sa:heat_engine"
+    },
+    "5": {
+      "tag": "forge:ingots/zinc"
+    },
+    "6": {
+      "item": "create:andesite_alloy"
+    }
+  },
+  "result": {
+    "item": "create_sa:andesite_jetpack_chestplate"
+  },
+  "acceptMirrored": false
+}

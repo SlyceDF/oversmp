@@ -1,0 +1,78 @@
+{
+  "type": "createsifter:sifting",
+  "ingredients": [
+    {
+      "item": "createsifter:zinc_mesh"
+    },
+    {
+      "item": "minecraft:gravel"
+    }
+  ],
+  "results": [
+    {
+      "item": "create:copper_nugget",
+      "chance": 0.15
+    },
+    {
+      "item": "create:zinc_nugget",
+      "chance": 0.15
+    },
+    {
+      "item": "minecraft:iron_nugget",
+      "chance": 0.1
+    },
+    {
+      "item": "minecraft:gold_nugget",
+      "chance": 0.2
+    },
+    {
+      "item": "minecraft:coal",
+      "chance": 0.2
+    },
+    {
+      "item": "minecraft:lapis_lazuli",
+      "chance": 0.1
+    },
+    {
+      "item": "minecraft:flint",
+      "chance": 0.1
+    },
+    {
+      "item": "create:experience_nugget",
+      "chance": 0.1
+    },
+    {
+      "item": "kubejs:nickel_nugget",
+      "chance": 0.4
+    },
+    {
+      "item": "chemlib:aluminum_nugget",
+      "chance": 0.15
+    },
+    {
+      "item": "chemlib:osmium_nugget",
+      "chance": 0.1
+    },
+    {
+      "item": "kubejs:lead_nugget",
+      "chance": 0.1
+    },
+    {
+      "item": "kubejs:tin_nugget",
+      "chance": 0.3
+    },
+    {
+      "item": "overchisel:mythril",
+      "chance": 0.05
+    },
+    {
+      "item": "minecraft:amethyst_shard",
+      "chance": 0.05
+    },
+    {
+      "item": "overchisel:bitumen",
+      "chance": 0.1
+    }
+  ],
+  "processingTime": 300
+}

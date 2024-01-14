@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LXL",
+    "CMC",
+    "LXL"
+  ],
+  "key": {
+    "L": {
+      "tag": "pneumaticcraft:upgrade_components"
+    },
+    "X": {
+      "tag": "forge:ingots/compressed_iron"
+    },
+    "C": {
+      "tag": "pneumaticcraft:plastic_sheets"
+    },
+    "M": {
+      "item": "kubejs:chromatic_resonator"
+    }
+  },
+  "result": {
+    "item": "pneumaticcraft:magnet_upgrade"
+  }
+}

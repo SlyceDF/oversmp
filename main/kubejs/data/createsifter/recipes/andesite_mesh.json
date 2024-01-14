@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " C ",
+    "SAS",
+    "SSS"
+  ],
+  "key": {
+    "A": {
+      "item": "create:andesite_alloy"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "C": {
+      "item": "farmersdelight:canvas"
+    }
+  },
+  "result": {
+    "item": "createsifter:andesite_mesh",
+    "count": 1
+  }
+}

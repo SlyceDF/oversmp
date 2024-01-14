@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "kubejs:slag"
+  },
+  "result": "kubejs:rockwool",
+  "cookingtime": 200
+}

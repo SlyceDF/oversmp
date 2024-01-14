@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " G ",
+    "RtR",
+    " R "
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "G": {
+      "item": "minecraft:glowstone"
+    },
+    "t": {
+      "tag": "forge:nuggets/tungsten"
+    }
+  },
+  "result": {
+    "item": "minecraft:redstone_lamp"
+  }
+}

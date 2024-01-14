@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " B ",
+    "DCD",
+    " I "
+  ],
+  "key": {
+    "B": {
+      "item": "create:copper_casing"
+    },
+    "C": {
+      "item": "minecraft:dried_kelp_block"
+    },
+    "I": {
+      "tag": "forge:plates/copper"
+    },
+    "D": {
+      "tag": "kubejs:hydraulic_mechanism"
+    }
+  },
+  "result": {
+    "item": "create:hose_pulley"
+  }
+}

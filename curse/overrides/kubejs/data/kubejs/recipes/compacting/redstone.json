@@ -1,0 +1,19 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "fluid": "minecraft:water",
+      "amount": 125
+    }
+  ],
+  "results": [
+    {
+      "fluid": "kubejs:destabilized_redstone",
+      "amount": 125
+    }
+  ],
+  "heatRequirement": "heated"
+}

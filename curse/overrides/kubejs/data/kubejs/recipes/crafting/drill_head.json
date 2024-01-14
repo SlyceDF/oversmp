@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "tA ",
+    "ATA",
+    " A "
+  ],
+  "key": {
+    "T": {
+      "tag": "forge:ingots/tin"
+    },
+    "t": {
+      "tag": "forge:plates/tin"
+    },
+    "A": {
+      "item": "create:andesite_alloy"
+    }
+  },
+  "result": {
+    "item": "kubejs:drill_head"
+  }
+}

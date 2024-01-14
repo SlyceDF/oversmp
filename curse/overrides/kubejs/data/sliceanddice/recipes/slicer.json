@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "B",
+    "C",
+    "I"
+  ],
+  "key": {
+    "I": {
+      "tag": "kubejs:kinetic_mechanism"
+    },
+    "B": {
+      "item": "create:andesite_casing"
+    },
+    "C": {
+      "item": "create:turntable"
+    }
+  },
+  "result": {
+    "item": "sliceanddice:slicer"
+  }
+}

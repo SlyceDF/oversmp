@@ -1,0 +1,110 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "create:andesite_casing"
+  },
+  "transitionalItem": {
+    "item": "create:andesite_casing"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:andesite_casing"
+        },
+        {
+          "tag": "kubejs:kinetic_mechanism"
+        }
+      ],
+      "results": [
+        {
+          "item": "create:andesite_casing"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:andesite_casing"
+        },
+        {
+          "tag": "kubejs:kinetic_mechanism"
+        }
+      ],
+      "results": [
+        {
+          "item": "create:andesite_casing"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:andesite_casing"
+        },
+        {
+          "tag": "kubejs:kinetic_mechanism"
+        }
+      ],
+      "results": [
+        {
+          "item": "create:andesite_casing"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:andesite_casing"
+        },
+        {
+          "tag": "kubejs:kinetic_mechanism"
+        }
+      ],
+      "results": [
+        {
+          "item": "create:andesite_casing"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:andesite_casing"
+        },
+        {
+          "tag": "forge:nuggets/industrium"
+        }
+      ],
+      "results": [
+        {
+          "item": "create:andesite_casing"
+        }
+      ]
+    },
+    {
+      "type": "create:cutting",
+      "ingredients": [
+        {
+          "item": "create:andesite_casing"
+        }
+      ],
+      "results": [
+        {
+          "item": "create:andesite_casing"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:andesite_machine"
+    }
+  ],
+  "loops": 2
+}

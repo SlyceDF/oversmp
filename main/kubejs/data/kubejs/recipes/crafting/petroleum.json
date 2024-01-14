@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "pneumaticcraft:oil_bucket"
+    },
+    {
+      "tag": "overchisel:purifier"
+    },
+    {
+      "tag": "overchisel:stir_rod"
+    }
+  ],
+  "result": {
+    "item": "overchisel:petroleum_bucket",
+    "count": 1
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "tag": "tconstruct:casts/multi_use/gem"
+  },
+  "fluid": {
+    "name": "kubejs:pahoehoe_lava",
+    "amount": 100
+  },
+  "result": {
+    "item": "kubejs:slag"
+  },
+  "cooling_time": 83
+}

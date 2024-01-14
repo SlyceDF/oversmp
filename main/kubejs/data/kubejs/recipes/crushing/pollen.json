@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "byg:pollen_block"
+    }
+  ],
+  "results": [
+    {
+      "item": "byg:pollen_dust",
+      "count": 3
+    },
+    {
+      "item": "byg:pollen_dust",
+      "chance": 0.5
+    }
+  ],
+  "processingTime": 200
+}

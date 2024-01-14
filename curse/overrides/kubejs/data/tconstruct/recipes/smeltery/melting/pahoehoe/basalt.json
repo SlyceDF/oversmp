@@ -1,0 +1,17 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": [
+    {
+      "item": "minecraft:basalt"
+    },
+    {
+      "item": "minecraft:polished_basalt"
+    }
+  ],
+  "result": {
+    "fluid": "kubejs:pahoehoe_lava",
+    "amount": 450
+  },
+  "temperature": 950,
+  "time": 138
+}

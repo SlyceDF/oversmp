@@ -1,0 +1,82 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "createchromaticreturn:annealed_mechanism"
+  },
+  "transitionalItem": {
+    "item": "kubejs:incomplete_abstruse_mechanism"
+  },
+  "sequence": [
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "kubejs:incomplete_abstruse_mechanism"
+    },
+    {
+      "fluid": "kubejs:destabilized_redstone",
+      "amount": 125
+    }
+  ],
+  "results": [
+    {
+          "item": "kubejs:incomplete_abstruse_mechanism"
+  }
+ ]
+},
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_abstruse_mechanism"
+        },
+        {
+          "item": "create:sturdy_sheet"
+        }
+      ],
+  "results": [
+    {
+          "item": "kubejs:incomplete_abstruse_mechanism"
+  }
+ ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_abstruse_mechanism"
+        },
+        {
+          "tag": "forge:ingots/enderium"
+        }
+      ],
+  "results": [
+    {
+          "item": "kubejs:incomplete_abstruse_mechanism"
+  }
+ ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_abstruse_mechanism"
+        },
+        {
+          "item": "kubejs:booting_medium"
+        }
+      ],
+  "results": [
+    {
+          "item": "kubejs:incomplete_abstruse_mechanism"
+  }
+ ]
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:abstruse_mechanism"
+    }
+  ],
+  "loops": 1
+}

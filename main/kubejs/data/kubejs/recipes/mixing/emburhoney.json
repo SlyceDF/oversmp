@@ -1,0 +1,18 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "byg:embur_gel_ball"
+    },
+    {
+      "item": "kubejs:wax_mote"
+    }
+  ],
+  "results": [
+    {
+      "fluid": "create:honey",
+      "amount": 125
+    }
+  ],
+  "heatRequirement": "heated"
+}

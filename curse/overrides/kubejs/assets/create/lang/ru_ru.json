@@ -1,0 +1,10 @@
+{
+  "block.create.framed_glass_door": "Дверь из резного стекла",
+  "block.create.framed_glass_trapdoor": "Люк из резного стекла",
+  "block.create.framed_glass": "Резное стекло",
+  "block.create.horizontal_framed_glass": "Горизонтальное резное стекло",
+  "block.create.vertical_framed_glass": "Вертикальное резное стекло",
+  "block.create.framed_glass_pane": "Резная стеклянная панель",
+  "block.create.horizontal_framed_glass_pane": "Горизонтальная резная стеклянная панель,
+  "block.create.vertical_framed_glass_pane": "Вертикальная резная стеклянная панель"
+}

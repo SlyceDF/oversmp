@@ -1,0 +1,32 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "kubejs:item/silver/plate1"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "count": 0.00000
+      },
+      "model": "kubejs:item/1/silver"
+    },
+    {
+      "predicate": {
+        "count": 0.25000
+      },
+      "model": "kubejs:item/2/silver"
+    },
+    {
+      "predicate": {
+        "count": 0.50000
+      },
+      "model": "kubejs:item/3/silver"
+    },
+    {
+      "predicate": {
+        "count": 1.00000
+      },
+      "model": "kubejs:item/4/silver"
+    }
+  ]
+}

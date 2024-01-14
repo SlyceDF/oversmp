@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "tTt",
+    " A "
+  ],
+  "key": {
+    "T": {
+      "tag": "forge:dusts/redstone"
+    },
+    "t": {
+      "item": "kubejs:magnetite"
+    },
+    "A": {
+      "tag": "forge:nuggets/iron"
+    }
+  },
+  "result": {
+    "item": "minecraft:compass"
+  }
+}

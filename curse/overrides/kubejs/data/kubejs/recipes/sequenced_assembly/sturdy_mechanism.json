@@ -1,0 +1,66 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "kubejs:kinetic_mechanism"
+  },
+  "transitionalItem": {
+    "item": "kubejs:incomplete_sturdy_mechanism"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_sturdy_mechanism"
+        },
+        {
+          "tag": "forge:plates/brass"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:incomplete_sturdy_mechanism"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_sturdy_mechanism"
+        },
+        {
+          "item": "create:polished_rose_quartz"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:incomplete_sturdy_mechanism"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_sturdy_mechanism"
+        },
+        {
+          "tag": "forge:nuggets/iron"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:incomplete_sturdy_mechanism"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:sturdy_mechanism",
+      "count": 2
+    }
+  ],
+  "loops": 1
+}

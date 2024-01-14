@@ -1,0 +1,110 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "create:copper_casing"
+  },
+  "transitionalItem": {
+    "item": "create:copper_casing"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:copper_casing"
+        },
+        {
+          "tag": "kubejs:hydraulic_mechanism"
+        }
+      ],
+      "results": [
+        {
+          "item": "create:copper_casing"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:copper_casing"
+        },
+        {
+          "tag": "kubejs:hydraulic_mechanism"
+        }
+      ],
+      "results": [
+        {
+          "item": "create:copper_casing"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:copper_casing"
+        },
+        {
+          "tag": "kubejs:hydraulic_mechanism"
+        }
+      ],
+      "results": [
+        {
+          "item": "create:copper_casing"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:copper_casing"
+        },
+        {
+          "tag": "kubejs:hydraulic_mechanism"
+        }
+      ],
+      "results": [
+        {
+          "item": "create:copper_casing"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:copper_casing"
+        },
+        {
+          "tag": "forge:nuggets/industrium"
+        }
+      ],
+      "results": [
+        {
+          "item": "create:copper_casing"
+        }
+      ]
+    },
+    {
+      "type": "create:cutting",
+      "ingredients": [
+        {
+          "item": "create:copper_casing"
+        }
+      ],
+      "results": [
+        {
+          "item": "create:copper_casing"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:copper_machine"
+    }
+  ],
+  "loops": 2
+}

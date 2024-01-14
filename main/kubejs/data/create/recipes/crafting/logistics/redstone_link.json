@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "C",
+    "S",
+    "F"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:redstone_torch"
+    },
+    "S": {
+      "item": "create:brass_casing"
+    },
+    "F": {
+      "item": "ae2:fluix_pearl"
+    }
+  },
+  "result": {
+    "item": "create:redstone_link",
+    "count": 2
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "kubejs:preserver_tube"
+    }
+  ],
+  "result": {
+    "item": "create:empty_schematic"
+  }
+}

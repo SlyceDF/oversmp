@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:paper"
+    },
+    [
+    {
+      "item": "minecraft:sand"
+    },
+    {
+      "item": "byg:white_sand"
+    },
+    {
+      "item": "byg:blue_sand"
+    },
+    {
+      "item": "byg:purple_sand"
+    },
+    {
+      "item": "byg:quartzite_sand"
+    },
+    {
+      "item": "byg:end_sand"
+    }
+    ]
+  ],
+  "result": {
+    "item": "create:sand_paper"
+  }
+}

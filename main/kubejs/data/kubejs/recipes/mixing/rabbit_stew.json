@@ -1,0 +1,25 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:carrot"
+    },
+    {
+      "item": "minecraft:potato"
+    },
+    {
+      "item": "minecraft:rabbit"
+    },
+    {
+      "fluid": "tconstruct:mushroom_stew",
+      "amount": 125
+    }
+  ],
+  "results": [
+    {
+      "fluid": "tconstruct:rabbit_stew",
+      "amount": 250
+    }
+  ],
+  "heatRequirement": "heated"
+}

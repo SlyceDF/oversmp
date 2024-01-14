@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "lCl",
+    "LIL",
+    "SDS"
+  ],
+  "key": {
+    "L": {
+      "tag": "minecraft:logs"
+    },
+    "D": {
+      "item": "minecraft:dispenser"
+    },
+    "S": {
+      "item": "minecraft:smooth_stone"
+    },
+    "I": {
+      "tag": "forge:storage_blocks/tin"
+    },
+    "C": {
+      "item": "pneumaticcraft:cannon_barrel"
+    },
+    "l": {
+      "item": "kubejs:preserver_tube"
+    }
+  },
+  "result": {
+    "item": "create:schematicannon"
+  }
+}

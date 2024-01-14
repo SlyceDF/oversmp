@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "createchromaticreturn:brass_component"
+  },
+  "addition": {
+    "item": "createaddition:capacitor"
+  },
+  "result": {
+    "item": "createaddition:modular_accumulator",
+    "count": 28
+  }
+}

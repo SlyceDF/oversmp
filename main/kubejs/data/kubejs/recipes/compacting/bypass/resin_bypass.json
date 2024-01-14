@@ -1,0 +1,35 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "tag": "overchisel:resin_extractable"
+    },
+    {
+      "tag": "overchisel:resin_extractable"
+    },
+    {
+      "tag": "overchisel:resin_extractable"
+    },
+    {
+      "tag": "overchisel:resin_extractable"
+    },
+    {
+      "tag": "overchisel:resin_extractable"
+    },
+    {
+      "tag": "overchisel:resin_extractable"
+    },
+    {
+      "item": "minecraft:bucket"
+    },
+    {
+      "fluid": "minecraft:water",
+      "amount": 500
+    }
+  ],
+  "results": [
+    {
+      "item": "overchisel:resin_bucket"
+    }
+  ]
+}

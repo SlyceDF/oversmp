@@ -1,0 +1,15 @@
+{
+	"type": "create:crushing",
+    "ingredients": [
+    	{
+    		"item": "byg:raw_quartz_block"
+    	}
+    ], 
+	"results": [
+		{
+			"item": "byg:quartzite_sand",
+			"count": 4
+		}
+	],
+	"processingTime": 200
+}

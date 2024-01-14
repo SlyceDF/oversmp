@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ICI",
+    "RTR",
+    "SIS"
+  ],
+  "key": {
+    "S": {
+      "item": "pneumaticcraft:reinforced_stone_slab"
+    },
+    "T": {
+      "type": "forge:nbt",
+      "item": "pneumaticcraft:small_tank",
+      "count": 1
+    },
+    "R": {
+      "tag": "forge:dusts/redstone"
+    },
+    "C": {
+      "tag": "forge:plates/constantan"
+    },
+    "I": {
+      "tag": "forge:plates/invar"
+    }
+  },
+  "result": {
+    "item": "pneumaticcraft:refinery"
+  }
+}

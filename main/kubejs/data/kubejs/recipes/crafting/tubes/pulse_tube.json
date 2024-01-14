@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "A",
+    "i"
+  ],
+  "key": {
+    "A": {
+      "tag": "forge:ingots/enderium"
+    },
+    "i": {
+      "tag": "forge:plates/ferrite"
+    }
+  },
+  "result": {
+    "item": "kubejs:pulse_tube",
+    "count": 1
+  }
+}

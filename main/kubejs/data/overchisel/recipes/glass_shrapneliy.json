@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "overchisel:hammer"
+    },
+    {
+      "item": "tconstruct:clear_glass"
+    },
+    {
+      "item": "tconstruct:clear_glass"
+    },
+    {
+      "tag": "overchisel:doper"
+    }
+  ],
+  "result": {
+    "item": "overchisel:glass_shrapnel",
+    "count": 3
+  }
+}

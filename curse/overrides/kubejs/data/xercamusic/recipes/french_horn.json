@@ -1,0 +1,13 @@
+
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern": [
+        "  g",
+        "ggg",
+        "gg "
+    ],
+    "key": {"g": {"tag": "forge:nuggets/brass"}},
+    "result": {"item": "xercamusic:french_horn"}
+}
+        

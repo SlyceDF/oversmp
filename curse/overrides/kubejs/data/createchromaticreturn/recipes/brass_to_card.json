@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "createchromaticreturn:brass_component"
+  },
+  "addition": {
+    "item": "create_things_and_misc:brass_bricks"
+  },
+  "result": {
+    "item": "create_things_and_misc:card_press",
+    "count": 16
+  }
+}

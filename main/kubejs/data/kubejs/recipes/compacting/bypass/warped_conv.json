@@ -1,0 +1,17 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "overchisel:warped_magma_sap_bucket"
+    },
+    {
+      "fluid": "minecraft:lava",
+      "amount": 500
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:warped_roots"
+    }
+  ]
+}

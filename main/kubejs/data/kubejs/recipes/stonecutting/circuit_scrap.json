@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "ae2:silicon_press"
+    },
+    {
+      "item": "ae2:logic_processor_press"
+    },
+    {
+      "item": "ae2:calculation_processor_press"
+    },
+    {
+      "item": "ae2:engineering_processor_press"
+    }
+  ],
+  "result": "kubejs:circuit_scrap",
+  "count": 1
+}

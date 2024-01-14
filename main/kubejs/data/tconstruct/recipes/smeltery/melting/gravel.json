@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "minecraft:gravel"
+  },
+  "result": {
+    "fluid": "kubejs:natural_gas",
+    "amount": 5
+  },
+  "temperature": 125,
+  "time": 40
+}

@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:compass"
+    },
+    {
+      "item": "quark:soul_bead"
+    },
+    {
+      "item": "kubejs:resonance_tube"
+    }
+  ],
+  "result": {
+    "item": "quark:soul_compass",
+    "count": 1
+  },
+  "conditions": [
+    {
+        "type": "forge:and",
+        "values": [
+          {
+            "type": "quark:flag",
+            "flag": "soul_compass"
+          },
+          {
+            "type": "quark:flag",
+            "flag": "wraith"
+          }
+      ]
+    }
+  ]
+}

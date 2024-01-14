@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "S",
+    "C",
+    "S"
+  ],
+  "key": {
+    "S": {
+      "tag": "forge:nuggets/copper"
+    },
+    "C": {
+      "item": "overchisel:copper_pipe"
+    }
+  },
+  "result": {
+    "item": "create:fluid_pipe",
+    "count": 2
+  }
+}

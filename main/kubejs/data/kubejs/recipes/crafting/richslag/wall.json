@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "tag": "forge:storage_blocks/rich_slag"
+    }
+  },
+  "result": {
+    "item": "kubejs:rich_slag_wall",
+    "count": 6
+  }
+}

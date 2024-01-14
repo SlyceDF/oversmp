@@ -1,0 +1,66 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "tag": "minecraft:wooden_slabs"
+  },
+  "transitionalItem": {
+    "item": "kubejs:incomplete_kinetic_mechanism"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_kinetic_mechanism"
+        },
+        {
+          "tag": "extendedgears:small_cogwheel"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:incomplete_kinetic_mechanism"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_kinetic_mechanism"
+        },
+        {
+          "tag": "extendedgears:large_cogwheel"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:incomplete_kinetic_mechanism"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_kinetic_mechanism"
+        },
+        {
+          "item": "create:andesite_alloy"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:incomplete_kinetic_mechanism"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:kinetic_mechanism",
+      "count": 3
+    }
+  ],
+  "loops": 1
+}

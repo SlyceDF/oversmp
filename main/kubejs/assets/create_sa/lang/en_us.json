@@ -1,0 +1,8 @@
+{
+   "item.create_sa.steam_engine": "Steam G-Mechanism",
+   "item.create_sa.heat_engine": "Heat G-Mechanism",
+   "item.create_sa.hydraulic_engine": "Hydraulic G-Mechanism",
+   "item.create_sa.incomplete_steam_engine": "Incomplete Steam G-Mechanism",
+   "item.create_sa.incomplete_heat_engine": "Incomplete Heat G-Mechanism",
+   "item.create_sa.incomplete_hydraulic_engine": "Incomplete Hydraulic G-Mechanism"
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "overchisel:negative_pressure_compressor"
+    },
+    {
+      "item": "overchisel:one_volatile_cell"
+    },
+    {
+      "item": "minecraft:flint"
+    },
+    {
+      "tag": "forge:silicon"
+    }
+  ],
+  "result": {
+    "item": "overchisel:silicon_seed",
+    "count": 3
+  }
+}

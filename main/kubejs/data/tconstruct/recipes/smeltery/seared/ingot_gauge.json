@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "B#B",
+    "#C#",
+    "B#B"
+  ],
+  "key": {
+    "#": {
+      "item": "tconstruct:seared_brick"
+    },
+    "B": {
+      "tag": "forge:glass"
+    },
+    "C": {
+      "item": "create:fluid_tank"
+    }
+  },
+  "result": {
+    "item": "tconstruct:seared_ingot_gauge"
+  }
+}

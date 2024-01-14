@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "byg:subzero_crystal_block"
+    }
+  ],
+  "results": [
+    {
+      "item": "byg:subzero_crystal_shard",
+      "count": 3
+    },
+    {
+      "item": "byg:subzero_crystal_shard",
+      "chance": 0.5
+    }
+  ],
+  "processingTime": 200
+}

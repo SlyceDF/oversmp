@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients":  [
+    {
+      "item": "pneumaticcraft:pressure_tube"
+    },
+    {
+      "item": "quark:grate"
+    }
+  ],
+  "result": {
+    "item": "pneumaticcraft:air_grate_module"
+  }
+}

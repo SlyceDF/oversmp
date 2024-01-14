@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "createchromaticreturn:andesite_component"
+  },
+  "addition": {
+    "item": "minecraft:sticky_piston"
+  },
+  "result": {
+    "item": "create:sticky_mechanical_piston",
+    "count": 16
+  }
+}

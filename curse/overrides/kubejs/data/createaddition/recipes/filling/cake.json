@@ -1,0 +1,50 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "createaddition:cake_base_baked"
+  },
+  "transitionalItem": {
+    "item": "kubejs:incomplete_cake"
+  },
+  "sequence": [
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "kubejs:incomplete_cake"
+    },
+    {
+      "fluid": "minecraft:milk",
+      "amount": 1000
+    }
+  ],
+  "results": [
+    {
+          "item": "kubejs:incomplete_cake"
+  }
+ ]
+},
+{
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_cake"
+        },
+        {
+          "item": "minecraft:sweet_berries"
+        }
+      ],
+  "results": [
+    {
+          "item": "kubejs:incomplete_cake"
+  }
+ ]
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:cake"
+    }
+  ],
+  "loops": 1
+}

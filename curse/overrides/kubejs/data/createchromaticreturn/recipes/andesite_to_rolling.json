@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "createchromaticreturn:andesite_component"
+  },
+  "addition": {
+    "item": "create:shaft"
+  },
+  "result": {
+    "item": "createaddition:rolling_mill",
+    "count": 32
+  }
+}

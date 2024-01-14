@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "tag": "forge:slag"
+    }
+  },
+  "result": {
+    "item": "kubejs:slag_pressure_plate"
+  }
+}

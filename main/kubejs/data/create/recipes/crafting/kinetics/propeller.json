@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " S ",
+    "SaS",
+    " S "
+  ],
+  "key": {
+    "S": {
+      "tag": "forge:plates/iron"
+    },
+    "a": {
+      "tag": "forge:plates/alutinum"
+    }
+  },
+  "result": {
+    "item": "create:propeller"
+  }
+}

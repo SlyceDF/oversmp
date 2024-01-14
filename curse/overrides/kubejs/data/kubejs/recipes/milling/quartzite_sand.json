@@ -1,0 +1,19 @@
+{
+	"type": "create:milling",
+    "ingredients": [
+    	{
+    		"item": "byg:raw_quartz_block"
+    	}
+    ], 
+	"results": [
+		{
+			"item": "byg:quartzite_sand",
+			"count": 2
+		},
+		{
+			"item": "byg:quartzite_sand",
+			"chance": 0.3
+		}
+	],
+	"processingTime": 200
+}

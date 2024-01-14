@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "tag": "forge:storage_blocks/slag"
+    }
+  },
+  "result": {
+    "item": "kubejs:slag_slab",
+    "count": 6
+  }
+}

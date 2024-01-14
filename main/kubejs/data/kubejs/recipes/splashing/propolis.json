@@ -1,0 +1,18 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "kubejs:propolis"
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:honeydew",
+      "count": 2
+    },
+    {
+      "item": "kubejs:honeydew",
+      "chance": 0.5
+    }
+  ]
+}

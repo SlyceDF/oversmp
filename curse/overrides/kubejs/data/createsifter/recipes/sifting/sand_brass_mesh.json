@@ -1,0 +1,73 @@
+{
+  "type": "createsifter:sifting",
+  "ingredients": [
+        [
+      {
+        "item": "minecraft:sand"
+      },
+      {
+        "item": "minecraft:red_sand"
+      },
+      {
+        "item": "byg:cracked_red_sand"
+      },
+      {
+        "item": "byg:windswept_sand"
+      },
+      {
+        "item": "byg:white_sand"
+      },
+      {
+        "item": "byg:blue_sand"
+      },
+      {
+        "item": "byg:purple_sand"
+      },
+      {
+        "item": "byg:quartzite_sand"
+      },
+      {
+        "item": "byg:end_sand"
+      }
+    ],
+    {
+      "item": "createsifter:brass_mesh"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:redstone",
+      "count": 2,
+      "chance": 0.25
+    },
+    {
+      "item": "minecraft:glowstone_dust",
+      "chance": 0.1
+    },
+    {
+      "item": "ae2:ender_dust",
+      "chance": 0.2
+    },
+    {
+      "item": "ae2:sky_dust",
+      "chance": 0.3
+    },
+    {
+      "item": "ae2:certus_quartz_dust",
+      "chance": 0.3
+    },
+    {
+      "item": "minecraft:bone_meal",
+      "chance": 0.4
+    },
+    {
+      "item": "minecraft:blaze_powder",
+      "chance": 0.05
+    },
+    {
+      "item": "create:experience_nugget",
+      "chance": 0.2
+    }
+  ],
+  "processingTime": 500
+}

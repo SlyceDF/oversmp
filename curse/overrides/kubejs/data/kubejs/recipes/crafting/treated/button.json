@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "kubejs:treated_planks"
+    }
+  ],
+  "result": {
+    "item": "kubejs:treated_button"
+  }
+}

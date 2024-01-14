@@ -1,0 +1,16 @@
+{
+  "type": "pneumaticcraft:amadron",
+  "id": "pneumaticcraft:amadron/lpg_to_emerald",
+  "input": {
+    "type": "FLUID",
+    "id": "chemlib:hexane_fluid",
+    "amount": 250
+  },
+  "output": {
+    "type": "ITEM",
+    "id": "minecraft:emerald",
+    "amount": 3
+  },
+  "static": true,
+  "level": 0
+}

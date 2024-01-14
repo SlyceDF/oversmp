@@ -1,0 +1,38 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern":
+	["RIR",
+	 "CBC",
+	 "WHW"],
+	"key":
+	{
+		"R":
+		{
+			"tag": "forge:rods/copper"
+		},
+                                "I":
+		{
+			"tag": "kubejs:inductive_mechanism"
+		},
+		"B":
+		{
+			"item": "create:brass_casing"
+		},
+		"C":
+		{
+			"item": "createaddition:capacitor"
+		},
+		"W":
+		{
+			"tag": "forge:wires/gold"
+		},
+		"H":
+		{
+			"item": "kubejs:transmitting_coil"
+		}
+	},
+	"result":{
+		"item": "createaddition:modular_accumulator",
+		"count": 6
+	}
+}

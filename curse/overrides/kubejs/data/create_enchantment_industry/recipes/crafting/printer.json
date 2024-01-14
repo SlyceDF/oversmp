@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " A ",
+        "SBS",
+        " C "
+    ],
+    "key": {
+        "A": {
+            "item": "create:copper_casing"
+        },
+        "B": {
+            "item": "minecraft:dried_kelp"
+        },
+        "C": {
+            "tag": "forge:plates/iron"
+        },
+        "S": {
+            "tag": "kubejs:hydraulic_mechanism"
+        }
+    },
+    "result": {
+        "item": "create_enchantment_industry:printer"
+    }
+}

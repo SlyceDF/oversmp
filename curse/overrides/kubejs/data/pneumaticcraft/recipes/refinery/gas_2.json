@@ -1,0 +1,21 @@
+{
+  "type": "pneumaticcraft:refinery",
+  "input": {
+    "type": "pneumaticcraft:fluid",
+    "tag": "forge:natural_gas",
+    "amount": 10
+  },
+  "temperature": {
+    "min_temp": 371
+  },
+  "results": [
+    {
+      "fluid": "chemlib:methane_fluid",
+      "amount": 4
+    },
+    {
+      "fluid": "chemlib:ethane_fluid",
+      "amount": 3
+    }
+  ]
+}

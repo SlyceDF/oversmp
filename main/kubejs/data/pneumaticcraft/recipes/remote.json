@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "GIG",
+    "TDT"
+  ],
+  "key": {
+    "I": {
+      "item": "pneumaticcraft:network_io_port"
+    },
+    "A": {
+      "item": "ae2:fluix_pearl"
+    },
+    "D": {
+      "item": "pneumaticcraft:network_data_storage"
+    },
+    "G": {
+      "item": "pneumaticcraft:gps_tool"
+    },
+    "T": {
+      "item": "pneumaticcraft:transistor"
+    }
+  },
+  "result": {
+    "item": "pneumaticcraft:remote"
+  }
+}

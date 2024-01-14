@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "kubejs:melt_dacite"
+  },
+  "result": {
+    "fluid": "minecraft:lava",
+    "amount": 450
+  },
+  "temperature": 990,
+  "time": 138
+}

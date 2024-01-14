@@ -1,0 +1,18 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "byg:soapstone"
+  },
+  "result": {
+    "fluid": "tconstruct:seared_stone",
+    "amount": 125
+  },
+  "temperature": 477,
+  "time": 82,
+  "byproducts": [
+    {
+      "fluid": "tconstruct:molten_osmium",
+      "amount": 10
+    }
+  ]
+}

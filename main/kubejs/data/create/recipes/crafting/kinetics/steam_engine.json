@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " P ",
+    "DAD",
+    "NCN"
+  ],
+  "key": {
+    "P": {
+      "tag": "forge:plates/gold"
+    },
+    "C": {
+      "item": "minecraft:copper_block"
+    },
+    "A": {
+      "item": "create:andesite_alloy"
+    },
+    "D": {
+      "tag": "kubejs:hydraulic_mechanism"
+    },
+    "N": {
+      "tag": "forge:plates/constantan"
+    }
+  },
+  "result": {
+    "item": "create:steam_engine",
+    "count": 2
+  }
+}

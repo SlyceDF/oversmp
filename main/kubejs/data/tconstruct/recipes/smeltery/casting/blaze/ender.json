@@ -1,0 +1,13 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "item": "minecraft:ender_pearl"
+  },
+  "cast_consumed": true,
+  "fluid": {
+    "tag": "tconstruct:blazing_blood",
+    "amount": 10
+  },
+  "result": "minecraft:ender_eye",
+  "cooling_time": 60
+}

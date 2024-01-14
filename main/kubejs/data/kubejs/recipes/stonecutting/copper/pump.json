@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "kubejs:copper_machine"
+  },
+  "addition": {
+    "tag": "extendedgears:small_cogwheel"
+  },
+  "result": {
+    "item": "create:mechanical_pump",
+    "count": 32
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "kubejs:industrial_amethyst"
+  },
+  "transitionalItem": {
+    "item": "kubejs:incomplete_amethyst_alloy"
+  },
+  "sequence": [
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "kubejs:incomplete_amethyst_alloy"
+    },
+    {
+      "fluid": "tconstruct:molten_invar",
+      "amount": 30
+    }
+  ],
+  "results": [
+    {
+          "item":"kubejs:incomplete_amethyst_alloy"
+  }
+ ]
+},
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "kubejs:incomplete_amethyst_alloy"
+    },
+    {
+      "fluid": "tconstruct:molten_lead",
+      "amount": 30
+    }
+  ],
+  "results": [
+    {
+      "item":"kubejs:incomplete_amethyst_alloy"
+  }
+ ]
+},
+  {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_amethyst_alloy"
+        },
+        {
+          "tag": "minecraft:sand"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:incomplete_amethyst_alloy"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:amethyst_alloy",
+      "count": 3
+    }
+  ],
+  "loops": 2
+}

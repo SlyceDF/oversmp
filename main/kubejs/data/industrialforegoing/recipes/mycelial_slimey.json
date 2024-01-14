@@ -1,0 +1,46 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "values": [
+            {
+              "item": "industrialforegoing:mycelial_slimey",
+              "type": "forge:item_exists"
+            }
+          ],
+          "type": "forge:and"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+          "BLB",
+          "BCB",
+          "RMR"
+        ],
+        "key": {
+          "R": {
+            "item": "minecraft:redstone"
+          },
+          "B": {
+            "item": "minecraft:slime_block"
+          },
+          "C": {
+            "item": "minecraft:milk_bucket"
+          },
+          "M": {
+            "tag": "industrialforegoing:machine_frame/advanced"
+          },
+          "L": {
+            "item": "kubejs:generating_coil"
+          }
+        },
+        "result": {
+          "item": "industrialforegoing:mycelial_slimey"
+        }
+      }
+    }
+  ]
+}

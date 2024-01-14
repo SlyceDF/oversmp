@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "create",
+  "pattern": [
+    "bb ",
+    "bBi",
+    " ii"
+  ],
+  "key": {
+    "b": {
+      "item": "createaddition:diamond_grit_sandpaper"
+    },
+    "B": {
+      "item": "pneumaticcraft:drill_bit_diamond"
+    },
+    "i": {
+      "tag": "forge:gems/diamond"
+    }
+  },
+  "result": {
+    "item": "createoreexcavation:diamond_drill"
+  }
+}

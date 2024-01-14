@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "FCT",
+    "RPR"
+  ],
+  "key": {
+    "T": {
+      "item": "minecraft:redstone_torch"
+    },
+    "C": {
+      "tag": "forge:plates/brass"
+    },
+    "R": {
+      "tag": "forge:dusts/redstone"
+    },
+    "P": {
+      "item": "supercircuitmaker:circuit"
+    },
+    "F": {
+      "item": "kubejs:pulse_tube"
+    }
+  },
+  "result": {
+    "item": "create:pulse_repeater"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "#R#",
+    "#D#"
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:plates/andesite_alloy"
+    },
+    "#": {
+      "tag": "forge:silicon"
+    },
+    "R": {
+      "tag": "kubejs:vibration_mechanism"
+    },
+    "D": {
+      "tag": "forge:dyes"
+    }
+  },
+  "result": {
+    "item": "computercraft:printer"
+  }
+}

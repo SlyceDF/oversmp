@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+      "item": "createchromaticreturn:andesite_component"
+  },
+  "result": "kubejs:andesite_machine",
+  "count": 1
+}

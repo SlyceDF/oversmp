@@ -1,0 +1,35 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	["PSP",
+	 "AKA",
+	 "ACA"],
+	"key":
+	{
+		"P":
+		{
+			"tag": "forge:plates/iron"
+		},
+                                "A":
+		{
+			"item": "create:andesite_alloy"
+		},
+		"C":
+		{
+			"item": "create:andesite_casing"
+		},
+		"S":
+		{
+			"item": "create:shaft"
+		},
+		"K":
+		{
+			"tag": "kubejs:kinetic_mechanism"
+		}
+	},
+	"result":{
+		"item": "createaddition:rolling_mill",
+		"count": 1
+	}
+}

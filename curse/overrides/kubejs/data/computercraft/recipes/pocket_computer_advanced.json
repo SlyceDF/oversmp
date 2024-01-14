@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#A#",
+    "#R#",
+    "#G#"
+  ],
+  "key": {
+    "#": {
+      "item": "compressedcreativity:brass_gilded_lapis_lazuli"
+    },
+    "R": {
+      "item": "kubejs:abstruse_mechanism"
+    },
+    "A": {
+      "item": "minecraft:golden_apple"
+    },
+    "G": {
+      "tag": "forge:glass_panes"
+    }
+  },
+  "result": {
+    "item": "computercraft:pocket_computer_advanced"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=west": {
+      "model": "kubejs:block/brass_machine",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "kubejs:block/brass_machine"
+    },
+    "facing=north": {
+      "model": "kubejs:block/brass_machine",
+      "y": 180
+    },
+    "facing=east": {
+      "model": "kubejs:block/brass_machine",
+      "y": 270
+    }
+  }
+}

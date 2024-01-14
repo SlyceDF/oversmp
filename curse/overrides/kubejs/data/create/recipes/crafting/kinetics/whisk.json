@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " C ",
+    "SCS",
+    "cSc"
+  ],
+  "key": {
+    "S": {
+      "tag": "forge:plates/iron"
+    },
+    "C": {
+      "item": "create:andesite_alloy"
+    },
+    "c": {
+      "tag": "forge:plates/andesite_alloy"
+    }
+  },
+  "result": {
+    "item": "create:whisk"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": [
+    {
+      "tag": "forge:dusts/ender_pearl"
+    }
+  ],
+  "result": {
+    "fluid": "tconstruct:molten_ender",
+    "amount": 250
+  },
+  "temperature": 477,
+  "time": 49
+}

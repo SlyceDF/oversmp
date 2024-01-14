@@ -1,0 +1,54 @@
+{
+  "type": "createsifter:sifting",
+  "ingredients": [
+    {
+      "item": "byg:lush_dirt"
+    },
+    {
+      "item": "createsifter:string_mesh"
+    }
+  ],
+  "results": [
+    {
+      "item": "byg:mud_block"
+    },
+    {
+      "item": "minecraft:kelp",
+      "chance": 0.2
+    },
+    {
+      "item": "minecraft:seagrass",
+      "chance": 0.3
+    },
+    {
+      "item": "minecraft:clay_ball",
+      "chance": 0.4
+    },
+    {
+      "item": "byg:mud_ball",
+      "chance": 0.4
+    },
+    {
+      "item": "industrialforegoing:fertilizer",
+      "chance": 0.3
+    },
+    {
+      "item": "byg:peat",
+      "chance": 0.2
+    },
+    {
+      "item": "farmersdelight:organic_compost",
+      "chance": 0.1
+    },
+    {
+      "item": "farmersdelight:rice",
+      "chance": 0.1
+    },
+    {
+      "item": "byg:cattail_sprout",
+      "chance": 0.05
+    }
+  ],
+  "processingTime": 80,
+  "waterlogged": true
+}

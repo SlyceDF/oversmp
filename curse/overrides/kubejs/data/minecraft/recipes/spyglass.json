@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "a",
+    "b",
+    "g"
+  ],
+  "key": {
+    "a": {
+      "tag": "forge:gems/amethyst"
+    },
+    "b": {
+      "tag": "forge:nuggets/constantan"
+    },
+    "g": {
+      "tag": "forge:ingots/copper"
+    }
+  },
+  "result": {
+    "item": "minecraft:spyglass"
+  }
+}

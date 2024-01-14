@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PRP",
+    "PGP"
+  ],
+  "key": {
+    "G": {
+      "tag": "forge:glass"
+    },
+    "P": {
+      "item": "minecraft:copper_ingot"
+    },
+    "R": {
+      "item": "pneumaticcraft:regulator_tube_module"
+    }
+  },
+  "result": {
+    "item": "create:diving_helmet"
+  }
+}

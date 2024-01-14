@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/matter_plastics"
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:matter_plastics_sheet"
+    }
+  ]
+}

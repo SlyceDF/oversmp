@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " M ",
+    "IAI",
+    " a "
+  ],
+  "key": {
+    "A": {
+      "tag": "forge:netherrack"
+    },
+    "I": {
+      "tag": "forge:plates/iron"
+    },
+    "a": {
+      "tag": "forge:plates/andesite_alloy"
+    },
+    "M": {
+      "tag": "kubejs:infernal_mechanism"
+    }
+  },
+  "result": {
+    "item": "create:empty_blaze_burner"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "202",
+    "010",
+    "000"
+  ],
+  "key": {
+    "0": {
+      "tag": "forge:ingots/copper"
+    },
+    "1": {
+      "item": "kubejs:chromatic_resonator"
+    },
+    "2": {
+      "item": "overchisel:rubber"
+    }
+  },
+  "result": {
+    "item": "create_sa:copper_magnet",
+    "count": 1
+  }
+}

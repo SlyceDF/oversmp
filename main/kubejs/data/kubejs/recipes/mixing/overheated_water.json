@@ -1,0 +1,21 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "create_things_and_misc:crushed_magma"
+    },
+    {
+      "fluid": "minecraft:water",
+      "amount": 125
+    }
+  ],
+  "results": [
+    {
+      "fluid": "kubejs:overheated_water",
+      "amount": 100
+    },
+    {
+      "item": "create_things_and_misc:crushed_magma"
+    }
+  ]
+}

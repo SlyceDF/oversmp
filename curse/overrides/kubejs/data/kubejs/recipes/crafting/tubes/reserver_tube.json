@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "A",
+    "i"
+  ],
+  "key": {
+    "A": {
+      "item": "kubejs:redstone_alloy"
+    },
+    "i": {
+      "tag": "forge:plates/ferrite"
+    }
+  },
+  "result": {
+    "item": "kubejs:reserver_tube",
+    "count": 1
+  }
+}

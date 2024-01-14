@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "tag": "forge:rich_slag"
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:slag",
+      "count": 3
+    },
+    {
+      "item": "kubejs:slag",
+      "chance": 0.5
+    }
+  ],
+  "processingTime": 200
+}

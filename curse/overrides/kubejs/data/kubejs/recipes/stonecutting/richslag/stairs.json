@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "forge:storage_blocks/rich_slag"
+  },
+  "result": "kubejs:rich_slag_stairs",
+  "count": 1
+}

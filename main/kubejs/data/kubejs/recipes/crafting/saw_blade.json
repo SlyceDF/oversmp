@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "tAt",
+    "ATA",
+    "tAt"
+  ],
+  "key": {
+    "T": {
+      "tag": "forge:ingots/tin"
+    },
+    "t": {
+      "tag": "forge:nuggets/tin"
+    },
+    "A": {
+      "item": "create:andesite_alloy"
+    }
+  },
+  "result": {
+    "item": "kubejs:saw_blade"
+  }
+}

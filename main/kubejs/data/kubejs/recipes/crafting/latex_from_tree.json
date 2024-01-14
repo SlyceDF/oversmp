@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+    "item": "myrtrees:latex"
+    },
+    {
+    "item": "minecraft:bucket"
+    }
+  ],
+  "result": {
+    "item": "overchisel:latex_bucket"
+  }
+}

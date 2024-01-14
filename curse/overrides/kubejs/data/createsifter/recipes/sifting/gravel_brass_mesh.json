@@ -1,0 +1,98 @@
+{
+  "type": "createsifter:sifting",
+  "ingredients": [
+    {
+      "item": "createsifter:brass_mesh"
+    },
+    {
+      "item": "minecraft:gravel"
+    }
+  ],
+  "results": [
+    {
+      "item": "create:crushed_copper_ore",
+      "chance": 0.2
+    },
+    {
+      "item": "kubejs:magnetite",
+      "chance": 0.2
+    },
+    {
+      "item": "create:crushed_zinc_ore",
+      "chance": 0.2
+    },
+    {
+      "item": "create:crushed_gold_ore",
+      "chance": 0.15
+    },
+    {
+      "item": "create:crushed_iron_ore",
+      "chance": 0.25
+    },
+    {
+      "item": "minecraft:lapis_lazuli",
+      "chance": 0.2
+    },
+    {
+      "item": "minecraft:coal",
+      "chance": 0.25
+    },
+    {
+      "item": "minecraft:flint",
+      "chance": 0.1
+    },
+    {
+      "item": "create:experience_nugget",
+      "chance": 0.15
+    },
+    {
+      "item": "chemlib:platinum_nugget",
+      "chance": 0.05
+    },
+    {
+      "item": "kubejs:nickel_nugget",
+      "chance": 0.5
+    },
+    {
+      "item": "chemlib:tungsten_nugget",
+      "chance": 0.1
+    },
+    {
+      "item": "chemlib:osmium_nugget",
+      "chance": 0.1
+    },
+    {
+      "item": "kubejs:lead_nugget",
+      "chance": 0.15
+    },
+    {
+      "item": "kubejs:tin_nugget",
+      "chance": 0.4
+    },
+    {
+      "item": "chemlib:aluminum_nugget",
+      "chance": 0.15
+    },
+    {
+      "item": "chemlib:uranium_nugget",
+      "chance": 0.15
+    },
+    {
+      "item": "kubejs:silver_nugget",
+      "chance": 0.1
+    },
+    {
+      "item": "overchisel:mythril",
+      "chance": 0.15
+    },
+    {
+      "item": "minecraft:amethyst_shard",
+      "chance": 0.15
+    },
+    {
+      "item": "overchisel:bitumen",
+      "chance": 0.2
+    }
+  ],
+  "processingTime": 500
+}

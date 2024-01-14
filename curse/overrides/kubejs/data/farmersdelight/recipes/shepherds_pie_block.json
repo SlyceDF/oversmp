@@ -1,0 +1,146 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "farmersdelight:pie_crust"
+  },
+  "transitionalItem": {
+    "item": "kubejs:incomplete_pie"
+  },
+  "sequence": [
+{
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_pie"
+        },
+        {
+          "tag": "forge:cooked_mutton"
+        }
+      ],
+  "results": [
+    {
+          "item": "kubejs:incomplete_pie"
+  }
+ ]
+},
+{
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_pie"
+        },
+        {
+          "tag": "forge:cooked_mutton"
+        }
+      ],
+  "results": [
+    {
+          "item": "kubejs:incomplete_pie"
+  }
+ ]
+},
+{
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_pie"
+        },
+        {
+          "tag": "forge:cooked_mutton"
+        }
+      ],
+  "results": [
+    {
+          "item": "kubejs:incomplete_pie"
+  }
+ ]
+},
+{
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_pie"
+        },
+        {
+          "item": "minecraft:baked_potato"
+        }
+      ],
+  "results": [
+    {
+          "item": "kubejs:incomplete_pie"
+  }
+ ]
+},
+{
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_pie"
+        },
+        {
+          "item": "minecraft:baked_potato"
+        }
+      ],
+  "results": [
+    {
+          "item": "kubejs:incomplete_pie"
+  }
+ ]
+},
+{
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_pie"
+        },
+        {
+          "item": "farmersdelight:onion"
+        }
+      ],
+  "results": [
+    {
+          "item": "kubejs:incomplete_pie"
+  }
+ ]
+},
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "kubejs:incomplete_pie"
+    },
+    {
+      "fluid": "minecraft:milk",
+      "amount": 1000
+    }
+  ],
+  "results": [
+    {
+          "item": "kubejs:incomplete_pie"
+  }
+ ]
+},
+{
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_pie"
+        },
+        {
+          "item": "minecraft:bowl"
+        }
+      ],
+  "results": [
+    {
+          "item": "kubejs:incomplete_pie"
+  }
+ ]
+}
+  ],
+  "results": [
+    {
+      "item": "farmersdelight:shepherds_pie_block"
+    }
+  ],
+  "loops": 1
+}

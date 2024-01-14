@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:melting_fuel",
+  "fluid": {
+    "name": "kubejs:overheated_water",
+    "amount": 250
+  },
+  "duration": 80,
+  "temperature": 263
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "#G#",
+    "#I#"
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:plates/andesite_alloy"
+    },
+    "#": {
+      "tag": "forge:silicon"
+    },
+    "G": {
+      "tag": "forge:glass_panes"
+    },
+    "I": {
+      "tag": "kubejs:inductive_mechanism" 
+    }
+  },
+  "result": {
+    "item": "computercraft:monitor_normal",
+    "count": 1
+  }
+}

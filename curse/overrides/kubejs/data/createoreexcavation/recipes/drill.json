@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "create",
+  "pattern": [
+    "bb ",
+    "bBi",
+    " ii"
+  ],
+  "key": {
+    "b": {
+      "tag": "forge:plates/iron"
+    },
+    "B": {
+      "item": "pneumaticcraft:drill_bit_iron"
+    },
+    "i": {
+      "tag": "forge:ingots/iron"
+    }
+  },
+  "result": {
+    "item": "createoreexcavation:drill"
+  }
+}

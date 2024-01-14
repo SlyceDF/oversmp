@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "kubejs:crystallized_honey"
+  },
+  "result": {
+    "fluid": "create:honey",
+    "amount": 500
+  },
+  "temperature": 1,
+  "time": 44
+}

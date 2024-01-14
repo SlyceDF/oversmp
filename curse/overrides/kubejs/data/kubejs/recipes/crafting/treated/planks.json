@@ -1,0 +1,31 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "byg:windswept_sandstone_pillar"
+  },
+  "transitionalItem": {
+    "item": "byg:windswept_sandstone_pillar"
+  },
+  "sequence": [
+    {
+      "type": "create:cutting",
+      "ingredients": [
+        {
+          "item": "byg:windswept_sandstone_pillar"
+        }
+      ],
+      "results": [
+        {
+          "item": "byg:windswept_sandstone_pillar"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:treated_planks",
+      "count": 8
+    }
+  ],
+  "loops": 2
+}

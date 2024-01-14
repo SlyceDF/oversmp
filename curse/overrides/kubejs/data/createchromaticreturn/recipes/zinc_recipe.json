@@ -1,0 +1,17 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "create:limestone"
+    }
+  ],
+  "results": [
+    {
+      "item": "byg:white_sand"
+    },
+    {
+      "item": "create:zinc_nugget"
+    }
+  ],
+  "processingTime": 150
+}

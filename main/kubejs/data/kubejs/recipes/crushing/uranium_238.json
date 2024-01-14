@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "kubejs:uranium_238"
+    }
+  ],
+  "results": [
+    {
+      "item": "chemlib:uranium_dust",
+      "chance": 0.9
+    },
+    {
+      "item": "chemlib:uranium_nugget",
+      "chance": 0.5
+    }
+  ],
+  "processingTime": 200
+}

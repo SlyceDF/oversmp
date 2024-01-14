@@ -1,0 +1,7 @@
+{
+  "replace": "false",
+  "values": [
+    "create:precision_mechanism",
+    "kubejs:universal_mechanism"
+  ]
+}

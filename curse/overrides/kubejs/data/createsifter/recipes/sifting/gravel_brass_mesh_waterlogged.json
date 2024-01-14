@@ -1,0 +1,51 @@
+{
+  "type": "createsifter:sifting",
+  "ingredients": [
+    {
+      "item": "createsifter:brass_mesh"
+    },
+    {
+      "item": "minecraft:gravel"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:clay_ball",
+      "chance": 0.2
+    },
+    {
+      "item": "byg:mud_ball",
+      "chance": 0.1
+    },
+    {
+      "item": "byg:soapstone",
+      "chance": 0.3
+    },
+    {
+      "item": "minecraft:tuff",
+      "chance": 0.2
+    },
+    {
+      "item": "minecraft:calcite",
+      "chance": 0.3
+    },
+    {
+      "item": "minecraft:smooth_basalt",
+      "chance": 0.2
+    },
+    {
+      "item": "create:veridium",
+      "chance": 0.3
+    },
+    {
+      "item": "create:crimsite",
+      "chance": 0.3
+    },
+    {
+      "item": "create:asurine",
+      "chance": 0.3
+    }
+  ],
+  "processingTime": 500,
+  "waterlogged": true
+}

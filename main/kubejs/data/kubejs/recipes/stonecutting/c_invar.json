@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient":
+    {
+      "item": "kubejs:circuit_scrap"
+    },
+  "result": "kubejs:invar_ingot",
+  "count": 8
+}

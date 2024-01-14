@@ -1,0 +1,14 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "tag": "tconstruct:casts/multi_use/rod"
+  },
+  "fluid": {
+    "name": "tconstruct:blazing_blood",
+    "amount": 50
+  },
+  "result": {
+    "item": "minecraft:blaze_rod"
+  },
+  "cooling_time": 38
+}

@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/ferrite"
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:ferrite_sheet"
+    }
+  ]
+}

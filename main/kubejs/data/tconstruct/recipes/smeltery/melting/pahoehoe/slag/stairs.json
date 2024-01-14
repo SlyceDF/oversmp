@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "kubejs:melt_slag_stairs"
+  },
+  "result": {
+    "fluid": "kubejs:pahoehoe_lava",
+    "amount": 675
+  },
+  "temperature": 950,
+  "time": 178
+}

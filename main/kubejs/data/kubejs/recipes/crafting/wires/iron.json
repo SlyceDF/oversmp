@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "overchisel:pliers"
+    },
+    {
+      "tag": "forge:plates/iron"
+    }
+  ],
+  "result": {
+    "item": "createaddition:iron_wire",
+    "count": 2
+  }
+}

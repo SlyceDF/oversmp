@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/industrium"
+    }
+  ],
+  "result": {
+    "item": "kubejs:industrium_nugget",
+    "count": 4
+  }
+}

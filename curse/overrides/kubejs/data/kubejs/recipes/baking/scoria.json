@@ -1,0 +1,9 @@
+{
+  "type": "clayworks:baking",
+  "ingredient": {
+    "item": "byg:scoria_cobblestone"
+  },
+  "result": "byg:scoria_stone",
+  "cookingtime": 100,
+  "experience": 0.1
+}

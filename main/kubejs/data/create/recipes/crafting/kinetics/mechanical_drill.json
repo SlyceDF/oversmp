@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "I",
+    "A",
+    "C"
+  ],
+  "key": {
+    "C": {
+      "item": "create:andesite_casing"
+    },
+    "A": {
+      "tag": "kubejs:kinetic_mechanism"
+    },
+    "I": {
+      "item": "kubejs:drill_head"
+    }
+  },
+  "result": {
+    "item": "create:mechanical_drill"
+  }
+}

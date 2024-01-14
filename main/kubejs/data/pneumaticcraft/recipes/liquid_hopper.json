@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "h",
+    "T",
+    "H"
+  ],
+  "key": {
+    "T": {
+      "type": "forge:nbt",
+      "item": "pneumaticcraft:small_tank",
+      "count": 1
+    },
+    "H": {
+      "item": "pneumaticcraft:omnidirectional_hopper"
+    },
+    "h": {
+      "tag": "kubejs:hydraulic_mechanism"
+    }
+  },
+  "result": {
+    "item": "pneumaticcraft:liquid_hopper"
+  }
+}

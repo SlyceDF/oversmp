@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "createchromaticreturn:brass_component"
+  },
+  "addition": {
+    "item": "create:propeller"
+  },
+  "result": {
+    "item": "compressedcreativity:rotational_compressor",
+    "count": 20
+  }
+}

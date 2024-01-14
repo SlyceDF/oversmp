@@ -1,0 +1,23 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "byg:peat"
+    },
+    {
+      "item": "kubejs:propolis"
+    },
+    {
+      "item": "kubejs:wax_mote"
+    },
+    {
+      "item": "kubejs:wax_mote"
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:enriched_peat"
+    }
+  ],
+  "heatRequirement": "heated"
+}

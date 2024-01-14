@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "kubejs:wax_block"
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:wax",
+      "count": 3
+    },
+    {
+      "item": "kubejs:wax",
+      "chance": 0.5
+    }
+  ],
+  "processingTime": 200
+}

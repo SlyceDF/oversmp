@@ -1,0 +1,19 @@
+{
+  "type": "createsifter:sifting",
+  "ingredients": [
+    {
+      "item": "createsifter:string_mesh"
+    },
+    {
+      "item": "minecraft:gravel"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:clay_ball",
+      "chance": 0.8
+    }
+  ],
+  "processingTime": 80,
+  "waterlogged": true
+}

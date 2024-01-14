@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "createchromaticreturn:andesite_component"
+  },
+  "addition": {
+    "item": "minecraft:piston"
+  },
+  "result": {
+    "item": "create:mechanical_piston",
+    "count": 16
+  }
+}

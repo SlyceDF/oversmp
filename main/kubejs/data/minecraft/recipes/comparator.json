@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X#X",
+    "#P#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:redstone_torch"
+    },
+    "X": {
+      "item": "minecraft:quartz"
+    },
+    "P": {
+      "item": "supercircuitmaker:circuit"
+    }
+  },
+  "result": {
+    "item": "minecraft:comparator"
+  }
+}

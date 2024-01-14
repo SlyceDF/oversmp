@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "create:andesite_alloy"
+    },
+    "1": {
+      "item": "create:display_board"
+    },
+    "2": {
+      "item": "create:andesite_alloy"
+    },
+    "3": {
+      "item": "create:andesite_alloy"
+    },
+    "4": {
+      "tag": "kubejs:vibration_mechanism"
+    },
+    "5": {
+      "item": "create:andesite_alloy"
+    },
+    "6": {
+      "item": "create:andesite_alloy"
+    },
+    "7": {
+      "item": "create:andesite_alloy"
+    },
+    "8": {
+      "item": "create:andesite_alloy"
+    }
+  },
+  "result": {
+    "item": "create_things_and_misc:radar",
+    "count": 1
+  }
+}

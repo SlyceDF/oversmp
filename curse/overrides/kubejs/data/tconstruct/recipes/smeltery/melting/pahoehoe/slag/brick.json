@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "kubejs:melt_slag_brick"
+  },
+  "result": {
+    "fluid": "kubejs:pahoehoe_lava",
+    "amount": 225
+  },
+  "temperature": 950,
+  "time": 79
+}

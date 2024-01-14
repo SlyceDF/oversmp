@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+     " C ",
+     "STS",
+     " C "
+  ],
+  "key": {
+    "S": {
+      "item": "quark:sturdy_stone"
+    },
+    "T": {
+      "item": "minecraft:torch"
+    },
+    "C": {
+      "tag": "forge:cobblestone"
+    }
+  },
+  "result": {
+    "item": "minecraft:furnace"
+  }
+}

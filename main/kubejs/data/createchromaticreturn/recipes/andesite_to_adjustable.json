@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 8,
+  "ingredient": {
+    "item": "createchromaticreturn:andesite_component"
+  },
+  "result": "create:adjustable_chain_gearshift"
+}

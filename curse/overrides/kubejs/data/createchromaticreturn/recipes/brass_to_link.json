@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "createchromaticreturn:brass_component"
+  },
+  "addition": {
+    "item": "ae2:fluix_pearl"
+  },
+  "result": {
+    "item": "create:redstone_link",
+    "count": 44
+  }
+}

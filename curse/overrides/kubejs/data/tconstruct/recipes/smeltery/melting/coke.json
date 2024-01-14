@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:coal_coke"
+  },
+  "result": {
+    "fluid": "kubejs:creosote_oil",
+    "amount": 250
+  },
+  "temperature": 325,
+  "time": 85
+}

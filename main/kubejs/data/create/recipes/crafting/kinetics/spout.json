@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "A",
+    "T",
+    "P"
+  ],
+  "key": {
+    "T": {
+      "item": "create:copper_casing"
+    },
+    "P": {
+      "item": "minecraft:dried_kelp"
+    },
+    "A": {
+      "tag": "kubejs:hydraulic_mechanism"
+    }
+  },
+  "result": {
+    "item": "create:spout"
+  }
+}

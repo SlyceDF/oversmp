@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 35,
+  "ingredient": {
+    "item": "createchromaticreturn:andesite_component"
+  },
+  "result": "create:chute"
+}

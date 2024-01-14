@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:casting_basin",
+  "fluid": {
+    "name": "kubejs:pahoehoe_lava",
+    "amount": 450
+  },
+  "result": "minecraft:basalt",
+  "cooling_time": 125
+}

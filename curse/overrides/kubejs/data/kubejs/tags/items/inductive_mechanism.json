@@ -1,0 +1,7 @@
+{
+  "replace": "false",
+  "values": [
+    "kubejs:inductive_mechanism",
+    "kubejs:universal_mechanism"
+  ]
+}

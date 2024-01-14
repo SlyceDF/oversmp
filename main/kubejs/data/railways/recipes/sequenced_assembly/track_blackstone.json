@@ -1,0 +1,79 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "minecraft:blackstone_slab"
+  },
+  "transitionalItem": {
+    "item": "railways:track_incomplete_blackstone"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "railways:track_incomplete_blackstone"
+        },
+        {
+          "item": "minecraft:gold_nugget"
+        }
+      ],
+      "results": [
+        {
+          "item": "railways:track_incomplete_blackstone"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "railways:track_incomplete_blackstone"
+        },
+        {
+          "item": "minecraft:gold_nugget"
+        }
+      ],
+      "results": [
+        {
+          "item": "railways:track_incomplete_blackstone"
+        }
+      ]
+    },
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "railways:track_incomplete_blackstone"
+    },
+    {
+      "fluid": "kubejs:creosote_oil",
+      "amount": 50
+    }
+   ],
+  "results": [
+    {
+          "item": "railways:track_incomplete_blackstone"
+  }
+ ]
+},
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "railways:track_incomplete_blackstone"
+        }
+      ],
+      "results": [
+        {
+          "item": "railways:track_incomplete_blackstone"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "railways:track_blackstone"
+    }
+  ],
+  "loops": 1
+}

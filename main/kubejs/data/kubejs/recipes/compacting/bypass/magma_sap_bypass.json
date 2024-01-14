@@ -1,0 +1,35 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "tag": "overchisel:stripped_crimson"
+    },
+    {
+      "tag": "overchisel:stripped_crimson"
+    },
+    {
+      "tag": "overchisel:stripped_crimson"
+    },
+    {
+      "tag": "overchisel:stripped_crimson"
+    },
+    {
+      "tag": "overchisel:stripped_crimson"
+    },
+    {
+      "tag": "overchisel:stripped_crimson"
+    },
+    {
+      "item": "minecraft:bucket"
+    },
+    {
+      "fluid": "minecraft:lava",
+      "amount": 500
+    }
+  ],
+  "results": [
+    {
+      "item": "overchisel:magma_sap_bucket"
+    }
+  ]
+}

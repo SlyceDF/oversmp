@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "screwdriver",
+  "pattern": [
+    "  R",
+    " L ",
+    "I  "
+  ],
+  "key": {
+    "R": { "item": "supercircuitmaker:tiny_redstone" },
+    "L": { "item": "kubejs:lapis_alloy" },
+    "I": { "tag": "forge:rods/iron" }
+  },
+  "result": {
+    "item": "supercircuitmaker:screwdriver",
+    "count": 1
+  }
+}

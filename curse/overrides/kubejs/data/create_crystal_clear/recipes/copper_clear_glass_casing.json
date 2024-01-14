@@ -1,0 +1,16 @@
+{
+  "type": "create:item_application",
+  "ingredients": [
+    {
+      "item": "create:copper_casing"
+    },
+    {
+      "item": "tconstruct:clear_glass"
+    }
+  ],
+  "results": [
+    {
+      "item": "create_crystal_clear:copper_clear_glass_casing"
+    }
+  ]
+}

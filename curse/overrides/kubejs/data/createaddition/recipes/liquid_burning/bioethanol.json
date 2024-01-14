@@ -1,0 +1,8 @@
+{
+	"type":"createaddition:liquid_burning",
+	"input": {
+      	"fluid": "createaddition:bioethanol",
+      	"amount": 1000
+	},
+	"burnTime": 6000
+}

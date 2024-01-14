@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "tag": "forge:dusts/uranium"
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:uranium_238",
+      "chance": 0.5
+    },
+    {
+      "item": "kubejs:uranium_235",
+      "chance": 0.2
+    }
+  ],
+  "processingTime": 200
+}

@@ -1,0 +1,20 @@
+{
+  "type": "pneumaticcraft:thermo_plant",
+  "item_input": {
+    "item": "minecraft:weathered_cut_copper_stairs"
+  },
+  "fluid_input": {
+    "type": "pneumaticcraft:fluid",
+    "fluid": "chemlib:oxygen_fluid",
+    "amount": 15
+  },
+  "item_output": {
+    "item": "minecraft:oxidized_cut_copper_stairs"
+  },
+  "temperature": {
+    "min_temp": 313
+  },
+  "pressure": 1.5,
+  "speed": 1.333,
+  "exothermic": false
+}

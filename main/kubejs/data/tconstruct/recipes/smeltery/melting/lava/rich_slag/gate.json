@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "kubejs:rich_slag_fence_gate"
+  },
+  "result": {
+    "fluid": "minecraft:lava",
+    "amount": 2200
+  },
+  "temperature": 990,
+  "time": 1738
+}

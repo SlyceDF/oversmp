@@ -1,0 +1,39 @@
+{
+  "type": "createsifter:sifting",
+  "ingredients": [
+    {
+      "item": "createsifter:zinc_mesh"
+    },
+    {
+      "item": "minecraft:gravel"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:clay_ball",
+      "chance": 0.4
+    },
+    {
+      "item": "byg:mud_ball",
+      "chance": 0.15
+    },
+    {
+      "item": "byg:soapstone",
+      "chance": 0.1
+    },
+    {
+      "item": "minecraft:tuff",
+      "chance": 0.1
+    },
+    {
+      "item": "minecraft:calcite",
+      "chance": 0.05
+    },
+    {
+      "item": "minecraft:smooth_basalt",
+      "chance": 0.05
+    }
+  ],
+  "processingTime": 300,
+  "waterlogged": true
+}

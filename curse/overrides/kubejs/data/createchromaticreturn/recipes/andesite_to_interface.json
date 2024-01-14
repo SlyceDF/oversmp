@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 40,
+  "ingredient": {
+    "item": "createchromaticreturn:andesite_component"
+  },
+  "result": "create:portable_storage_interface"
+}

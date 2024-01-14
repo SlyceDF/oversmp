@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "kubejs:slag_pressure_plate"
+  },
+  "result": {
+    "fluid": "kubejs:pahoehoe_lava",
+    "amount": 200
+  },
+  "temperature": 950,
+  "time": 148
+}

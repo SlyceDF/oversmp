@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "s",
+    "w"
+  ],
+  "key": {
+    "s": {
+      "item": "overchisel:strengthened_string"
+    },
+    "w": {
+      "item": "kubejs:wax"
+    }
+  },
+  "result": {
+    "item": "minecraft:candle",
+    "count": 4
+  }
+}

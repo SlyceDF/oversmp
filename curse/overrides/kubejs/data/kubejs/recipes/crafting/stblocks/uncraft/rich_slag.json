@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:storage_blocks/rich_slag"
+    }
+  ],
+  "result": {
+    "item": "kubejs:rich_slag",
+    "count": 9
+  }
+}

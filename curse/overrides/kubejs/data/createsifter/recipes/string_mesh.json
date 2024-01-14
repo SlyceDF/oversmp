@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " C ",
+    "STS",
+    "SSS"
+  ],
+  "key": {
+    "T": {
+      "item": "minecraft:string"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "C": {
+      "item": "farmersdelight:canvas"
+    }
+  },
+  "result": {
+    "item": "createsifter:string_mesh",
+    "count": 1
+  }
+}

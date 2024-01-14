@@ -1,0 +1,20 @@
+{
+  "type": "pneumaticcraft:thermo_plant",
+  "item_input": {
+    "item": "create:exposed_copper_tile_slab"
+  },
+  "fluid_input": {
+    "type": "pneumaticcraft:fluid",
+    "fluid": "chemlib:oxygen_fluid",
+    "amount": 2
+  },
+  "item_output": {
+    "item": "create:weathered_copper_tile_slab"
+  },
+  "temperature": {
+    "min_temp": 313
+  },
+  "pressure": 1.5,
+  "speed": 9,
+  "exothermic": false
+}

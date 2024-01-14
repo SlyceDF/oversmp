@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "createchromaticreturn:brass_component"
+  },
+  "addition": {
+    "tag": "forge:plates/copper"
+  },
+  "result": {
+    "item": "create:display_link",
+    "count": 24
+  }
+}

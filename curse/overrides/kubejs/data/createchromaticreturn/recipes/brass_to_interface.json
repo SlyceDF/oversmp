@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 40,
+  "ingredient": {
+    "item": "createchromaticreturn:brass_component"
+  },
+  "result": "createaddition:portable_energy_interface"
+}

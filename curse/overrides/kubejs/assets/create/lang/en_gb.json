@@ -1,0 +1,10 @@
+{
+  "block.create.framed_glass_door": "Cut Glass Door",
+  "block.create.framed_glass_trapdoor": "Cut Glass Trapdoor",
+  "block.create.framed_glass": "Cut Glass",
+  "block.create.horizontal_framed_glass": "Horizontal Cut Glass",
+  "block.create.vertical_framed_glass": "Vertical Cut Glass",
+  "block.create.framed_glass_pane": "Cut Glass Pane",
+  "block.create.horizontal_framed_glass_pane": "Horizontal Cut Glass Pane",
+  "block.create.vertical_framed_glass_pane": "Vertical Cut Glass Pane"
+}

@@ -1,0 +1,31 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "overchisel:strengthened_string"
+    },
+    {
+      "item": "overchisel:strengthened_string"
+    },
+    {
+      "item": "overchisel:strengthened_string"
+    },
+    {
+      "item": "minecraft:bucket"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:string",
+      "count": 3
+    },
+    {
+      "item": "overchisel:resin_bucket"
+    },
+    {
+      "item": "overchisel:cellulose",
+      "count": 3
+    }
+  ],
+  "heatRequirement": "heated"
+}

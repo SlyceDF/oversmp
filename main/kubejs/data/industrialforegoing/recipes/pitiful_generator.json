@@ -1,0 +1,46 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "values": [
+            {
+              "item": "industrialforegoing:pitiful_generator",
+              "type": "forge:item_exists"
+            }
+          ],
+          "type": "forge:and"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+          "pdp",
+          "gmg",
+          "pfp"
+        ],
+        "key": {
+          "p": {
+            "item": "quark:sturdy_stone"
+          },
+          "d": {
+            "item": "kubejs:generating_coil"
+          },
+          "g": {
+            "tag": "forge:ingots/constantan"
+          },
+          "m": {
+            "tag": "industrialforegoing:machine_frame/pity"
+          },
+          "f": {
+            "item": "ae2:vibration_chamber"
+          }
+        },
+        "result": {
+          "item": "industrialforegoing:pitiful_generator"
+        }
+      }
+    }
+  ]
+}

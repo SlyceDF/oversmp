@@ -1,0 +1,21 @@
+{
+  "type": "pneumaticcraft:pressure_chamber",
+  "inputs": [
+    {
+      "item": "pneumaticcraft:air_canister"
+    },
+    {
+      "tag": "forge:plates/copper"
+    },
+    {
+      "item": "create:andesite_alloy"
+    }
+  ],
+  "pressure": 4,
+  "results": [
+    {
+      "item": "alloyedguns:compressed_air_canister",
+      "count": 1
+    }
+  ]
+}

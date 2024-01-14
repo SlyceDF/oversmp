@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 0 ",
+    "121",
+    " 3 "
+  ],
+  "key": {
+    "0": {
+      "tag": "forge:ingots/copper"
+    },
+    "1": {
+      "tag": "extendedgears:small_cogwheel"
+    },
+    "2": {
+      "item": "create_sa:hydraulic_engine"
+    },
+    "3": {
+      "item": "create_sa:copper_magnet"
+    }
+  },
+  "result": {
+    "item": "create_sa:block_picker",
+    "count": 1
+  }
+}

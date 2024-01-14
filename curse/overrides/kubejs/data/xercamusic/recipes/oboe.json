@@ -1,0 +1,12 @@
+
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern": [
+        "iii",
+        "sss"
+    ],
+    "key": {"s": {"item": "minecraft:stick"}, "i": {"tag": "forge:nuggets/aluminum"}},
+    "result": {"item": "xercamusic:oboe"}
+}
+        

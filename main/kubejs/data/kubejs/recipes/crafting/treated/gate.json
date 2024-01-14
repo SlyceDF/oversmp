@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aAa",
+    "aAa"
+  ],
+  "key": {
+    "A": {
+      "item": "kubejs:treated_planks"
+    },
+    "a": {
+      "tag": "forge:rods/wooden"
+    }
+  },
+  "result": {
+    "item": "kubejs:treated_fence_gate"
+  }
+}

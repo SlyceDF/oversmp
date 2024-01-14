@@ -1,0 +1,15 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "tag": "tconstruct:casts/single_use/ingot"
+  },
+  "fluid": {
+    "name": "kubejs:pahoehoe_lava",
+    "amount": 225
+  },
+  "cast_consumed": true
+  "result": {
+    "item": "kubejs:slag_brick"
+  },
+  "cooling_time": 97
+}

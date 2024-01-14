@@ -1,0 +1,8 @@
+{
+  "type": "clayworks:baking",
+  "ingredient": {
+    "item": "kubejs:slag"
+  },
+  "result": "kubejs:rockwool",
+  "cookingtime": 100
+}

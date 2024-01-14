@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MC",
+    "CM"
+  ],
+  "key": {
+    "M": {
+      "item": "create:scoria"
+    },
+    "C": {
+      "item": "minecraft:cobblestone"
+    }
+  },
+  "result": {
+    "item": "byg:scoria_cobblestone",
+    "count": 4
+  }
+}

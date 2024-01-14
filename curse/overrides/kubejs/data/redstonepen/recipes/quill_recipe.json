@@ -1,0 +1,14 @@
+{
+  "type": "redstonepen:crafting_extended_shapeless",
+  "ingredients": [
+    { "item": "minecraft:redstone_block" },
+    { "item": "supercircuitmaker:redstone_stick" },
+    { "item": "create:andesite_alloy" },
+    { "item": "kubejs:redstone_alloy" },
+    { "item": "kubejs:redstone_alloy" },
+    { "item": "minecraft:feather" }
+  ],
+  "result": {
+    "item": "redstonepen:quill"
+  }
+}

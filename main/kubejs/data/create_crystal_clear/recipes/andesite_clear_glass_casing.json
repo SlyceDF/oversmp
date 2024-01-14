@@ -1,0 +1,16 @@
+{
+  "type": "create:item_application",
+  "ingredients": [
+    {
+      "item": "create:andesite_casing"
+    },
+    {
+      "item": "tconstruct:clear_glass"
+    }
+  ],
+  "results": [
+    {
+      "item": "create_crystal_clear:andesite_clear_glass_casing"
+    }
+  ]
+}

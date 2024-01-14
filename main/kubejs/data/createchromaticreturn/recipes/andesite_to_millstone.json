@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "createchromaticreturn:andesite_component"
+  },
+  "addition": {
+    "tag": "extendedgears:small_cogwheel"
+  },
+  "result": {
+    "item": "create:millstone",
+    "count": 32
+  }
+}

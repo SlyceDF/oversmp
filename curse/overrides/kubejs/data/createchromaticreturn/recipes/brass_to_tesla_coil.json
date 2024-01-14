@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "createchromaticreturn:brass_component"
+  },
+  "addition": {
+    "item": "kubejs:absorbing_coil"
+  },
+  "result": {
+    "item": "createaddition:tesla_coil",
+    "count": 24
+  }
+}

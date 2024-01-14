@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "createchromaticreturn:andesite_component"
+  },
+  "addition": {
+    "item": "create:propeller"
+  },
+  "result": {
+    "item": "create:encased_fan",
+    "count": 32
+  }
+}

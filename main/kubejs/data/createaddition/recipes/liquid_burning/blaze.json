@@ -1,0 +1,9 @@
+{
+	"type":"createaddition:liquid_burning",
+	"input": {
+      	"fluid": "tconstruct:blazing_blood",
+      	"amount": 1000
+	},
+	"burnTime": 100000,
+	"superheated": true
+}

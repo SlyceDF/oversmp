@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#B#",
+    "BCB",
+    "#B#"
+  ],
+  "key": {
+    "#": {
+      "item": "tconstruct:scorched_brick"
+    },
+    "B": {
+      "tag": "forge:gems/quartz"
+    },
+    "C": {
+      "item": "create:fluid_tank"
+    }
+  },
+  "result": {
+    "item": "tconstruct:scorched_fuel_gauge"
+  }
+}

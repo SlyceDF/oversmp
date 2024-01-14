@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 38,
+  "ingredient": {
+    "item": "createchromaticreturn:brass_component"
+  },
+  "result": "create:smart_chute"
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RC ",
+    "TPR"
+  ],
+  "key": {
+    "T": {
+      "item": "minecraft:redstone_torch"
+    },
+    "C": {
+      "item": "minecraft:lever"
+    },
+    "R": {
+      "tag": "forge:dusts/redstone"
+    },
+    "P": {
+      "item": "supercircuitmaker:circuit"
+    }
+  },
+  "result": {
+    "item": "create:powered_latch"
+  }
+}

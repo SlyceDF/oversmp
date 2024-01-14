@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "kubejs:honeydew"
+    }
+  ],
+  "result": {
+    "item": "minecraft:sugar"
+  }
+}

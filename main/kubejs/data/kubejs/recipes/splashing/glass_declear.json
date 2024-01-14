@@ -1,0 +1,13 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "tconstruct:clear_glass"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:glass"
+    }
+  ]
+}

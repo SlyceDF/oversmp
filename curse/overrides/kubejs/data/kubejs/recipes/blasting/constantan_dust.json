@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "kubejs:constantan_dust"
+  },
+  "result": "kubejs:constantan_ingot",
+  "cookingtime": 100
+}

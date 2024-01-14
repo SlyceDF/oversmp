@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/lapis_alloy"
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:lapis_sheet"
+    }
+  ]
+}

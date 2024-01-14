@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "iii",
+    "iCi",
+    "iii"
+  ],
+  "key": {
+    "C": {
+      "item": "kubejs:circuit_scrap"
+    },
+    "i": {
+      "tag": "forge:ingots/invar"
+    }
+  },
+  "result": {
+    "item": "kubejs:circuit_scrap",
+    "count": 2
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "createchromaticreturn:shadow_steel"
+    },
+    {
+      "item": "createchromaticreturn:shadow_steel"
+    },
+    {
+      "item": "createchromaticreturn:shadow_steel"
+    },
+    {
+      "item": "createchromaticreturn:shadow_steel"
+    },
+    {
+      "item": "createchromaticreturn:shadow_steel"
+    },
+    {
+      "item": "createchromaticreturn:shadow_steel"
+    },
+    {
+      "item": "createchromaticreturn:shadow_steel"
+    },
+    {
+      "item": "createchromaticreturn:shadow_steel"
+    },
+    {
+      "item": "minecraft:redstone_block"
+    },
+    {
+      "item": "minecraft:redstone_block"
+    },
+    {
+      "item": "minecraft:redstone_block"
+    },
+    {
+      "item": "minecraft:redstone_block"
+    },
+    {
+      "item": "minecraft:redstone_block"
+    },
+    {
+      "item": "minecraft:redstone_block"
+    },
+    {
+      "item": "minecraft:redstone_block"
+    },
+    {
+      "item": "minecraft:redstone_block"
+    },
+    {
+      "item": "minecraft:netherite_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "createchromaticreturn:durasteel_ingot",
+      "count": 6
+    }
+  ],
+  "heatRequirement": "superheated"
+}

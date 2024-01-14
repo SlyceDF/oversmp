@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "I#I",
+    "#R#",
+    "I#I"
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:plates/andesite_alloy"
+    },
+    "#": {
+      "tag": "forge:silicon"
+    },
+    "R": {
+      "tag": "kubejs:sturdy_mechanism"
+    }
+  },
+  "result": {
+    "item": "computercraft:wired_modem",
+    "count":2
+  }
+}

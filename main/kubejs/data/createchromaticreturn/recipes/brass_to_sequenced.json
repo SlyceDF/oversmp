@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 30,
+  "ingredient": {
+    "item": "createchromaticreturn:brass_component"
+  },
+  "result": "create:sequenced_gearshift"
+}

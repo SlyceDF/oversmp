@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SPS",
+    " B "
+  ],
+  "key": {
+    "S": {
+      "tag": "forge:plates/copper"
+    },
+    "B": {
+      "item": "quark:grate"
+    },
+    "P": {
+      "item": "overchisel:mountable_copper_pipe"
+    }
+  },
+  "result": {
+    "item": "sliceanddice:sprinkler",
+    "count": 3
+  }
+}

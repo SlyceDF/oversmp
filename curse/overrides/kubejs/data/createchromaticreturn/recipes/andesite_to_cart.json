@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 17,
+  "ingredient": {
+    "item": "createchromaticreturn:andesite_component"
+  },
+  "result": "create:cart_assembler"
+}

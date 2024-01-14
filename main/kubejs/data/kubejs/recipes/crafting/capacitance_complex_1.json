@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "sCs",
+    "sZs",
+    "fFf"
+  ],
+  "key": {
+    "C": {
+      "tag": "forge:plates/copper"
+    },
+    "Z": {
+      "tag": "forge:plates/zinc"
+    },
+    "s": {
+      "tag": "forge:nuggets/steel"
+    },
+    "f": {
+      "tag": "forge:plates/ferrite"
+    },
+    "F": {
+      "tag": "forge:ingots/ferrite"
+    }
+  },
+  "result": {
+    "item": "kubejs:capacitance_complex",
+    "count": 4
+  }
+}

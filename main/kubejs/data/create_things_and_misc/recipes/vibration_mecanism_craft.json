@@ -1,0 +1,65 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "create_things_and_misc:rose_quartz_sheet"
+  },
+  "transitionalItem": {
+    "item": "create_things_and_misc:incomplete_vibration_mechanism"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create_things_and_misc:incomplete_vibration_mechanism"
+        },
+        {
+          "item": "kubejs:resonance_tube"
+        }
+      ],
+      "results": [
+        {
+          "item": "create_things_and_misc:incomplete_vibration_mechanism"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create_things_and_misc:incomplete_vibration_mechanism"
+        },
+        {
+          "tag": "extendedgears:small_cogwheel"
+        }
+      ],
+      "results": [
+        {
+          "item": "create_things_and_misc:incomplete_vibration_mechanism"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create_things_and_misc:incomplete_vibration_mechanism"
+        },
+        {
+          "tag": "kubejs:solenoid"
+        }
+      ],
+      "results": [
+        {
+          "item": "create_things_and_misc:incomplete_vibration_mechanism"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "create_things_and_misc:vibration_mechanism"
+    }
+  ],
+  "loops": 5
+}

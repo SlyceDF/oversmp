@@ -1,0 +1,51 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "kubejs:transmitting_coil"
+  },
+  "transitionalItem": {
+    "item": "kubejs:incomplete_inductive_coil"
+  },
+  "sequence": [
+  {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_inductive_coil"
+        },
+        {
+          "tag": "forge:plates/matter_plastics"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:incomplete_inductive_coil"
+        }
+      ]
+    },
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "kubejs:incomplete_inductive_coil"
+    },
+    {
+      "fluid": "tconstruct:molten_invar",
+      "amount": 20
+    }
+  ],
+  "results": [
+    {
+          "item": "kubejs:incomplete_inductive_coil"
+  }
+ ]
+}
+  ],
+  "results": [
+    {
+      "item": "kubejs:inductive_coil",
+      "count": 1
+    }
+  ],
+  "loops": 1
+}

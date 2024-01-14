@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "create:andesite_alloy"
+    },
+    {
+      "tag": "extendedgears:large_cogwheel"
+    },
+    {
+      "tag": "extendedgears:small_cogwheel"
+    },
+    {
+      "tag": "minecraft:logs"
+    }
+  ],
+  "result": {
+    "item": "kubejs:kinetic_mechanism",
+    "count": 2
+  }
+}

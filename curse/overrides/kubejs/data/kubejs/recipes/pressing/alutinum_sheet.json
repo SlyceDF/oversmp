@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/alutinum"
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:alutinum_sheet"
+    }
+  ]
+}

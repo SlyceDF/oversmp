@@ -1,0 +1,64 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "createchromaticreturn:chromatic_compound"
+    },
+    {
+      "item": "createchromaticreturn:chromatic_compound"
+    },
+    {
+      "item": "createchromaticreturn:chromatic_compound"
+    },
+    {
+      "item": "createchromaticreturn:chromatic_compound"
+    },
+    {
+      "item": "createchromaticreturn:chromatic_compound"
+    },
+    {
+      "item": "createchromaticreturn:chromatic_compound"
+    },
+    {
+      "item": "createchromaticreturn:chromatic_compound"
+    },
+    {
+      "item": "createchromaticreturn:chromatic_compound"
+    },
+    {
+      "item": "createchromaticreturn:chromatic_compound"
+    },
+    {
+      "item": "createchromaticreturn:chromatic_compound"
+    },
+    {
+      "item": "createchromaticreturn:chromatic_compound"
+    },
+    {
+      "item": "createchromaticreturn:chromatic_compound"
+    },
+    {
+      "item": "createchromaticreturn:chromatic_compound"
+    },
+    {
+      "item": "createchromaticreturn:chromatic_compound"
+    },
+    {
+      "item": "createchromaticreturn:chromatic_compound"
+    },
+    {
+      "item": "createchromaticreturn:chromatic_compound"
+    },
+    {
+      "fluid": "createchromaticreturn:shadow_essence",
+      "amount": 1000
+    }
+  ],
+  "results": [
+    {
+      "item": "createchromaticreturn:shadow_steel",
+      "count": 15
+    }
+  ],
+  "heatRequirement": "superheated"
+}

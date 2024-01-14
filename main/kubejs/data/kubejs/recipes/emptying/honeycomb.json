@@ -1,0 +1,17 @@
+{
+  "type": "create:emptying",
+  "ingredients": [
+    {
+      "item": "minecraft:honeycomb"
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:wax_mote"
+    },
+    {
+      "fluid": "create:honey",
+      "amount": 100
+    }
+  ]
+}

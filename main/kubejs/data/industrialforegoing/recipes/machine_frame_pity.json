@@ -1,0 +1,41 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "values": [
+            {
+              "item": "industrialforegoing:machine_frame_pity",
+              "type": "forge:item_exists"
+            }
+          ],
+          "type": "forge:and"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+          "WIW",
+          "IRI",
+          "WIW"
+        ],
+        "key": {
+          "W": {
+            "item": "create:andesite_casing"
+          },
+          "I": {
+            "tag": "forge:plates/alutinum"
+          },
+          "R": {
+            "tag": "kubejs:sturdy_mechanism"
+          }
+        },
+        "result": {
+          "item": "industrialforegoing:machine_frame_pity",
+          "count": 4
+        }
+      }
+    }
+  ]
+}

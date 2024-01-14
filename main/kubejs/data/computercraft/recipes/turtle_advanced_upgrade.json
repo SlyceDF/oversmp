@@ -1,0 +1,20 @@
+{
+  "type": "computercraft:computer_upgrade",
+  "pattern": [
+    "###",
+    "#C#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "compressedcreativity:brass_gilded_lapis_lazuli"
+    },
+    "C": {
+      "item": "computercraft:turtle_normal"
+    }
+  },
+  "result": {
+    "item": "computercraft:turtle_advanced"
+  },
+  "family": "ADVANCED"
+}

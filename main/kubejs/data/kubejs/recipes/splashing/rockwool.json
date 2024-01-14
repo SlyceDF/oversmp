@@ -1,0 +1,13 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "tag": "forge:rockwool/stained"
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:rockwool"
+    }
+  ]
+}

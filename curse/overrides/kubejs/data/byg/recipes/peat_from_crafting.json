@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MC",
+    "CM"
+  ],
+  "key": {
+    "M": {
+      "item": "byg:mud_block"
+    },
+    "C": {
+      "tag": "minecraft:coals"
+    }
+  },
+  "result": {
+    "item": "byg:peat",
+    "count": 4
+  }
+}

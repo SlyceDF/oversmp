@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "a",
+    "b",
+    "g"
+  ],
+  "key": {
+    "a": {
+      "tag": "forge:gems/amethyst"
+    },
+    "b": {
+      "tag": "forge:nuggets/brass"
+    },
+    "g": {
+      "tag": "forge:nuggets/gold"
+    }
+  },
+  "result": {
+    "item": "chiselsandbits:monocle"
+  }
+}

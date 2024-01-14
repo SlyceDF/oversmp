@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "A",
+    "I",
+    "C"
+  ],
+  "key": {
+    "A": {
+      "item": "kubejs:saw_blade"
+    },
+    "I": {
+      "tag": "kubejs:kinetic_mechanism"
+    },
+    "C": {
+      "item": "create:andesite_casing"
+    }
+  },
+  "result": {
+    "item": "create:mechanical_saw"
+  }
+}

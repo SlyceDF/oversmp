@@ -1,0 +1,114 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "tag": "forge:silicon"
+  },
+  "transitionalItem": {
+    "item": "kubejs:incomplete_universal_mechanism"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_universal_mechanism"
+        },
+        {
+          "item": "create:precision_mechanism"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:incomplete_universal_mechanism"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_universal_mechanism"
+        },
+        {
+          "item": "kubejs:hydraulic_mechanism"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:incomplete_universal_mechanism"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_universal_mechanism"
+        },
+        {
+          "item": "kubejs:infernal_mechanism"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:incomplete_universal_mechanism"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_universal_mechanism"
+        },
+        {
+          "item": "kubejs:inductive_mechanism"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:incomplete_universal_mechanism"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_universal_mechanism"
+        },
+        {
+          "item": "create_things_and_misc:vibration_mechanism"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:incomplete_universal_mechanism"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_universal_mechanism"
+        },
+        {
+          "tag": "forge:ingots/invar"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:incomplete_universal_mechanism"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:universal_mechanism",
+      "count": 8
+    }
+  ],
+  "loops": 1
+}

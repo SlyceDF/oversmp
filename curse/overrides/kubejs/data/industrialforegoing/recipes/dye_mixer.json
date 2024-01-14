@@ -1,0 +1,46 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "values": [
+            {
+              "item": "industrialforegoing:dye_mixer",
+              "type": "forge:item_exists"
+            }
+          ],
+          "type": "forge:and"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+          "PFP",
+          "DMD",
+          "PRP"
+        ],
+        "key": {
+          "P": {
+            "tag": "forge:plastic"
+          },
+          "D": {
+            "tag": "forge:dyes"
+          },
+          "M": {
+            "tag": "industrialforegoing:machine_frame/pity"
+          },
+          "R": {
+            "tag": "forge:ingots/alutinum"
+          },
+          "F": {
+            "item": "create:whisk"
+          }
+        },
+        "result": {
+          "item": "industrialforegoing:dye_mixer"
+        }
+      }
+    }
+  ]
+}

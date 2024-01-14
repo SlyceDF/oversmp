@@ -1,0 +1,100 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "kubejs:sturdy_mechanism"
+  },
+  "transitionalItem": {
+    "item": "kubejs:incomplete_infernal_mechanism"
+  },
+  "sequence": [
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "kubejs:incomplete_infernal_mechanism"
+    },
+    {
+      "fluid": "minecraft:lava",
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+          "item": "kubejs:incomplete_infernal_mechanism"
+  }
+ ]
+},
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "kubejs:incomplete_infernal_mechanism"
+    },
+    {
+      "fluid": "tconstruct:liquid_soul",
+      "amount": 1000
+    }
+  ],
+  "results": [
+    {
+          "item": "kubejs:incomplete_infernal_mechanism"
+  }
+ ]
+},
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_infernal_mechanism"
+        },
+        {
+          "item": "create_things_and_misc:crushed_magma"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:incomplete_infernal_mechanism"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_infernal_mechanism"
+        },
+        {
+          "item": "minecraft:nether_brick"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:incomplete_infernal_mechanism"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_infernal_mechanism"
+        },
+        {
+          "item": "minecraft:blackstone"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:incomplete_infernal_mechanism"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:infernal_mechanism",
+      "count": 2
+    }
+  ],
+  "loops": 1
+}

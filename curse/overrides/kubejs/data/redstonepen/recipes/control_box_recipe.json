@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "QRQ",
+    "EPL",
+    "QGQ"
+  ],
+  "key": {
+    "R": { "item": "kubejs:reserver_tube" },
+    "L": { "item": "kubejs:preserver_tube" },
+    "G": { "item": "compressedcreativity:brass_gilded_lapis_lazuli" },
+    "E": { "tag": "forge:dusts/emerald" },
+    "Q": { "item": "supercircuitmaker:circuit" },
+    "P": { "item": "pneumaticcraft:printed_circuit_board" }
+  },
+  "result": {
+    "item": "redstonepen:control_box",
+    "count": 4
+  }
+}

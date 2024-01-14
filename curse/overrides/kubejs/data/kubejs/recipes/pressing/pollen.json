@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "tag": "minecraft:flowers"
+    }
+  ],
+  "results": [
+    {
+      "item": "byg:pollen_dust"
+    }
+  ]
+}

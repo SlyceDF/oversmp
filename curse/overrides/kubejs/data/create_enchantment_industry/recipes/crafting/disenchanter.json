@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "C",
+        "A",
+        "B"
+    ],
+    "key": {
+        "A": {
+            "item": "create:item_drain"
+        },
+        "B": {
+            "item": "kubejs:absorption_catalyst"
+        },
+        "C": {
+            "item": "kubejs:ferrite_compound"
+        }
+    },
+    "result": {
+        "item": "create_enchantment_industry:disenchanter"
+    }
+}

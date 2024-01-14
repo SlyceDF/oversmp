@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "ae2:sky_stone_block"
+    },
+    "b": {
+      "item": "ae2:quartz_glass"
+    },
+    "c": {
+      "item": "create:fluid_tank"
+    }
+  },
+  "result": {
+    "item": "ae2:sky_stone_tank",
+    "count": 4
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:storage_blocks/coal_coke"
+    }
+  ],
+  "result": {
+    "item": "kubejs:coke",
+    "count": 9
+  }
+}

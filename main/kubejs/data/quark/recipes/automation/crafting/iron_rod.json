@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "I",
+    "R"
+  ],
+  "key": {
+    "R": {
+      "tag": "forge:nuggets/steel"
+    },
+    "I": {
+      "tag": "forge:rods/iron"
+    }
+  },
+  "result": {
+    "item": "quark:iron_rod"
+  },
+  "conditions": [
+    {
+      "type": "quark:flag",
+      "flag": "iron_rod"
+    }
+  ]
+}

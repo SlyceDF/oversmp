@@ -1,0 +1,50 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "farmersdelight:pie_crust"
+  },
+  "transitionalItem": {
+    "item": "kubejs:incomplete_pie"
+  },
+  "sequence": [
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "kubejs:incomplete_pie"
+    },
+    {
+      "fluid": "create:chocolate",
+      "amount": 500
+    }
+  ],
+  "results": [
+    {
+          "item": "kubejs:incomplete_pie"
+  }
+ ]
+},
+{
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_pie"
+        },
+        {
+          "item": "minecraft:sugar"
+        }
+      ],
+  "results": [
+    {
+          "item": "kubejs:incomplete_pie"
+  }
+ ]
+    }
+  ],
+  "results": [
+    {
+      "item": "farmersdelight:chocolate_pie"
+    }
+  ],
+  "loops": 1
+}

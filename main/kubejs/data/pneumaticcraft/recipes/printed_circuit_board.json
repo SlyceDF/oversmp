@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "UUU",
+    "CUE",
+    "Tpc"
+  ],
+  "key": {
+    "T": {
+      "item": "pneumaticcraft:transistor"
+    },
+    "C": {
+      "item": "pneumaticcraft:capacitor"
+    },
+    "c": {
+      "item": "createaddition:capacitor"
+    },
+    "U": {
+      "item": "pneumaticcraft:unassembled_pcb"
+    },
+    "E": {
+      "item": "kubejs:abstruse_mechanism"
+    },
+    "p": {
+      "item": "ae2:logic_processor"
+    }
+  },
+  "result": {
+    "item": "pneumaticcraft:printed_circuit_board",
+    "count": 4
+  }
+}

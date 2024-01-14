@@ -1,0 +1,10 @@
+{
+  "type": "redstonepen:crafting_extended_shapeless",
+  "ingredients": [
+    { "item": "redstonepen:relay" },
+    { "item": "minecraft:lever" }
+  ],
+  "result": {
+    "item": "redstonepen:bistable_relay"
+  }
+}

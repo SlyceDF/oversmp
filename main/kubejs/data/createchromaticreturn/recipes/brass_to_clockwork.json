@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "createchromaticreturn:brass_component"
+  },
+  "addition": {
+    "item": "minecraft:clock"
+  },
+  "result": {
+    "item": "create:clockwork_bearing",
+    "count": 40
+  }
+}

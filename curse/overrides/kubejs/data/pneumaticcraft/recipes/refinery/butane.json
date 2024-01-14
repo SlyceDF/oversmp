@@ -1,0 +1,21 @@
+{
+  "type": "pneumaticcraft:refinery",
+  "input": {
+    "type": "pneumaticcraft:fluid",
+    "tag": "forge:butane",
+    "amount": 10
+  },
+  "temperature": {
+    "min_temp": 371
+  },
+  "results": [
+    {
+      "fluid": "chemlib:pentane_fluid",
+      "amount": 8
+    },
+    {
+      "fluid": "chemlib:hydrogen_fluid",
+      "amount": 2
+    }
+  ]
+}

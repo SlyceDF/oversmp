@@ -1,0 +1,11 @@
+{
+  "replace": "false",
+  "values": [
+    "extendedgears:oak_cogwheel",
+    "extendedgears:large_oak_cogwheel",
+    "extendedgears:half_shaft_oak_cogwheel",
+    "extendedgears:large_half_shaft_oak_cogwheel",
+    "extendedgears:shaftless_oak_cogwheel",
+    "extendedgears:large_shaftless_oak_cogwheel"
+  ]
+}

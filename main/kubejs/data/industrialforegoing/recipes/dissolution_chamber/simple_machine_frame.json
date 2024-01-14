@@ -1,0 +1,35 @@
+{
+  "input": [
+    {
+      "tag": "forge:plastic"
+    },
+    {
+      "tag": "industrialforegoing:machine_frame/pity"
+    },
+    {
+      "tag": "forge:plastic"
+    },
+    {
+      "tag": "forge:ingots/silver"
+    },
+    {
+      "tag": "forge:ingots/silver"
+    },
+    {
+      "tag": "forge:gears/gold"
+    },
+    {
+      "tag": "kubejs:inductive_mechanism"
+    },
+    {
+      "tag": "forge:gears/gold"
+    }
+  ],
+  "inputFluid": "{FluidName:\"industrialforegoing:latex\",Amount:250}",
+  "processingTime": 300,
+  "output": {
+    "item": "industrialforegoing:machine_frame_simple",
+    "count": 1
+  },
+  "type": "industrialforegoing:dissolution_chamber"
+}

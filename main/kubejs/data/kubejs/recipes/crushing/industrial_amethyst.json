@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "kubejs:industrial_amethyst"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:amethyst_shard",
+      "count": 2
+    },
+    {
+      "item": "minecraft:amethyst_shard",
+      "chance": 0.5
+    }
+  ],
+  "processingTime": 200
+}

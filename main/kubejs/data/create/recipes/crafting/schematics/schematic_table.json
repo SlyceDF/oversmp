@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WWW",
+    "lSl",
+    "lSl"
+  ],
+  "key": {
+    "W": {
+      "tag": "minecraft:wooden_slabs"
+    },
+    "S": {
+      "item": "minecraft:smooth_stone"
+    },
+    "l": {
+      "item": "kubejs:preserver_tube"
+    }
+  },
+  "result": {
+    "item": "create:schematic_table"
+  }
+}

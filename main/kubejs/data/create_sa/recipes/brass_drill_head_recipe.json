@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "010",
+    "121",
+    "030"
+  ],
+  "key": {
+    "0": {
+      "tag": "forge:ingots/brass"
+    },
+    "1": {
+      "item": "create:andesite_alloy"
+    },
+    "2": {
+      "item": "create_sa:brass_pickaxe"
+    },
+    "3": {
+      "item": "kubejs:drill_head"
+    }
+  },
+  "result": {
+    "item": "create_sa:brass_drill_head",
+    "count": 1
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "tag": "forge:nuggets/platinum"
+    },
+    {
+      "tag": "forge:nuggets/platinum"
+    },
+    {
+      "tag": "forge:nuggets/platinum"
+    },
+    {
+      "tag": "forge:nuggets/platinum"
+    },
+    {
+      "tag": "forge:nuggets/platinum"
+    },
+    {
+      "tag": "forge:nuggets/aluminum"
+    },
+    {
+      "tag": "forge:nuggets/aluminum"
+    },
+    {
+      "tag": "forge:nuggets/aluminum"
+    },
+    {
+      "tag": "forge:nuggets/aluminum"
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:alutinum",
+      "count": 6
+    }
+  ]
+}

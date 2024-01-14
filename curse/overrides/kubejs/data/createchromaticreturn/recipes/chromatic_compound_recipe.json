@@ -1,0 +1,33 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "createchromaticreturn:glowing_ingot"
+    },
+    {
+      "item": "createchromaticreturn:glowing_ingot"
+    },
+    {
+      "item": "create:polished_rose_quartz"
+    },
+    {
+      "item": "create:polished_rose_quartz"
+    },
+    {
+      "item": "create:powdered_obsidian"
+    },
+    {
+      "item": "create:powdered_obsidian"
+    },
+    {
+      "item": "create:powdered_obsidian"
+    }
+  ],
+  "results": [
+    {
+      "count": 2,
+      "item": "createchromaticreturn:chromatic_compound"
+    }
+  ],
+  "heatRequirement": "superheated"
+}

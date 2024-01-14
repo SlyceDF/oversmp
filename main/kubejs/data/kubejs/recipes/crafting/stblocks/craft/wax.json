@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AA",
+    "AA"
+  ],
+  "key": {
+    "A": {
+      "item": "kubejs:wax"
+    }
+  },
+  "result": {
+    "item": "kubejs:wax_block"
+  }
+}

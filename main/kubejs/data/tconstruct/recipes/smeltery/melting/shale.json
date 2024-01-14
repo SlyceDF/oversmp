@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "quark:shale"
+  },
+  "result": {
+    "fluid": "kubejs:natural_gas",
+    "amount": 200
+  },
+  "temperature": 125,
+  "time": 40
+}

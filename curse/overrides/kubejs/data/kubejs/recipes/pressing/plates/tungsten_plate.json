@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/tungsten"
+    }
+  ],
+  "results": [
+    {
+      "item": "chemlib:tungsten_plate"
+    }
+  ]
+}

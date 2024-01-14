@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "machines",
+  "pattern": [
+    "IPI",
+    "MRM",
+    "ISI"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "P": {
+      "item": "minecraft:piston"
+    },
+    "R": {
+      "item": "createchromaticreturn:magmatic_mechanism"
+    },
+    "S": {
+      "tag": "kubejs:vibration_mechanism"
+    },
+    "M": {
+      "tag": "kubejs:sturdy_mechanism"
+    }
+  },
+  "result": {
+    "item": "alchemistry:dissolver"
+  }
+}

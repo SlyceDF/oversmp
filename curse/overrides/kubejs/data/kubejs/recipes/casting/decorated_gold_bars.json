@@ -1,0 +1,13 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "item": "tconstruct:gold_bars"
+  },
+  "cast_consumed": true,
+  "fluid": {
+    "tag": "forge:molten_brass",
+    "amount": 10
+  },
+  "result": "quark:gold_bars",
+  "cooling_time": 20
+}

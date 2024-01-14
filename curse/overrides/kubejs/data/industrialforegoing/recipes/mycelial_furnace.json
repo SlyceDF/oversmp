@@ -1,0 +1,46 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "values": [
+            {
+              "item": "industrialforegoing:mycelial_furnace",
+              "type": "forge:item_exists"
+            }
+          ],
+          "type": "forge:and"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+          "BLB",
+          "BCB",
+          "RMR"
+        ],
+        "key": {
+          "R": {
+            "item": "minecraft:redstone"
+          },
+          "B": {
+            "tag": "forge:storage_blocks/coal"
+          },
+          "C": {
+            "item": "minecraft:furnace"
+          },
+          "M": {
+            "tag": "industrialforegoing:machine_frame/simple"
+          },
+          "L": {
+            "item": "kubejs:generating_coil"
+          }
+        },
+        "result": {
+          "item": "industrialforegoing:mycelial_furnace"
+        }
+      }
+    }
+  ]
+}

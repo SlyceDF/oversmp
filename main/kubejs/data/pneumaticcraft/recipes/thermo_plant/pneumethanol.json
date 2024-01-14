@@ -1,0 +1,19 @@
+{
+  "type": "pneumaticcraft:thermo_plant",
+  "item_input": {
+    "item": "minecraft:sugar"
+  },
+  "fluid_input": {
+    "type": "pneumaticcraft:fluid",
+    "fluid": "createaddition:bioethanol",
+    "amount": 125
+  },
+  "fluid_output": {
+    "fluid": "pneumaticcraft:ethanol",
+    "amount": 250
+  },
+  "temperature": {
+    "min_temp": 373
+  },
+  "exothermic": false
+}

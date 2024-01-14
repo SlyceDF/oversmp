@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 24,
+  "ingredient": {
+    "item": "kubejs:copper_machine"
+  },
+  "result": "create:smart_fluid_pipe"
+}

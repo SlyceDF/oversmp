@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CEC",
+    "EXE",
+    "CEC"
+  ],
+  "key": {
+    "C": {
+      "tag": "forge:dyes/gray"
+    },
+    "E": {
+      "tag": "pneumaticcraft:plastic_sheets"
+    },
+    "X": {
+      "item": "ae2:item_cell_housing"
+    }
+  },
+  "result": {
+    "item": "pneumaticcraft:network_data_storage"
+  }
+}

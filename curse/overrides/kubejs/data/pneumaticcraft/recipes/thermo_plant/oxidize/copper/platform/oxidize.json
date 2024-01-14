@@ -1,0 +1,21 @@
+{
+  "type": "pneumaticcraft:thermo_plant",
+  "item_input": {
+    "item": "tconstruct:weathered_copper_platform"
+  },
+  "fluid_input": {
+    "type": "pneumaticcraft:fluid",
+    "fluid": "chemlib:oxygen_fluid",
+    "amount": 10
+  },
+  "item_output": {
+    "item": "tconstruct:oxidized_copper_platform"
+  },
+  "temperature": {
+    "min_temp": 313
+  },
+  "pressure": 1.5,
+  "speed": 2,
+  "air_use_multiplier": 5.0,
+  "exothermic": false
+}

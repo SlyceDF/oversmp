@@ -1,0 +1,8 @@
+{
+   "item.create_sa.steam_engine": "Паровой G-механизм",
+   "item.create_sa.heat_engine": "Тепловой G-механизм",
+   "item.create_sa.hydraulic_engine": "Гидравлический G-механизм",
+   "item.create_sa.incomplete_steam_engine": "Незавершённый паровой G-механизм",
+   "item.create_sa.incomplete_heat_engine": "Незавершённый тепловой G-механизм",
+   "item.create_sa.incomplete_hydraulic_engine": "Незавершённый гидравлический G-механизм"
+}
