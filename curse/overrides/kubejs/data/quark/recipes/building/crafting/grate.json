@@ -8,7 +8,7 @@
     "#": {
       "item": "minecraft:iron_bars"
     }
-  }
+  },
   "result": {
     "item": "quark:grate",
     "count": 3
