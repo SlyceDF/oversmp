@@ -4,8 +4,7 @@
     { "item": "minecraft:redstone_block" },
     { "item": "supercircuitmaker:redstone_stick" },
     { "item": "create:andesite_alloy" },
-    { "item": "kubejs:redstone_alloy" },
-    { "item": "kubejs:redstone_alloy" },
+    { "item": "kubejs:redstone_sac" },
     { "item": "minecraft:feather" }
   ],
   "result": {

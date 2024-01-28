@@ -1,0 +1,18 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "overchisel:glass_shrapnel"
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:silica_gel",
+      "count": 1
+    },
+    {
+      "item": "kubejs:silica_gel",
+      "chance": 0.5
+    }
+  ]
+}

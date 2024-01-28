@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "kubejs:empty_sac"
+    },
+    {
+      "fluid": "kubejs:destabilized_redstone",
+      "nbt": {},
+      "amount": 500
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:redstone_sac"
+    }
+  ]
+}

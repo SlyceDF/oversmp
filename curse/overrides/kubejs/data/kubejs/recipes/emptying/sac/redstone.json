@@ -1,0 +1,17 @@
+{
+  "type": "create:emptying",
+  "ingredients": [
+    {
+      "item": "kubejs:redstone_sac"
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:empty_sac"
+    },
+    {
+      "fluid": "kubejs:destabilized_redstone",
+      "amount": 500
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "kubejs:empty_sac"
+    },
+    {
+      "fluid": "kubejs:glow_ink",
+      "nbt": {},
+      "amount": 500
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:glow_ink_sac"
+    }
+  ]
+}

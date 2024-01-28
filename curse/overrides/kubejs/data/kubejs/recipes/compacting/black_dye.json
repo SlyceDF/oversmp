@@ -1,0 +1,14 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "fluid": "create_enchantment_industry:ink",
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:black_dye"
+    }
+  ]
+}

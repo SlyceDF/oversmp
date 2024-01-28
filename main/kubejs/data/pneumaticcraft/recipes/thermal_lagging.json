@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SWS",
+    "WSW",
+    "SWS"
+  ],
+  "key": {
+    "W": {
+      "tag": "minecraft:wool"
+    },
+    "S": {
+      "item": "kubejs:aerogel"
+    }
+  },
+  "result": {
+    "item": "pneumaticcraft:thermal_lagging",
+    "count": 6
+  }
+}

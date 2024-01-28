@@ -153,8 +153,8 @@
   "item.kubejs.creosote_oil_bucket": "Creosote Oil Bucket",
 
   "item.kubejs.andesite_sheet": "Andesite Alloy Sheet",
-  "item.kubejs.alutinum": "Alutinum Alloy",
-  "item.kubejs.alutinum_sheet": "Alutinum Sheet",
+  "item.kubejs.alutinum": "Alutinium Alloy",
+  "item.kubejs.alutinum_sheet": "Alutinium Sheet",
 
   "block.kubejs.andesite_machine": "Universal Andesite Machine",
   "block.kubejs.brass_machine": "Universal Brass Machine",
@@ -256,5 +256,11 @@
   "item.kubejs.wax_mote": "Wax Mote",
   "item.kubejs.cotton_ball": "Cotton Ball",
   "item.kubejs.enriched_peat": "Enriched Peat",
-  "item.kubejs.honeydew": "Honeydew"
+  "item.kubejs.honeydew": "Honeydew",
+
+  "item.kubejs.empty_sac": "Empty Sac",
+  "item.kubejs.redstone_sac": "Redstone Sac",
+  "item.kubejs.silica_gel": "Silica Gel",
+  "item.kubejs.aerogel": "Aerogel",
+  "fluid.kubejs.glow_ink": "Glow Ink"
 }

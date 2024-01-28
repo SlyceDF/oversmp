@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WWW",
+    "BBB",
+    "WWW"
+  ],
+  "key": {
+    "W": {
+      "item": "pneumaticcraft:thermal_lagging"
+    },
+    "B": {
+      "tag": "forge:ingots/compressed_iron"
+    }
+  },
+  "result": {
+    "item": "pneumaticcraft:heat_pipe",
+    "count": 8
+  }
+}

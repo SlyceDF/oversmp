@@ -256,5 +256,11 @@
   "item.kubejs.wax_mote": "Восковая соринка",
   "item.kubejs.cotton_ball": "Хлопковата",
   "item.kubejs.enriched_peat": "Обогащённый торф",
-  "item.kubejs.honeydew": "Нектар"
+  "item.kubejs.honeydew": "Нектар",
+
+  "item.kubejs.empty_sac": "Пустой чернильный мешок",
+  "item.kubejs.redstone_sac": "Чернильный мешок с краснокамнем",
+  "item.kubejs.silica_gel": "Силикагель",
+  "item.kubejs.aerogel": "Аэрогель",
+  "fluid.kubejs.glow_ink": "Светящиеся чернила"
 }

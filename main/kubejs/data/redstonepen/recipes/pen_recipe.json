@@ -4,8 +4,6 @@
     { "item": "supercircuitmaker:redstone_stick" },
     { "item": "kubejs:redstone_alloy" },
     { "item": "kubejs:reserver_tube" },
-    { "item": "kubejs:reserver_tube" },
-    { "item": "kubejs:reserver_tube" },
     { "tag": "forge:nuggets/invar" },
     { "item": "create:andesite_alloy" },
     { "tag": "forge:rods/iron" }
@@ -14,6 +12,6 @@
     "item": "redstonepen:pen"
   },
   "aspects": {
-    "initial_durability": 4
+    "initial_durability": 1
   }
 }

@@ -1,0 +1,15 @@
+{
+  "type": "pneumaticcraft:pressure_chamber",
+  "inputs": [
+    {
+      "item": "kubejs:silica_gel"
+    }
+  ],
+  "pressure": 3.5,
+  "results": [
+    {
+      "item": "kubejs:aerogel",
+      "count": 2
+    }
+  ]
+}

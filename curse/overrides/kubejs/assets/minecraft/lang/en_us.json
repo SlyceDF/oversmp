@@ -256,5 +256,11 @@
   "item.kubejs.wax_mote": "Wax Mote",
   "item.kubejs.cotton_ball": "Cotton Ball",
   "item.kubejs.enriched_peat": "Enriched Peat",
-  "item.kubejs.honeydew": "Honeydew"
+  "item.kubejs.honeydew": "Honeydew",
+
+  "item.kubejs.empty_sac": "Empty Sac",
+  "item.kubejs.redstone_sac": "Redstone Sac",
+  "item.kubejs.silica_gel": "Silica Gel",
+  "item.kubejs.aerogel": "Aerogel",
+  "fluid.kubejs.glow_ink": "Glow Ink"
 }

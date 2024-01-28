@@ -70,8 +70,11 @@ event.hide('quark:deepslate_furnace')
 event.hide('quark:blackstone_furnace')
 event.hide('#c:workbenches')
 event.hide('#kubejs:removed')
-
+})
+onEvent('jei.add.items', event => {
 event.add('minecraft:sculk_sensor')
+event.add('minecraft:light')
+event.add('minecraft:structure_void')
 })
 onEvent('jei.hide.fluids', event => {
 event.hide('tconstruct:honey')

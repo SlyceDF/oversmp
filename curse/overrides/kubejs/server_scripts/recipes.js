@@ -271,6 +271,13 @@ onEvent('item.tags', event => {
   event.add('forge:slimeballs', 'byg:embur_gel_ball')
 
   event.add('minecraft:sand', 'byg:quartzite_sand')
+  event.remove('create_enchantment_industry:ink_ingredient', 'minecraft:ink_sac')
+  event.add('create_enchantment_industry:ink_ingredient', 'createchromaticreturn:carbon_powder')
+
+  event.add('forge:berries', 'byg:holly_berries')
+  event.add('forge:berries', 'byg:nightshade_berries')
+  event.add('forge:berries', 'byg:crimson_berries')
+  event.add('forge:berries', 'byg:blueberries')
 })
 onEvent('block.tags', event => {
   event.remove('forge:storage_blocks/lead', 'chemlib:lead_metal_block')

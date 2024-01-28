@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "kubejs:empty_sac"
+    },
+    {
+      "fluid": "create_enchantment_industry:ink",
+      "nbt": {},
+      "amount": 500
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:ink_sac"
+    }
+  ]
+}
