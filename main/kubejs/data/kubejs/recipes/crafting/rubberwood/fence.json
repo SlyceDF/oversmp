@@ -6,14 +6,14 @@
   ],
   "key": {
     "A": {
-      "item": "kubejs:treated_planks"
+      "item": "myrtrees:rubberwood_planks"
     },
     "a": {
       "tag": "forge:rods/wooden"
     }
   },
   "result": {
-    "item": "kubejs:treated_fence",
+    "item": "kubejs:rubberwood_fence",
     "count": 6
   }
 }

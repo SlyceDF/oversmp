@@ -5,10 +5,10 @@
   ],
   "key": {
     "a": {
-      "item": "kubejs:treated_planks"
+      "item": "myrtrees:rubberwood_planks"
     }
   },
   "result": {
-    "item": "kubejs:treated_pressure_plate"
+    "item": "kubejs:rubberwood_pressure_plate"
   }
 }

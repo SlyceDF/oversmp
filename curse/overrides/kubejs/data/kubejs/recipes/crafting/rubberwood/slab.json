@@ -5,11 +5,11 @@
   ],
   "key": {
     "p": {
-      "item": "kubejs:treated_planks"
+      "item": "myrtrees:rubberwood_planks"
     }
   },
   "result": {
-    "item": "kubejs:treated_slab",
+    "item": "kubejs:rubberwood_slab",
     "count": 6
   }
 }
