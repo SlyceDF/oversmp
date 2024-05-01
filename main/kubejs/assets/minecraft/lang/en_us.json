@@ -239,6 +239,8 @@
   "block.kubejs.treated_wall": "Treated Wall",
   "block.kubejs.treated_pressure_plate": "Treated Pressure Plate",
   "block.kubejs.treated_button": "Treated Button",
+  "block.kubejs.treated_log": "Treated Log",
+  "block.kubejs.treated_wood": "Treated Wood",
 
   "block.kubejs.treated_bookshelf": "Treated Bookshelf",
   "block.kubejs.bloodshroom_bookshelf": "Bloodshroom Bookshelf",
@@ -262,5 +264,12 @@
   "item.kubejs.redstone_sac": "Redstone Sac",
   "item.kubejs.silica_gel": "Silica Gel",
   "item.kubejs.aerogel": "Aerogel",
-  "fluid.kubejs.glow_ink": "Glow Ink"
+  "fluid.kubejs.glow_ink": "Glow Ink",
+
+  "block.kubejs.rubberwood_slab": "Rubberwood Slab",
+  "block.kubejs.rubberwood_stairs": "Rubberwood Stairs",
+  "block.kubejs.rubberwood_fence": "Rubberwood Fence",
+  "block.kubejs.rubberwood_fence_gate": "Rubberwood Fence Gate",
+  "block.kubejs.rubberwood_pressure_plate": "Rubberwood Pressure Plate",
+  "block.kubejs.rubberwood_button": "Rubberwood Button"
 }

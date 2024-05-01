@@ -239,6 +239,8 @@
   "block.kubejs.treated_wall": "Обработанная ограда",
   "block.kubejs.treated_pressure_plate": "Обработанная нажимная пластина",
   "block.kubejs.treated_button": "Обработанная кнопка",
+  "block.kubejs.treated_log": "Обработанная древесина",
+  "block.kubejs.treated_wood": "Обработанная кора",
 
   "block.kubejs.treated_bookshelf": "Обработанная книжная полка",
   "block.kubejs.bloodshroom_bookshelf": "Кровавая книжная полка",
@@ -262,5 +264,12 @@
   "item.kubejs.redstone_sac": "Чернильный мешок с краснокамнем",
   "item.kubejs.silica_gel": "Силикагель",
   "item.kubejs.aerogel": "Аэрогель",
-  "fluid.kubejs.glow_ink": "Светящиеся чернила"
+  "fluid.kubejs.glow_ink": "Светящиеся чернила",
+
+  "block.kubejs.rubberwood_slab": "Гевейная плита",
+  "block.kubejs.rubberwood_stairs": "Гевейные ступеньки",
+  "block.kubejs.rubberwood_fence": "Гевейный забор",
+  "block.kubejs.rubberwood_fence_gate": "Гевейная калитка",
+  "block.kubejs.rubberwood_pressure_plate": "Гевейная нажимная пластина",
+  "block.kubejs.rubberwood_button": "Гевейная кнопка"
 }

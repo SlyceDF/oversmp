@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "A  ",
+    "AA ",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "kubejs:treated_planks"
+    }
+  },
+  "result": {
+    "item": "kubejs:treated_stairs",
+    "count": 4
+  }
+}

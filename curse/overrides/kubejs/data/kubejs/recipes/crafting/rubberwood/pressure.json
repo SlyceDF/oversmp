@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "kubejs:treated_planks"
+    }
+  },
+  "result": {
+    "item": "kubejs:treated_pressure_plate"
+  }
+}
