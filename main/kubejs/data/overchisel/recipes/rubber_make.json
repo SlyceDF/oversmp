@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 0.3,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "overchisel:latex_bucket"
+  },
+  "result": "overchisel:rubber_bucket"
+}
