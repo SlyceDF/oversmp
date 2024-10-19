@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "kubejs:incomplete_kinetic_mechanism",
+    "kubejs:incomplete_kinetic_mechanism_x4",
+    "kubejs:incomplete_hydraulic_mechanism",
+    "kubejs:incomplete_sturdy_mechanism",
+    "kubejs:incomplete_inductive_mechanism",
+    "kubejs:incomplete_universal_mechanism",
+    "kubejs:incomplete_abstruse_mechanism",
+    "kubejs:incomplete_infernal_mechanism",
+    "kubejs:incomplete_magmatic_mechanism",
+    "kubejs:incomplete_redstone_circuit_plate",
+    "kubejs:incomplete_pie",
+    "kubejs:incomplete_cake",
+    "kubejs:booting_assembly",
+    "kubejs:incomplete_lapis_alloy",
+    "kubejs:incomplete_amethyst_alloy",
+    "kubejs:growing_amethyst_seed",
+    "kubejs:growing_mythril_seed",
+    "kubejs:growing_quartz_cluster",
+    "kubejs:incomplete_generating_coil",
+    "kubejs:incomplete_transmitting_coil",
+    "kubejs:incomplete_absorbing_coil",
+    "kubejs:incomplete_inductive_coil"
+  ]
+}
